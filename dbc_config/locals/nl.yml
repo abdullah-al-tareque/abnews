@@ -1,0 +1,447 @@
+ ---
+sign_in: Aanmelden
+sign_up: Aanmelden
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+register: Registreer
+details: Details
+view_all: bekijken
+order_by: Door Bestel
+none: Geen
+terms_and_conditions: Voorwaarde
+reg_success_message: Je account registratie is succesvol. Een e-mail is verzonden naar uw e-mail. Volg die e-mail te activeren uw account.Thanks
+recover: Recover
+oops: Oeps, pagina niet gevonden
+address: Adres
+all: Alle
+contact_us: Contact
+confirmation: Bevestiging
+tags: Tags
+login: Inloggen
+post_not_found: Video not Found
+view_more: Bekijk meer
+image: Image
+create: Maak
+send: Stuur
+contact_subject: Contact E-mail
+password: Wachtwoord
+confirm_password: Wachtwoord bevestigen
+all_posts: Alle video
+no_posts: Geen Video
+title: Titel
+description: Omschrijving
+status: Status
+actions: Acties
+type: Type
+type_something: Type iets
+content: Content
+category: Categorie
+all_categories: All categorieën
+edit_category: categorie bewerken
+new_category: Nieuwe categorie
+edit: Bewerk
+delete: Verwijder
+name: Naam
+save: Save
+no_parent: Geen enkele ouder
+add_another: toe ander
+export_to_file: Export naar bestand
+options: Options
+all_pages: Alle pagina's
+no_pages: De volgende pagina's
+manage_menu: Beheer menu
+menu_title: menu Title
+menu_alias: menu alias
+show_in_menu: Show in het menu
+page_layout: Pagina-indeling
+content_from: Content van
+url: Url
+seo_options: SEO opties
+meta_description: Meta description
+key_words: Steekwoorden
+crawl_after: Crawl na (dagen)
+all_plugins: Alle plugins
+no_plugins: Geen plugins
+name_and_version: naam en versie
+change_password: wachtwoord wijzigen
+current_password: Huidig wachtwoord
+new_password: Nieuw wachtwoord
+retype_password: Herhaal wachtwoord
+password_reset_info_msg: Gelieve Plaats eerst je nieuwe wachtwoord
+edit_profile: profiel wijzigen
+profile_picture: profiel Picture
+username: Gebruikersnaam
+email: E-mail
+first_name: Voornaam
+last_name: Achternaam
+gender: Geslacht
+phone: Phone
+about_me: Over mij
+facebook_account: Facebook-account
+twitter_account: Twitter-account
+linkedin_account: LinkedIn-account
+gp_account: Google+ account
+account_msg: Vul de koppeling, zonder http: //
+contact_email: Contact E-mail
+webadmin_name: Webadmin Naam
+webadmin_email: Webadmin email
+update: update
+upload: uploaden
+site_title: Site Title
+footer_text: Footer Text
+site_logo: Site Logo
+site_language: Site Taal
+site_text_direction: Site Tekstrichting
+per_page: Pagination Per pagina
+default_page_layout: Default Page Layout
+smtp_email: SMTP e-mail
+smtp_host: SMTP-host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Time-out
+smtp_user: SMTP-gebruikersnaam
+smtp_password: SMTP Password
+generate_site_map: Genereer Sitemap
+sitemap_info_msg: NB: kies welke u wilt worden opgenomen op sitemap xml. Na een succesvolle generatie sitemap.xml wordt opgeslagen onder ROOT directory. U kunt ook dat bestand te bewerken voor het opnemen van je eigen urls.
+pages: Pagina's
+view_xml: bekijken XML
+create_xml: Maak XML
+manage_backups: Beheer Backups
+create_sql_backup: Maak SQL Backup
+create_image_backup: Maak Image Backup
+restore: Restore
+download: Download
+dashboard: Dashboard
+overview_stats_more: Overzicht, statistieken en meer
+visit_site: Bezoek de website
+themes: Thema
+locations: Locaties
+profile: profiel
+agents: Agents
+widgets: Widgets
+all_widgets: Alle widgets
+widget_positions: Widget Posities
+new_post: Nieuwe Post
+pages_and_menu: pagina's & Menu
+new_page: Nieuwe pagina
+menu: Menu
+system: Systeem
+edit_email_text: bewerken Email Text
+admin_settings: Web Admin Instellingen
+sitemap: Sitemap
+activate: Activate
+active_theme: actieve Theme
+available_themes: beschikbare thema's
+all_users: All Users
+create_user: Create User
+export_user_email: Export gebruiker e-mails (.csv)
+profile_info: Profiel Info
+edit_page: Pagina bewerken
+create_widget: Maak Widget
+widget_name: Widget Naam
+activate_deactivate: in- / De-Activate
+show: Show
+available_widgets: Beschikbare Widgets
+active_widgets: Active Widgets
+delete_warning: Weet je zeker wilt doen verwijderen.
+yes: 'Ja'
+no: 'Nee'
+fa_icon: FA icoon klasse
+post_ad: Plaats Ad
+post_ad_subtitle: Zet uw advertentie detail
+signin: Signin
+signup: Aanmelden
+signup_title: Creëer je eigen account
+not_found: Niet gevonden
+purpose: Doel
+select_category: Selecteer categorie
+upload_later_msg: Je zult in staat zijn om gallery foto's en video's te uploaden url na post creatie
+user_panel: Gebruiker panel
+logout: Afmelden
+put_as_comma_seperated: zetten als (,) komma sperated
+added: Toegevoegd
+location: Location
+views: Views
+add_new: toevoegen
+search: Zoek
+contact_mode: Contact Mode
+reset: Reset
+contact: Contact
+type_your_message: Typ hier uw bericht ..
+mail_sent: Mail
+home: Thuis
+list_your_ad: Lijst uw Ad
+print: Print
+remember_me: Remember Me
+forgot_password: Wachtwoord vergeten
+login_to_your_account: Log in op uw account
+register_your_account: Registreer uw account
+male: Man
+female: Vrouw
+state: State
+users: Gebruikers
+ads: Ads
+categories: Categorieën
+top_posts: Top Posts
+default_site_settings: Standaard Site-instellingen
+webadmin_settings: Webadmin Instellingen
+banner_settings: Banner Instellingen
+logged_in_as: Gelogd in als
+password_change_success: wachtwoord veranderd succes
+email_sent_inbox: Een e-mail sturen naar uw inbox.Check dat e-mail.
+password_recovery_link_invalid: Password Recovery Link is niet geldig
+user_updated: Gebruiker Bijgewerkt
+user_deleted: Gebruikers Verwijderde
+data_inserted: gegevens opgenomen
+data_updated: gegevens geactualiseerd
+page_updated: Pagina Bijgewerkt
+page_created: Pagina opgebouwd
+page_deleted: Pagina Deleted
+menu_updated: Menu Bijgewerkt
+site_map_generation_success: Sitemap succes gegenereerd.
+select_option: Maak uw keuze op of meer opties te selecteren.
+image_backup_created: Afbeelding Backup Gemaakt
+language_translated: Taal Vertaald
+backup_deleted: Backup Verwijderde
+database_restored: Database Hersteld
+theme_activated: Thema Activated
+user_created: van gebruikers
+widget_position_updated: Widget Postie Bijgewerkt
+widget_created: Widget Gemaakt
+settings_updated: Instellingen Updated
+widget_data_updated: Widget Gegevens Bijgewerkt
+unable_to_write_widget: Kan widget te schrijven
+admin_change_pass_help: laten indien er geen verandering nodig
+login_with_google: Inloggen met Google
+login_with_facebook: Inloggen met Facebook
+register_for_new_account : Registreer Nieuw account
+site_map : Site Map
+show_site_map : Toon site map
+about : Over
+see_full_documentation: See volledige documentatie
+admin: Admin
+re_password: wachtwoord herhalen
+explain_widget_position: Leg widget posities
+new_ad: New Ad
+select_one: Selecteer Eén
+username_or_email: Gebruikersnaam of e-mail
+post_detail: bericht detail
+edit_user: gebruiker bewerken
+the_field_is_required: De% s veld is verplicht.
+valid_email: De% s veld moet een geldig e-mailadres bevatten.
+min_length: De% s veld moet minimaal% s karakters lang zijn.
+numeric: De% s veld mag alleen nummers bevatten.
+matches: % S veld niet overeenkomt met het veld% s.
+greater_than: De% s veld moet een getal groter dan% s bevatten.
+must_accept_terms: U moet de juridische voorwaarden en conditie
+dont_have_permission: je hebt geen toestemming om deze pagina te bekijken
+email_allready_in_use: al Email in gebruik
+username_allready_in_use: Gebruikersnaam allready in gebruik
+current_password_not_matched: Huidige wachtwoord heb \ 't match
+email_not_matched: -mail niet geëvenaard
+account_not_confirmed: account niet bevestigd
+unique_alias: De% s veld moet uniek zijn
+smtp_email_settings: SMTP e-mailinstellingen
+error_occured: fout opgetreden . Kijk dan op de onderstaande velden
+user_profile: Gebruikers profiel '
+user_email: Gebruiker email
+target_lang_name: Doeltaal
+enable_signup: inschakelen schrijf je
+facebook_app_settings: Facebook-app instellingen
+enable_facebook_login: inschakelen facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook geheime sleutel
+comment_settings: Comment instellingen
+enable_comment: inschakelen commentaar
+disqus_shortname: Disqus Shortname
+active_widget_position: Active widget positie
+upload_and_install: Uploaden en installeren
+install_updates: op Updates installeren / Thema's / Plugins / Widgets
+click_and_edit: Selecteer een template file en klik op Bewerken
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Default SEO instellingen
+find_us_on_facebook: Vind ons op Facebook
+type_anything: Type Anything
+login_failed : Aanmelden mislukt
+debug_email : Debug e-mail
+email_to : Naar e-mail
+ive_read_the: die ik heb gelezen de
+title_city_category: titel, Source of categorie
+css_compression: samenvoegen alle cSS-bestanden
+all_sub_categories : alle Sub categorieën
+no_sub_categories : Geen subcategorieën
+email_cleared: e-mail gewist
+hide_users_profile_phone: verbergen gebruikers profiel telefoon
+features: Features
+new_source: Nieuw bron
+all_sources: All bronnen
+addsource: toevoegen bron
+seo_keywords : SEO zoekwoorden
+seo_description : Seo Beschrijving
+all_videos : Alle video's
+new_video : Nieuwe video
+create_video : Maak video
+edit_video : bewerken video
+no_source : Nee bron
+no_category : : Categorie
+sub_category : Sub Categorie
+category_2: S.Category
+video_updated: video updated
+video_added: video gemaakt
+source: bron
+link: Link
+media: Media
+put_as_comma_separated: Put als komma (,) wordt gescheiden
+site_settings: Site instellingen
+clear_old_videos: Clear oude video
+videos_before: 's voordat
+leave_empty_if_doesnot_matter: Laat leeg als doesn 't toe
+view_less_than: Bekijk minder dan
+without_image: Zonder afbeelding
+you_cant_undo_this_action: kan niet ongedaan deze actie
+video_deleted: 's ontruimde
+general: Algemeen
+moderator: Moderator
+genaral_user_can_create_post: Gebruikers kunnen video's te maken
+moderator_can_create_post: Moderator kan video's te maken
+auto_crawl: Auto crawl
+lazy_load_images: Lazy laden van afbeeldingen
+generate_widgets: genereren widgets
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget gegenereerd
+widget_generation_failed: Widget generatie mislukte
+latest_videos: Laatste
+video_by: Video Door
+top_videos: Top Videos
+source_added: Source Toegevoegd
+no_videos_found: geen videos
+clear: Clear
+seen_by: View
+read_this_on: lezen dit op
+video_source: video van een bron
+video_category: Video uit een categorie
+source_name: Naam
+parent_category: Hoofdcategorie
+videos_grabbed: Video pakte succes
+rss_url: Feed url
+auto_grabbing: Auto grijpen
+start_on: Start op
+grab_duration: Grab duur
+item_per_grab: Item per pak
+edit_source: bron bewerken
+source_updated: bron bijgewerkt
+video_featured: Video aanbevolen
+video_un_featured: Video un aanbevolen
+no_videos: geen video's
+featured_videos: aanbevolen video's
+widget_updated: widget bijgewerkt
+delete_selected: Verwijder geselecteerde
+popular_videos: Populaire video's
+search_result_for: Zoeken resultaat
+source_type: soort Bron
+make_featured: Make aanbevolen
+enable_cookie_policy_popup: Cookie beleid Popup
+cookie_policy_page_url: Cookie beleid pagina url
+cookie_policy: Cookie beleid
+cookie_policy_alert: Deze website maakt gebruik van cookies. Door te blijven deze site gaat u akkoord met ons gebruik van cookies.
+read_more: Lees verder
+i_agree: Ik ga akkoord
+confirmation_email : Bevestiging e-mail
+recovery_email : Recovery e-mail
+payment_confirmation_email : bevestiging van de betaling e-mail
+tracking_code : Tracking code
+video: Video
+auto_translate: Auto Vertalen
+auto_translator: Auto Translator
+from_lang: Van taal
+edit_email_template: bewerken e tmpl
+web_email_settings : Web e-mailinstellingen
+on: Geplaatst op
+video_sources: Video Bronnen
+save_images_locally: opslaan van beelden lokaal
+media_url_update: Werk oude media url
+old_base_url: Oude base url
+new_base_url: New base url
+enable_cache: Enable cache
+grabnow: Grab Nu
+sample_page: Sample Pagina
+disable_main_site_link: Disable belangrijkste site-koppeling
+admin_language: Admin taal
+five_filters_api_url: Vijf filters api url
+january: januari
+february: ebruary
+march: boog
+april: pril
+may: ay
+june: une
+july: juli
+august: ugustus
+september: SEPTEMBER
+october: ktober
+november: ovember
+december: ecember
+generaluser_can_create_post: Genral gebruiker kan creëren video's
+publish_posts_directly: publiceren bericht direct
+pending_msg: . Zodra de admin zal worden gepubliceerd herzien
+publish: publiceren
+unpublish: Draft
+post_approved: Bericht uitgegeven
+post_drafted: Nieuws opgesteld
+pending: afwachting / opgesteld
+published: gepubliceerd
+logo_text: Logo tekst
+logo_text_color: Logo tekstkleur
+logo_type: soort Logo
+show_source_menu: Show bron menu
+show_cat_menu: Show categorie menu
+enable_adblocker_alert: inschakelen AdBlocker alert
+adblock_detected: Adblock Gedetecteerd
+adblock_msg: Gelieve disbale Adblock en vernieuw de pagina opnieuw
+enable_featured_video_carousel: Fetured videos banner
+top_videos_instead_featured: Top video's in plaats aan aanbevolen op slider
+related_videos: Gerelateerde video's
+remove_featured: verwijderen aanbevolen
+menu_type: Menu soort
+youtube_app_settings: Youtube app instellingen
+yt_api_key: Youtube api sleutel
+youtube_channel: Youtube kanaal
+youtube_user: Youtube gebruiker
+youtube_playlist: Youtube playlist
+youtube_search: Youtube Search Result
+grab_info: Grab Info
+link_or_id: Youtube video link / id
+type_link_or_id: Zet youtube video uRL of video-id
+loading: laden ...
+any_category: Elke categorie
+use_name_as_frontend_widget_title: Gebruik naam als frontend widget titel (Anders categorie of de naam van de bron worden gebruikt)
+channel_id_or_url: Channel id of url
+put_youtube_channel_id_or_url: plakken youtube channel id of url hier als "UCD2XuG7GK1HrQdiHOCa6iOg" of "https" => "/ www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Zoek tekst
+put_youtube_search_text: Type / Paste youtube text search hier
+playlist_id_or_url: playlist id of url
+put_youtube_playlist_id_or_url: plakken youtube playlist id of url hier als "PLC8AEE86B4D4E345D" of "https" => "/ www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: gebruiker id of url
+put_youtube_user_id_or_url: plakken youtube user id of uRL hier als "MARVEL" of "https" => "/ www.youtube.com/user/MARVEL"
+url_not_valid: Uw channel id of afspeellijst id of zoeken tekst of api-sleutel is ongeldig. Ga naar bewerken en te controleren.
+video_id_not_valid: Youtube video link of id is niet geldig
+with_video: Met video
+autoplay_video: Autoplay Video
+url_or_id_required: Url of id veld is verplicht
+any_source: Elke bron
+any_subcategory: Elke subcategorie
+use_youtube_publish_time: Met hetzelfde moment te publiceren als youtube
+widget_type: "Meer" linktype
+how_to_yt_api_key: Hoe youtube api sleutel krijgen?
+define_api_key_msg: Stel een youtube api sleutel uit dashboard> content> Site-instellingen
+source_deleted: Bron verwijderd
+only_published: Alleen gepubliceerd
+only_pending: Alleen in afwachting
+only_featured: Alleen aanbevolen
+categories_deleted: categorieën verwijderd
+can_not_undo: kan niet ongedaan deze actie eenmaal toegestaan. Weet je het zeker?
+how_to_get_gplus_api: Hoe Google Plus api sleutel te krijgen?
+auth_redirect_url: Auth redirect url
+gplus_app_settings: Google plus app instellingen
+enable_gplus_login: inschakelen google + loggen
+gplus_client_id: Google+ client id
+gplus_client_secret: Google+ client geheim

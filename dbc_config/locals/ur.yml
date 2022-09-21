@@ -1,0 +1,447 @@
+---
+sign_in: نشانی میں
+sign_up: سائن ان کریں
+agent_panel: میں ایجنٹ پینل
+admin_panel: ایڈمن پینل
+register: رجسٹر
+details: تفصیلات
+view_all: دیکھیں تمام
+order_by: کی طرف سے آرڈر
+none: میں سے کوئی بھی
+terms_and_conditions: شرائط اور شرط
+reg_success_message: آپ کا اکاؤنٹ رجسٹریشن کامیاب ہے. ایک ای میل آپ کا ای میل کرنے کے لئے بھیجا گیا تھا. آپ account.Thanks چالو کرنے کے لئے اس ای میل پر عمل کریں
+recover: دلانا
+oops: افوہ، صفحہ نہیں ملا
+address: ایڈریس
+all: تمام
+contact_us: ہمیں رابطہ
+confirmation: توثیق
+tags: ٹیگز
+login: لاگ ان
+post_not_found: ویڈیوز ملا نہیں
+view_more: لنک مزید
+image: تصویری
+create: بنائیں
+send: ارسال
+contact_subject: رابطہ ای میل
+password: پاس ورڈ
+confirm_password: پاس ورڈ کی توثیق
+all_posts: تمام ویڈیوز
+no_posts: کوئی ویڈیو
+title: عنوان
+description: کی تفصیل
+status: درجہ
+actions: عوامل
+type: قسم
+type_something: قسم ایسی چیز
+content: مواد
+category: زمرہ
+all_categories: تمام زمرہ جات
+edit_category: میں ترمیم کریں زمرے
+new_category: نئے زمرے
+edit: میں ترمیم کریں
+delete: حذف
+name: نام
+save: محفوظ کریں
+no_parent: کوئی والدین
+add_another: ایک اور کا اضافہ
+export_to_file: فائل میں درآمد
+options: کے اختیارات
+all_pages: تمام صفحات
+no_pages: کوئی صفحات
+manage_menu: انتظام کریں مینو
+menu_title: مینو عنوان
+menu_alias: مینو عرف
+show_in_menu: مینو میں دکھائیں
+page_layout: پیج ترتیب
+content_from: سے مواد
+url: یو آر ایل
+seo_options: SEO اختیارات
+meta_description: میٹا وضاحت
+key_words: کلیدی الفاظ
+crawl_after: رینگنا (دن) کے بعد
+all_plugins: تمام پلگ ان
+no_plugins: کوئی پلگ ان
+name_and_version: نام اور ورژن
+change_password: بدلیں پاس ورڈ
+current_password: موجودہ پاس ورڈ
+new_password: نیا پاس ورڈ
+retype_password: پاس ورڈ دوبارہ ٹائپ
+password_reset_info_msg: پہلا سیٹ اپنے نئے پاس ورڈ مہربانی
+edit_profile: پروفائل میں ترمیم کریں
+profile_picture: پروفائل کی تصویر
+username: صارف کا نام
+email: ای میل
+first_name: پہلا نام
+last_name: آخری نام
+gender: صنف
+phone: فون
+about_me: میرے بارے میں
+facebook_account: فیس بک اکاؤنٹ
+twitter_account: ٹویٹر اکاؤنٹ
+linkedin_account: لنکڈ اکاؤنٹ
+gp_account: Google+ اکاؤنٹ
+account_msg: ، HTTP کے بغیر لنک درج کریں: //
+contact_email: رابطہ کریں دوستوں کوارسال کریں
+webadmin_name: Webadmin نام
+webadmin_email: Webadmin ای میل
+update: اپ ڈیٹ
+upload: کو اپ لوڈ کریں
+site_title: ویب سائٹ کا عنوان
+footer_text: فوٹر متن
+site_logo: سائٹ لوگو
+site_language: سائٹ کی زبان
+site_text_direction: سائٹ متن کی سمت
+per_page: صفحہ بندی فی صفحہ
+default_page_layout: پہلے سے طے شدہ صفحہ لے آؤٹ
+smtp_email: SMTP ای میل
+smtp_host: SMTP میزبان
+smtp_port: SMTP پورٹ
+smtp_timeout: SMTP ختم
+smtp_user: SMTP صارف
+smtp_password: SMTP پاس ورڈ
+generate_site_map: بنائیں ویب سائٹ کا نقشہ
+sitemap_info_msg: NB: NB آپ کی سائٹ کا نقشہ پر شامل کرنے کے لئے چاہتے ہیں، جس براہ مہربانی منتخب کریں XML. بعد کامیاب نسل sitemap.xml روٹ ڈائریکٹری کے تحت محفوظ کر لیا ہے. آپ خود بھی یو آر ایل کو شامل کرنے کے لئے اس فائل میں ترمیم کرسکتے ہیں.
+pages: صفحات
+view_xml: XML دیکھیں
+create_xml: بنائیں XML
+manage_backups: انتظام کریں بیک اپ
+create_sql_backup: بنائیں SQL بیک اپ
+create_image_backup: امیج بیک اپ بنانے
+restore: بحال
+download: لوڈ
+dashboard: ڈیش بورڈ
+overview_stats_more: جائزہ، اعدادوشمار اور زیادہ
+visit_site: آمد سائٹ
+themes: موضوعات
+locations: مقامات
+profile: پروفائل
+agents: ایجنٹس
+widgets: وجیٹس
+all_widgets: تمام وجیٹس
+widget_positions: ویجیٹ عہدوں
+new_post: نئی پوسٹ
+pages_and_menu: صفحات اور مینو
+new_page: نیا صفحہ
+menu: مینو
+system: کے نظام
+edit_email_text: ترمیم کریں ای میل لکھ کر
+admin_settings: ویب ایڈمن ترتیبات
+sitemap: ویب سائٹ کا نقشہ
+activate: چالو کریں
+active_theme: فعال موضوع
+available_themes: دستیاب موضوعات
+all_users: تمام صارفین
+create_user: صارف تشکیل
+export_user_email: ایکسپورٹ صارف ای میلز (. CSV)
+profile_info: پروفائل کی معلومات
+edit_page: میں ترمیم کریں صفحہ
+create_widget: بنائیں ویجیٹ
+widget_name: ویجیٹ نام
+activate_deactivate: چالو / DE- چالو
+show: دکھائیں
+available_widgets: دستیاب وجیٹس
+active_widgets: فعال وگیٹس
+delete_warning: آپ واقعی اسے حذف کرنا چاہتے ہیں.
+yes: 'ہاں'
+no: 'نہیں'
+fa_icon: ایف اے کا آئکن طبقے
+post_ad: پوسٹ اشتھاراتی
+post_ad_subtitle: رکھو اپنے اشتھار کو تفصیل
+signin: سائن ان
+signup: سائن اپ
+signup_title: آپ کے اکاؤنٹ بنائیں
+not_found: نہیں ملا
+purpose: مقصدی
+select_category: زمرہ منتخب کریں
+upload_later_msg: اگر آپ بعد تخلیق کے بعد گیلری، نگارخانہ تصاویر اور ویڈیو کا URL اپ لوڈ کر سکیں گے
+user_panel: یوزر پینل
+logout: لاگ آؤٹ
+put_as_comma_seperated: (،) کوما sperated طور پر ڈال
+added: شامل کر دیا گیا
+location: : مقام
+views: ویو
+add_new: نئے شامل کریں
+search: تلاش
+contact_mode: رابطہ موڈ
+reset: ری سیٹ
+contact: رابطہ کریں
+type_your_message: آپ کا پیغام یہاں لکھیں ..
+mail_sent: میل بھیجا
+home: ہوم
+list_your_ad: فہرست آپ اشتھاراتی
+print: پرنٹ
+remember_me: مجھے یاد رکھیں
+forgot_password: پاس ورڈ بھول گئے
+login_to_your_account: آپ کے اکاؤنٹ میں لاگ ان
+register_your_account: اپنا اکاؤنٹ رجسٹر
+male: مرد
+female: خواتین
+state: اسٹیٹ
+users: صارفین
+ads: اشتھارات
+categories: جات
+top_posts: اوپر مراسلات
+default_site_settings: ڈیفالٹ سائٹ ترتیبات
+webadmin_settings: Webadmin ترتیبات
+banner_settings: بینر ترتیبات
+logged_in_as: ہی بطور
+password_change_success: پاس ورڈ کامیابی سے تبدیل
+email_sent_inbox: A ای میل اپنا inbox.Check کہ ای میل میں بھیج رہا ہے.
+password_recovery_link_invalid: پاس ورڈ دوبارہ منسلک نہیں درست ہے
+user_updated: صارف کو اپ ڈیٹ
+user_deleted: صارف کو حذف
+data_inserted: ڈیٹا ڈالا
+data_updated: اپ ڈیٹ ڈیٹا
+page_updated: پیج تازہ کاری
+page_created: صفحہ بنایا
+page_deleted: حذف شدہ صفحہ
+menu_updated: مینو تبدیلی کی گئی
+site_map_generation_success: ویب سائٹ کا نقشہ کامیابی پیدا.
+select_option: پر منتخب کریں یا اس سے زیادہ اختیارات کو منتخب کریں، براہ مہربانی.
+image_backup_created: تصویر بیک اپ ڈیٹ
+language_translated: زبان کا ترجمہ
+backup_deleted: بیک اپ حذف شدہ
+database_restored: ڈیٹا بیس بحال
+theme_activated: تھیم کو چالو
+user_created: صارف تشکیل
+widget_position_updated: ویجیٹ Postion تازہ کاری
+widget_created: ویجیٹ پیدا
+settings_updated: ترتیبات اپ ڈیٹ
+widget_data_updated: ویجیٹ ڈیٹا تازہ کاری
+unable_to_write_widget: ویجیٹ کو تحریر کرنے سے قاصر
+admin_change_pass_help: کوئی تبدیلی اگر ضرورت ہو تو خالی چھوڑیں
+login_with_google: گوگل کے ساتھ لاگ ان کریں
+login_with_facebook: فیس بک کے ساتھ لاگ ان
+register_for_new_account : نیا اکاؤنٹ کے لئے رجسٹر
+site_map : ویب سائٹ کا نقشہ
+show_site_map : ویب سائٹ کا نقشہ دکھائیں
+about : بارے
+see_full_documentation: دیکھتے مکمل دستاویزات
+admin: ایڈمن
+re_password: پاس ورڈ دوبارہ ٹائپ
+explain_widget_position: ویجیٹ عہدوں سمجھاو
+new_ad: نیا اشتھار
+select_one: مہربانی منتخب کریں
+username_or_email: رکنیت یا ای میل
+post_detail: پوسٹ تفصیل
+edit_user: ترمیم صارف
+the_field_is_required: ٪ s کے میدان کی ضرورت ہے.
+valid_email: ٪ s کے میدان میں ایک درست ای میل ایڈریس پر مشتمل ہونا چاہئے.
+min_length: ٪ s کے میدان کی لمبائی میں کم از کم٪ s کے حروف کا ہونا ضروری ہے.
+numeric: ٪ s کو میدان صرف اعداد پر مشتمل ہونا چاہئے.
+matches: ٪ s کو میدان٪ s کو میدان سے میل نہیں کھاتا.
+greater_than: ٪ s کے میدان میں٪ s سے بڑا کوئی عدد پر مشتمل ہونا چاہئے.
+must_accept_terms: آپ کی شرائط کو قبول اور شرط لازمی ہے
+dont_have_permission: تم تک رسائی حاصل کرنے کے لئے اس صفحے کی اجازت نہیں ہے
+email_allready_in_use: پہلے سے استعمال میں ای میل
+username_allready_in_use: allready استعمال میں رکنیت
+current_password_not_matched: موجودہ پاس ورڈ نہیں تھا \ 'T میچ
+email_not_matched: ای میل ملاپ نہیں
+account_not_confirmed: اکاؤنٹ کی تصدیق نہیں
+unique_alias: ٪ s کے میدان منفرد ہونا کرنے کی ضرورت ہے
+smtp_email_settings: SMTP ای میل کی ترتیبات
+error_occured: میں خامی پیش آگئی . ذیل شعبوں براہ مہربانی چیک کریں
+user_profile: یوزر کے پروفائل '
+user_email: یوزر کے ای میل
+target_lang_name: نشانے کی زبان
+enable_signup: فعال سائن اپ
+facebook_app_settings: کریں فیس بک اے پی پی کی ترتیبات
+enable_facebook_login: لاگ ان فیس بک فعال
+fb_app_id: فیس بک اپلی کیشن آئی ڈی
+fb_secret_key: فیس بک خفیہ کلید
+comment_settings: تبصرہ ترتیبات
+enable_comment: تبصرہ فعال
+disqus_shortname: Disqus کی SHORTNAME
+active_widget_position: فعال ویجیٹ پوزیشن
+upload_and_install: کو اپ لوڈ کریں اور انسٹال
+install_updates: اپ ڈیٹ انسٹال / موضوعات / پلگ ان / وگیٹس
+click_and_edit: ایک ٹیمپلیٹ فائل منتخب کریں اور ترمیم کلک
+google_analytics_settings: گوگل AnalyticsSettings
+default_seo_settings: ڈیفالٹ SEO ترتیبات
+find_us_on_facebook: فیس بک پر ملیں
+type_anything: قسم کوئی بھی چیز
+login_failed : لاگ ان ناکام
+debug_email : ڈیبگ ای میل
+email_to : پر ای میل کرنے کے لئے
+ive_read_the: میں نے پڑھا ہے
+title_city_category: عنوان، ماخذ یا زمرہ
+css_compression: ضم تمام سی ایس ایس فائلوں
+all_sub_categories : تمام ذیلی زمرہ جات
+no_sub_categories : کوئی ذیلی زمرہ جات
+email_cleared: ای کی منظوری دے دی
+hide_users_profile_phone: چھپائیں صارفین پروفائل کے فون
+features: کی خصوصیات
+new_source: نیا ذریعہ
+all_sources: تمام ذرائع
+addsource: منبع میں شامل
+seo_keywords : SEO کے مطلوبہ الفاظ
+seo_description : سے Seo کی تفصیل
+all_videos : تمام ویڈیوز
+new_video : نیا ویڈیو
+create_video : بنائیں ویڈیو
+edit_video : میں ترمیم ویڈیو
+no_source : کوئی ذریعہ
+no_category : کوئی زمرہ
+sub_category : ذیلی زمرہ
+category_2: S.Category
+video_updated: ویڈیو اپ ڈیٹ
+video_added: ویڈیو پیدا
+source: ماخذ
+link: لنک
+media: میڈیا
+put_as_comma_separated: کوما طور رکھو (،) کی شکل الگ کر
+site_settings: ویب سائٹ کی ترتیبات
+clear_old_videos: کو صاف پرانے انگیز ویڈیوز
+videos_before: سے پہلے ویڈیو
+leave_empty_if_doesnot_matter: نہیں ہوتی ہے تو اس کو خالی چھوڑ دیں 'ٹی سے کوئی فرق
+view_less_than: سے کم لنک
+without_image: تصویر کے بغیر
+you_cant_undo_this_action: آپ اس کارروائی کو رد نہیں کرسکتے
+video_deleted: ویڈیوز کو کلیئر
+general: جنرل
+moderator: ناظم
+genaral_user_can_create_post: یوزر ویڈیوز تشکیل دے سکتے
+moderator_can_create_post: ناظم ویڈیوز تشکیل دے سکتے
+auto_crawl: آٹو کرال
+lazy_load_images: سست لوڈنگ تصاویر
+generate_widgets: کی بارے چیزیں پیدا
+sidebar: سائڈبار
+pagebody: Pagebody
+widget_generated: ویجیٹ تخلیق کردہ
+widget_generation_failed: ویجیٹ تخلیق ناکام ہوگئی
+latest_videos: تازہ ترین
+video_by: کی طرف سے ویڈیو
+top_videos: مقبول ویڈیوز
+source_added: ذرائع نے مزید کہا
+no_videos_found: کوئی ویڈیوز
+clear: واضح
+seen_by: خاکہ
+read_this_on: پڑھیے اس پر
+video_source: ایک ذریعے سے ویڈیو
+video_category: سے ایک قسم ویڈیو
+source_name: کا نام
+parent_category: بالائی زمرہ
+videos_grabbed: ویڈیوز کامیابی کے ساتھ پکڑا
+rss_url: یو آر ایل کو کھانا کھلانا
+auto_grabbing: پکڑ آٹو
+start_on: پر شروع
+grab_duration: پکڑو دورانیہ
+item_per_grab: فی پکڑو آئٹم
+edit_source: ترمیم منبع
+source_updated: ماخذ اپ ڈیٹ
+video_featured: ویڈیو متصف
+video_un_featured: ویڈیو اقوام متحدہ متصف
+no_videos: کوئی ویڈیوز
+featured_videos: متصف ویڈیوز
+widget_updated: ویجیٹ کو اپ ڈیٹ
+delete_selected: حذف منتخب کردہ
+popular_videos: مشہور ویڈیوز
+search_result_for: تلاش نتائج
+source_type: روشنی کی قسم
+make_featured: متصف کیا ہے
+enable_cookie_policy_popup: کوکی پالیسی پاپ اپ
+cookie_policy_page_url: کوکی پالیسی کے صفحے کے یو آر ایل
+cookie_policy: کوکی کی پالیسی
+cookie_policy_alert: یہ سائٹ کوکیز استعمال کرتا ہے. یہ سائٹ آپ کوکیز کے استعمال سے اتفاق کرتے ہیں استعمال کرنے کے لئے جاری رکھ کر.
+read_more: مزید پڑھیں
+i_agree: میں خیال ہوں
+confirmation_email : تصدیقی ای میل
+recovery_email : سے شفایابی کا ای میل
+payment_confirmation_email : کی ادائیگی کی تصدیقی ای میل
+tracking_code : ٹریکنگ کوڈ
+video: ویڈیو
+auto_translate: آٹو ترجمہ
+auto_translator: آٹو مترجم
+from_lang: زبان سے
+edit_email_template: ترمیم کریں ای میل tmpl
+web_email_settings : ویب ای میل کی ترتیبات
+on: پر پوسٹ کیا گیا
+video_sources: ویڈیو ذرائع
+save_images_locally: تصاویر کو بچانے مقامی طور پر
+media_url_update: پرانے میڈیا کے یو آر ایل کو اپ ڈیٹ
+old_base_url: بوڑھے بیس کے یو آر ایل کو
+new_base_url: نئی بنیاد یو آر ایل
+enable_cache: کو فعال کیشے
+grabnow: پکڑو اب
+sample_page: صفحہ نمونہ
+disable_main_site_link: غیر فعال کریں مرکزی سائٹ کے لنک
+admin_language: ایڈمن زبان
+five_filters_api_url: پانچ فلٹر API یو آر ایل
+january: جنوری
+february: فروری
+march: مارچ
+april: اپریل
+may: مئی
+june: جون
+july: جولائی
+august: اگست
+september: ستمبر
+october: اکتوبر
+november: نومبر
+december: دسمبر
+generaluser_can_create_post: جنرل صارف کی ویڈیوز تشکیل دے سکتے ہیں
+publish_posts_directly: براہ راست شائع مراسلہ کی
+pending_msg: . ایک بار منتظم شائع کیا جائے گا اس کا جائزہ لیں
+publish: شائع
+unpublish: ڈرافٹ
+post_approved: پوسٹ شائع
+post_drafted: نیوز مسودہ تیار
+pending: التواء / مسودہ تیار
+published: اشاعت
+logo_text: علامت متن
+logo_text_color: علامت متن کا رنگ
+logo_type: لوگو کی قسم
+show_source_menu: دکھائیں مصدر مینو
+show_cat_menu: دکھائیں قسم کے مینو
+enable_adblocker_alert: Adblocker الرٹ فعال
+adblock_detected: Adblock کے پتہ چلا
+adblock_msg: Adblock کے غیر فعال براہ مہربانی اور صفحہ دوبارہ ریفریش
+enable_featured_video_carousel: Fetured کے ویڈیو بینر
+top_videos_instead_featured: ویڈیوز بجائے سلائیڈر پر شامل کی
+related_videos: متعلقہ وڈیوز
+remove_featured: نمایاں ہٹائیں
+menu_type: مینو کی قسم
+youtube_app_settings: یو ٹیوب اے پی پی کی ترتیبات
+yt_api_key: یو ٹیوب API کلید
+youtube_channel: یو ٹیوب چینل
+youtube_user: YouTube صارف
+youtube_playlist: YouTube پلے لسٹ
+youtube_search: یو ٹیوب تلاش کے نتائج
+grab_info: پکڑو معلومات
+link_or_id: یو ٹیوب ویڈیو کا لنک / ID
+type_link_or_id: یوٹیوب ویڈیو یو آر ایل یا ویڈیو ID رکھو
+loading: لوڈ ہورہا ہے ...
+any_category: کوئی زمرے
+use_name_as_frontend_widget_title: فرنٹ اینڈ ویجیٹ کے طور پر نام کا استعمال عنوان (ورنہ قسم یا منبع کا نام استعمال کیا جائے گا)
+channel_id_or_url: چینل ID یا URL
+put_youtube_channel_id_or_url: یہاں YouTube چینل ID یا یو آر ایل پیسٹ "UCD2XuG7GK1HrQdiHOCa6iOg" یا "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg" جیسے
+search_text: بے متن
+put_youtube_search_text: پروپوزل / پیسٹ YouTube تلاش متن یہاں
+playlist_id_or_url: پلے لسٹ ID یا URL
+put_youtube_playlist_id_or_url: YouTube پلے لسٹ ID یا URL یہاں "PLC8AEE86B4D4E345D" یا "https://www.youtube.com/watch؟v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D" کی طرح ایک اچھا پوسٹ کیا
+user_id_or_url: صارف ID یا URL
+put_youtube_user_id_or_url: صارف ID یا یو آر ایل پیسٹ یو ٹیوب پر یہاں کی طرح "چمتکار "یا" https://www.youtube.com/user/MARVEL "
+url_not_valid: آپ کا چینل ID یا پلے لسٹ ID یا تلاش کے متن درست نہیں ہے. میں ترمیم کریں اور چیک کرنے کے لئے جاؤ.
+video_id_not_valid: یو ٹیوب ویڈیو کا لنک یا ID درست نہیں ہے
+with_video: ویڈیو کے ساتھ
+autoplay_video: Autoplay کی ویڈیو
+url_or_id_required: یو آر ایل یا ID میدان کی ضرورت ہے
+any_source: کسی بھی سورس
+any_subcategory: کوئی ذیلی
+use_youtube_publish_time: طور پر یو ٹیوب وقت شائع ایک ہی استعمال
+widget_type: "مزید" کے لنک کی قسم
+how_to_yt_api_key: یو ٹیوب API
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: صرف شائع
+only_pending: صرف زیر التوا
+only_featured: صرف خصوصیات
+categories_deleted: جات خارج کر دیا
+can_not_undo: آپ نے اس کارروائی میں ایک بار اجازت رد نہیں کرسکتے. کیا تمہیں یقین ہے؟
+how_to_get_gplus_api: گوگل پلس API کلید حاصل کرنے کے لئے؟
+auth_redirect_url: توثیقی ری یو آر ایل
+gplus_app_settings: گوگل پلس اے پی پی کی ترتیبات
+enable_gplus_login: گوگل پلس لاگ ان فعال
+gplus_client_id: Google+ کے کلائنٹ ID
+gplus_client_secret: Google+ کے کلائنٹ سیکرٹ

@@ -1,0 +1,447 @@
+---
+sign_in: Sign In
+sign_up: Sign Up
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+register: Register
+details: Details
+view_all: View All
+order_by: Order By
+none: None
+terms_and_conditions: Terms and Condition
+reg_success_message: Your account registration is successfull. An email was sent to your email. Please follow that email to activate your account.Thanks
+recover: Recover
+oops: Oops, page not found
+address: Address
+all: All
+contact_us: Contact Us
+confirmation: Confirmation
+tags: Tags
+login: Login
+post_not_found: Videos not Found
+view_more: View More
+image: Image
+create: Create
+send: Send
+contact_subject: Contact Email
+password: Password
+confirm_password: Confirm Password
+all_posts: All Videos
+no_posts: No Videos
+title: Title
+description: Description
+status: Status
+actions: Actions
+type: Type
+type_something: Type something
+content: Content
+category: Category
+all_categories: All categories
+edit_category: Edit category
+new_category: New category
+edit: Edit
+delete: Delete
+name: Name
+save: Save
+no_parent: No parent
+add_another: Add Another
+export_to_file: Export to file
+options: Options
+all_pages: All pages
+no_pages: No pages
+manage_menu: Manage menu
+menu_title: Menu Title
+menu_alias: Menu alias
+show_in_menu: Show in menu
+page_layout: Page layout
+content_from: Content from
+url: Url
+seo_options: SEO options
+meta_description: Meta description
+key_words: Key words
+crawl_after: Crawl after(days)
+all_plugins: All plugins
+no_plugins: No plugins
+name_and_version: Name and version
+change_password: Change password
+current_password: Current password
+new_password: New password
+retype_password: Retype password
+password_reset_info_msg: Please First Set your New Password
+edit_profile: Edit profile
+profile_picture: Profile Picture
+username: Username
+email: Email
+first_name: First Name
+last_name: Last Name
+gender: Gender
+phone: Phone
+about_me: About Me
+facebook_account: Facebook account
+twitter_account: Twitter account
+linkedin_account: Linkedin account
+gp_account: Google+ account
+account_msg: Please enter the link, without http://
+contact_email: Contact Email
+webadmin_name: Webadmin Name
+webadmin_email: Webadmin Email
+update: Update
+upload: Upload
+site_title: Site Title
+footer_text: Footer Text
+site_logo: Site Logo
+site_language: Site Language
+site_text_direction: Site Text Direction
+per_page: Pagination Per Page
+default_page_layout: Default Page Layout
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP User
+smtp_password: SMTP Password
+generate_site_map: Generate Site Map
+sitemap_info_msg: NB: Please select which you want to be included on sitemap xml. After successful generation sitemap.xml is saved under ROOT directory. You can also edit that file for including your own urls.
+pages: Pages
+view_xml: View XML
+create_xml: Create XML
+manage_backups: Manage Backups
+create_sql_backup: Create SQL Backup
+create_image_backup: Create Image Backup
+restore: Restore
+download: Download
+dashboard: Dashboard
+overview_stats_more: Overview, Stats and More
+visit_site: Visit Site
+themes: Themes
+locations: Locations
+profile: Profile
+agents: Agents
+widgets: Widgets
+all_widgets: All Widgets
+widget_positions: Widget Positions
+new_post: New Post
+pages_and_menu: Pages & Menu
+new_page: New Page
+menu: Menu
+system: System
+edit_email_text: Edit Email Text
+admin_settings: Web Admin Settings
+sitemap: Site Map
+activate: Activate
+active_theme: Active Theme
+available_themes: Available Themes
+all_users: All Users
+create_user: Create User
+export_user_email: Export User Emails(.csv)
+profile_info: Profile Info
+edit_page: Edit Page
+create_widget: Create Widget
+widget_name: Widget Name
+activate_deactivate: Activate/De-Activate
+show: Show
+available_widgets: Available Widgets
+active_widgets: Active Widgets
+delete_warning: Are you sure want do delete.
+yes: 'Yes'
+no: 'No'
+fa_icon: FA icon class
+post_ad: Post Ad
+post_ad_subtitle: Put your ad detail
+signin: Signin
+signup: Signup
+signup_title: Create your account
+not_found: Not found
+purpose: Purpose
+select_category: Select Category
+upload_later_msg: You'll be able to upload gallery photos and video url after post creation
+user_panel: User panel
+logout: Logout
+put_as_comma_seperated: put as (,) comma sperated
+added: Added
+location: Location
+views: Views
+add_new: Add new
+search: Search
+contact_mode: Contact Mode
+reset: Reset
+contact: Contact
+type_your_message: Type your message here..
+mail_sent: Mail Sent
+home: Home
+list_your_ad: List Your Ad
+print: Print
+remember_me: Remember Me
+forgot_password: Forgot Password
+login_to_your_account: Login to your Account
+register_your_account: Register your Account
+male: Male
+female: Female
+state: State
+users: Users
+ads: Ads
+categories: Categories
+top_posts: Top Posts
+default_site_settings: Default Site Settings
+webadmin_settings: Webadmin Settings
+banner_settings: Banner Settings
+logged_in_as: Logged in as
+password_change_success: Password changed successfully
+email_sent_inbox: A email is send to your inbox.Check that email.
+password_recovery_link_invalid: Password Recovery Link Is Not Valid
+user_updated: User Updated
+user_deleted: User Deleted
+data_inserted: Data inserted
+data_updated: Data Updated
+page_updated: Page Updated
+page_created: Page Created
+page_deleted: Page Deleted
+menu_updated: Menu Updated
+site_map_generation_success: Site map generated successfully.
+select_option: Please select on or more select options.
+image_backup_created: Image Backup Created
+language_translated: Language Translated
+backup_deleted: Backup Deleted
+database_restored: Database Restored
+theme_activated: Theme Activated
+user_created: User Created
+widget_position_updated: Widget Postion Updated
+widget_created: Widget Created
+settings_updated: Settings Updated
+widget_data_updated: Widget Data Updated
+unable_to_write_widget: Unable to write widget
+admin_change_pass_help: Leave blank if no change needed
+login_with_google: Login with Google
+login_with_facebook:  Login with Facebook
+register_for_new_account : Register for New Account
+site_map : Site Map
+show_site_map : Show site map
+about : About
+see_full_documentation: See full documentation
+admin: Admin
+re_password: Retype password
+explain_widget_position: Explain widget positions
+new_ad: New Ad
+select_one: Select One
+username_or_email: Username or Email
+post_detail: Post detail
+edit_user: Edit user
+the_field_is_required: The %s field is required.
+valid_email: The %s field must contain a valid email address.
+min_length: The %s field must be at least %s characters in length.
+numeric: The %s field must contain only numbers.
+matches: The %s field does not match the %s field.
+greater_than: The %s field must contain a number greater than %s.
+must_accept_terms: You must accept terms and condition
+dont_have_permission: You don't have permission to access this page
+email_allready_in_use: Email already in use
+username_allready_in_use: Username allready in use
+current_password_not_matched: Current password didn\'t match
+email_not_matched: Email not matched
+account_not_confirmed: Account not confirmed
+unique_alias: The %s field needs to be unique
+smtp_email_settings: SMTP Email Settings
+error_occured: Error occured. Please check the fields below
+user_profile: User profile'
+user_email: User email
+target_lang_name: Target language
+enable_signup: Enable signup
+facebook_app_settings: Facebook app settings
+enable_facebook_login: Enable facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook secret key
+comment_settings: Comment settings
+enable_comment: Enable comment
+disqus_shortname: Disqus Shortname
+active_widget_position: Active widget position
+upload_and_install: Upload and install
+install_updates: Install Updates/Themes/Plugins/Widgets
+click_and_edit: Select a template file and click edit
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Default SEO settings
+find_us_on_facebook: Find us on Facebook
+type_anything: Type Anything
+login_failed : Login failed
+debug_email : Debug email
+email_to : To email
+ive_read_the: I've read the
+title_city_category: Title, Source or Category
+css_compression: Merge all css files
+all_sub_categories : All Sub Categories
+no_sub_categories : No Sub Categories
+email_cleared: Email cleared
+hide_users_profile_phone: Hide users profile phone
+features: Features
+new_source: New source
+all_sources: All sources
+addsource: Add source
+seo_keywords : Seo Keywords
+seo_description : Seo Description
+all_videos : All Videos
+new_video : New Video
+create_video : Create Video
+edit_video : Edit video
+no_source : No Source
+no_category : No Category
+sub_category : Sub Category
+category_2: S.Category
+video_updated: Video updated
+video_added: Video created
+source: Source
+link: Link
+media: Media
+put_as_comma_separated: Put as comma(,) separated format
+site_settings: Site settings
+clear_old_videos: Clear old videos
+videos_before: Videos before
+leave_empty_if_doesnot_matter: Leave empty if doesn't matter
+view_less_than: View less than
+without_image: Without Image
+you_cant_undo_this_action: You can't undo this action
+video_deleted: Videos cleared
+general: General
+moderator: Moderator
+genaral_user_can_create_post: User can create videos
+moderator_can_create_post: Moderator can create videos
+auto_crawl: Auto crawl
+lazy_load_images: Lazy loading images
+generate_widgets: Generate widgets
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget generated
+widget_generation_failed: Widget generation failed
+latest_videos: Latest
+video_by: Video By
+top_videos: Top Videos
+source_added: Source Added
+no_videos_found: No videos
+clear: Clear
+seen_by: View
+read_this_on: Read this on
+video_source: Video from a source
+video_category: Video from a category
+source_name: Name
+parent_category: Parent Category
+videos_grabbed: Videos grabbed successfully
+rss_url: Feed url
+auto_grabbing: Auto grabbing
+start_on: Start on
+grab_duration: Grab duration
+item_per_grab: Item per grab
+edit_source: Edit source
+source_updated: Source updated
+video_featured: Video featured
+video_un_featured: Video un featured
+no_videos: No videos
+featured_videos: Featured videos
+widget_updated: Widget updated
+delete_selected: Delete selected
+popular_videos: Popular videos
+search_result_for: Search Result
+source_type: Source type
+make_featured: Make featured
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie policy page url
+cookie_policy: Cookie policy
+cookie_policy_alert: This site uses cookies. By continuing to use this site you agree to our use of cookies.
+read_more: Read more
+i_agree: I agree
+confirmation_email : Confirmation email
+recovery_email : Recovery email
+payment_confirmation_email : payment confirmation email
+tracking_code : Tracking code
+video: Video
+auto_translate: Auto Translate
+auto_translator: Auto Translator
+from_lang: From language
+edit_email_template: Edit email tmpl
+web_email_settings : Web email settings
+on: Posted On
+video_sources: Video Sources
+save_images_locally: Save images locally
+media_url_update: Update old media url
+old_base_url: Old base url
+new_base_url: New base url
+enable_cache: Enable Cache
+grabnow: Grab Now
+sample_page: Sample Page
+disable_main_site_link: Disable main site link
+admin_language: Admin language
+five_filters_api_url: Five filters api url 
+january:January
+february:February
+march:March
+april:April
+may:May
+june:June
+july:July
+august:August
+september:September
+october:October
+november:November
+december:December
+generaluser_can_create_post: Genral user can create videos
+publish_posts_directly: Publish post directly
+pending_msg: . Will be published once the admin review it
+publish: Publish
+unpublish: Draft
+post_approved: Post published
+post_drafted: News drafted
+pending: Pending/drafted
+published: Published
+logo_text: Logo text
+logo_text_color: Logo text color
+logo_type: Logo type
+show_source_menu: Show source menu
+show_cat_menu: Show category menu
+enable_adblocker_alert: Enable Adblocker alert
+adblock_detected: Adblock Detected
+adblock_msg: Please disbale adblock and refresh the page again
+enable_featured_video_carousel: Fetured videos banner
+top_videos_instead_featured: Top videos instead of featured on slider
+related_videos: Related videos
+remove_featured: Remove Featured
+menu_type: Menu type
+youtube_app_settings: Youtube app settings
+yt_api_key: Youtube api key
+youtube_channel: Youtube channel
+youtube_user: Youtube user
+youtube_playlist: Youtube Playlist
+youtube_search: Youtube Search Result
+grab_info: Grab Info
+link_or_id: Youtube video link/id
+type_link_or_id: Put youtube video url or video id
+loading: Loading...
+any_category: Any category
+use_name_as_frontend_widget_title: Use name as frontend widget title(Otherwise category or source name will be used)
+channel_id_or_url: Channel id or url
+put_youtube_channel_id_or_url: Paste youtube channel id or url here like "UCD2XuG7GK1HrQdiHOCa6iOg" or "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Search text
+put_youtube_search_text: Type/Paste youtube search text here
+playlist_id_or_url: Playlist id or url
+put_youtube_playlist_id_or_url: Paste youtube playlist id or url here like "PLC8AEE86B4D4E345D" or "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: User id or url
+put_youtube_user_id_or_url: Paste youtube user id or url here like "MARVEL" or "https://www.youtube.com/user/MARVEL"
+url_not_valid: Your channel id or playlist id or search text or api key is not valid. Go to edit and check.
+video_id_not_valid: Youtube video link or id is not valid
+with_video: With video
+autoplay_video: Autoplay Video
+url_or_id_required: Url or id field is required
+any_source: Any source
+any_subcategory: Any subcategory
+use_youtube_publish_time: Use same publish time as youtube
+widget_type: "View more" link type
+how_to_yt_api_key: How to obtain youtube api key?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Only published
+only_pending: Only pending
+only_featured: Only featured
+categories_deleted: Categories deleted
+can_not_undo: You can not undo this action once permitted. Are you sure?
+how_to_get_gplus_api: How to get google plus api key?
+auth_redirect_url: Auth redirect url
+gplus_app_settings: Google plus app settings
+enable_gplus_login: Enable google+ login
+gplus_client_id: Google+ client id
+gplus_client_secret: Google+ client secret

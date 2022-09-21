@@ -1,0 +1,447 @@
+ ---
+sign_in: Вход
+sign_up: Регистрация
+agent_panel: Агент Панель
+admin_panel: Панель администратора
+register: Регистрация
+details: Подробности
+view_all: Смотреть все
+order_by: Заказывайте
+none: Никакие
+terms_and_conditions: условия и сроки
+reg_success_message: регистрации Ваш счет успешна. Письмо было отправлено на ваш электронный адрес. Пожалуйста , следуйте этой электронной почте , чтобы активировать ваш account.Thanks
+recover: Восстановление К
+oops: сожалению, страница не найдена
+address: Адрес
+all: Все
+contact_us: Контакты
+confirmation: Подтверждение
+tags: Теги
+login: Логин
+post_not_found: Видео не найден
+view_more: Больше
+image: Изображение
+create: Создать
+send: Отправить
+contact_subject: Контактный Email
+password: Пароль
+confirm_password: Повторите пароль
+all_posts: Все Видео
+no_posts: Нет Видео
+title: Название
+description: Описание
+status: Статус
+actions: Действия
+type: Тип
+type_something: Тип кое
+content: Содержание
+category: Категория
+all_categories: Все категории
+edit_category: Изменить категорию
+new_category: Новая категория
+edit: Редактировать
+delete: Удалить
+name: Имя
+save: Сохранить
+no_parent: без родителя
+add_another: Добавить другой
+export_to_file: Экспорт в файл
+options: параметры
+all_pages: Все страницы Следующие
+no_pages: страницы
+manage_menu: не меню управления
+menu_title: меню заголовков
+menu_alias: меню псевдоним
+show_in_menu: Показать в меню
+page_layout: макет страницы
+content_from: Материалы из
+url: Url
+seo_options: вариантов SEO
+meta_description: Мета описание
+key_words: Ключевые слова
+crawl_after: Crawl после (дней)
+all_plugins: Все плагины
+no_plugins: нет плагинов
+name_and_version: Название и версия
+change_password: сменить пароль
+current_password: Текущий пароль
+new_password: Новый пароль
+retype_password: Повторите пароль
+password_reset_info_msg: Пожалуйста Первый сет ваш новый пароль
+edit_profile: Редактировать профиль
+profile_picture: Профиль Фото
+username: Имя пользователя
+email: E - mail
+first_name: Имя
+last_name: Фамилия
+gender: Пол
+phone: Телефон
+about_me: Обо мне
+facebook_account: аккаунт Facebook
+twitter_account: Twitter аккаунт
+linkedin_account: Linkedin счет
+gp_account: Google + счет
+account_msg: Пожалуйста , введите ссылку, без HTTP: //
+contact_email: Связаться Электронная почта программы
+webadmin_name: WebAdmin Имя
+webadmin_email: Webadmin Email
+update: Update
+upload: Загрузить
+site_title: Site Title
+footer_text: Footer Текст
+site_logo: сайта Логотип
+site_language: сайта Язык
+site_text_direction: текста Направление сайта
+per_page: Pagination на страницу по
+default_page_layout: умолчанию Макет страницы
+smtp_email: SMTP электронной почты
+smtp_host: SMTP хост
+smtp_port: SMTP Порт
+smtp_timeout: SMTP Тайм - аут
+smtp_user: SMTP пользователя
+smtp_password: SMTP Пароль
+generate_site_map: Сформировать Карта сайта
+sitemap_info_msg: NB: NB Пожалуйста , выберите который вы хотите быть включены в карту сайта XML. После успешной генерации sitemap.xml сохраняется под корневым каталогом. Вы также можете редактировать этот файл для включения собственных URL - адресов.
+pages: Страницы
+view_xml: Просмотреть XML
+create_xml: Создание XML
+manage_backups: Управление резервными копиями
+create_sql_backup: Создание резервного копирования SQL
+create_image_backup: Создание резервной копии Image
+restore: Restore
+download: Скачать
+dashboard: Dashboard
+overview_stats_more: Обзор, статистика и многое другое
+visit_site: Посетить сайт
+themes: Темы
+locations: Места
+profile: Профиль
+agents: Агенты
+widgets: Виджеты
+all_widgets: Все Виджеты
+widget_positions: Виджет Позиции
+new_post: Новое сообщение
+pages_and_menu: Страницы и меню
+new_page: Новая страница
+menu: меню
+system: Система
+edit_email_text: Редактировать текст сообщения электронной почты
+admin_settings: Web Параметры администратора
+sitemap: Карта сайта
+activate: Активировать
+active_theme: Активная тема
+available_themes: Доступные темы
+all_users: Все пользователи
+create_user: Создать пользователя
+export_user_email: Письма Экспорт пользователей (.csv)
+profile_info: Профиль Информация
+edit_page: Редактировать страницу
+create_widget: Создать виджет
+widget_name: виджет Имя
+activate_deactivate: Активировать / дезактивировать
+show: Показать
+available_widgets: доступных виджетов
+active_widgets: Активные Виджеты
+delete_warning: вы уверены , что хотите удалить.
+yes: 'Да'
+no: 'Нет'
+fa_icon: FA значок класса
+post_ad: Опубликовать
+post_ad_subtitle: Положите объявление деталь для
+signin: входа в аккаунт
+signup: Регистрация
+signup_title: Создать учетную запись
+not_found: не найдены
+purpose: Цель
+select_category: Выберите категорию
+upload_later_msg: Вы сможете загрузить галерею фото и видео URL после создания пост
+user_panel: панели пользователя
+logout: Выход из системы
+put_as_comma_seperated: ставится как (,) Запятая sperated
+added: Добавлено
+location: Местоположение
+views: Просмотров
+add_new: Добавить
+search: поиск
+contact_mode: Контактная Режим
+reset: сброса
+contact: Контактная
+type_your_message: Текст сообщения ..
+mail_sent: почта , отправленная
+home: Главная
+list_your_ad: Список Your Ad
+print: Печатать
+remember_me: Запомнить меня
+forgot_password: Забыли пароль
+login_to_your_account: Войти в личный кабинет
+register_your_account: Зарегистрировать свой аккаунт
+male: Мужской
+female: Женский
+state: Государство
+users: пользователя
+ads: объявления
+categories: Категории
+top_posts: Top Сообщения
+default_site_settings: сайта по умолчанию Настройки
+webadmin_settings: Настройки программы WebAdmin
+banner_settings: Banner Настройки
+logged_in_as: Записан в качестве
+password_change_success: пароля успешно изменен
+email_sent_inbox: Письмо с посылается на ваш inbox.Check что электронная почта.
+password_recovery_link_invalid: Восстановление пароля ссылка недействительна
+user_updated: Пользователь Обновление
+user_deleted: Пользователь удалён
+data_inserted: Data вставлено
+data_updated: обновление
+page_updated: страницы Обновление генерации
+page_created: страницы
+page_deleted: Страница Исключен
+menu_updated: Меню Обновление
+site_map_generation_success: Карта сайта успешно создан .
+select_option: Пожалуйста , выберите или более выбора параметров.
+image_backup_created: Image Резервное копирование Дата создания
+language_translated: Язык Переведено
+backup_deleted: резервного копирования удаленных
+database_restored: баз данных Восстановлены
+theme_activated: Тема Активированный
+user_created: пользователя Дата создания
+widget_position_updated: Widget постион Обновленный
+widget_created: виджет Дата создания
+settings_updated: Настройки обновлены
+widget_data_updated: Widget данных Обновление
+unable_to_write_widget: Невозможно записать виджет
+admin_change_pass_help: Оставьте пустым , если никаких изменений не нужно
+login_with_google: Войти с помощью Google
+login_with_facebook: Войти с использованием Facebook
+register_for_new_account : Зарегистрированные пользователи получают новую учетную запись
+site_map : Карта сайта
+show_site_map : Показать карту сайта
+about : О
+see_full_documentation: Престола полная документация
+admin: администратора
+re_password: Повторите пароль
+explain_widget_position: Объяснить виджет позиции
+new_ad: Новое объявление
+select_one: Выберите One
+username_or_email: Имя пользователя или E - mail
+post_detail: сообщение детали
+edit_user: Редактирование пользователя
+the_field_is_required: требуется поле% S в .
+valid_email: Поле% S в должен содержать действительный адрес электронной почты.
+min_length: Поле% S в должно быть , по крайней мере , % S символов в длину.
+numeric: Поле% S в должен содержать только цифры.
+matches: Поле% S в не соответствует поле% S в .
+greater_than: Поле% S в должно содержать число больше , чем% с.
+must_accept_terms: Вы должны принять условия и сроки У
+dont_have_permission: вас нет разрешения на доступ к этой странице на
+email_allready_in_use: e - mail уже используется
+username_allready_in_use: Псевдоним Allready в использовании
+current_password_not_matched: Текущий пароль Didn \ 'т матч
+email_not_matched: E - mail не соответствует
+account_not_confirmed: учетной записи не подтвердили
+unique_alias: поле% S в должен быть уникальным
+smtp_email_settings: Настройки SMTP электронной почты
+error_occured: произошла ошибка , Пожалуйста , проверьте поля ниже
+user_profile: Профиль пользователя "
+user_email: Адрес электронной почты пользователя
+target_lang_name: Язык
+enable_signup: Enable Signup
+facebook_app_settings: Настройки Facebook приложение
+enable_facebook_login: Enable Вход facebook
+fb_app_id: Facebook идентификатор приложения
+fb_secret_key: Facebook секретных ключей
+comment_settings: Настройка комментария
+enable_comment: Включить комментарии
+disqus_shortname: Disqus ShortName
+active_widget_position: Активная позиция виджет
+upload_and_install: Загрузить и установить
+install_updates: Установить обновления / Темы / Плагины / Виджеты
+click_and_edit: Выберите файл шаблона и нажмите редактировать
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: настройки по умолчанию SEO
+find_us_on_facebook: Найти нас на Facebook
+type_anything: Тип Anything
+login_failed : Ошибка входа
+debug_email : отладки электронной почты
+email_to : Чтобы отправить письмо
+ive_read_the: я прочитал
+title_city_category: название, источник или Категория
+css_compression: Слияние все CSS файлы
+all_sub_categories : Все Подкатегории
+no_sub_categories : нет Подкатегории
+email_cleared: нет E - Mail очистили
+hide_users_profile_phone: Скрыть профиль пользователя телефона
+features: Характеристики
+new_source: Новый источник
+all_sources: Все источники
+addsource: Добавить источник
+seo_keywords : Seo Ключевые слова
+seo_description : Сео Описание
+all_videos : Все видео
+new_video : Новое видео
+create_video : Создание видео
+edit_video : Редактирование видео
+no_source : Нет Источник
+no_category : Нет Категория
+sub_category : Подкатегория
+category_2: S.Category
+video_updated: Видео обновлено
+video_added: видео создано
+source: Источник
+link: Ссылка
+media: медиа
+put_as_comma_separated: Поместить в запятой (,) , отделенный формат
+site_settings: настроек сайта
+clear_old_videos: Очистить старые видео
+videos_before: Видео до того,
+leave_empty_if_doesnot_matter: оставьте поле пустым , если Безразлично 'т имеет значения
+view_less_than: Вид меньше
+without_image: Без изображения
+you_cant_undo_this_action: Вы не можете отменить это действие
+video_deleted: видео разминировали
+general: Общий
+moderator: Модератор
+genaral_user_can_create_post: Пользователь может создавать видео
+moderator_can_create_post: Модератор может создавать видео
+auto_crawl: Авто ползать
+lazy_load_images: отложенной загрузки изображений
+generate_widgets: Генерировать виджетов
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget сгенерированные
+widget_generation_failed: поколение Widget не удалось
+latest_videos: Последние
+video_by: видео по
+top_videos: Лучшее видео
+source_added: Источник Добавлено
+no_videos_found: нет видео
+clear: Clear
+seen_by: View
+read_this_on: Прочитайте это на
+video_source: видео от источника
+video_category: видео из категории
+source_name: Название
+parent_category: родительской категории
+videos_grabbed: Видео схватил успешно
+rss_url: URL канала
+auto_grabbing: Auto захватывая
+start_on: Start на
+grab_duration: грейферный продолжительность
+item_per_grab: Пункт на грейферного
+edit_source: Редактировать исходный
+source_updated: источник обновленного
+video_featured: видео признакам
+video_un_featured: Видео ООН признакам
+no_videos: нет видео
+featured_videos: Лучшее видео
+widget_updated: Виджет обновляются
+delete_selected: Удалить выбранные
+popular_videos: популярные видео
+search_result_for: Поиск Результат
+source_type: Тип источника
+make_featured: Сделать признакам
+enable_cookie_policy_popup: Cookie Policy Всплывающее
+cookie_policy_page_url: Cookie страницу политики URL
+cookie_policy: политики Cookie
+cookie_policy_alert: Этот сайт использует куки - файлы. Продолжая использовать этот сайт , вы соглашаетесь на использование нами куки.
+read_more: Подробнее
+i_agree: Я согласен
+confirmation_email : Подтверждение электронной почты
+recovery_email : Восстановление электронной почты
+payment_confirmation_email : подтверждение оплаты по электронной почте
+tracking_code : код отслеживания
+video: видео
+auto_translate: Авто Перевести
+auto_translator: Авто Переводчик
+from_lang: с языка
+edit_email_template: Редактирование TMPL электронной почты
+web_email_settings : настройки электронной почты Web ,
+on: размещенном на
+video_sources: видео Источники
+save_images_locally: Сохранение изображений локально
+media_url_update: Обновление старых медиа URL
+old_base_url: Старая база URL
+new_base_url: Новая база URL
+enable_cache: Enable Cache
+grabnow: Grab Теперь
+sample_page: Пример страницы
+disable_main_site_link: Отключить Основная ссылка сайта
+admin_language: язык Администратор
+five_filters_api_url: Пять фильтров апи URL
+january: Январь
+february: Февраль
+march: Март
+april: Апрель
+may: май
+june: Июнь
+july: Июль
+august: август
+september: Сентябрь
+october: Октябрь
+november: Ноябрь
+december: Декабрь
+generaluser_can_create_post: Genral пользователь может создать видео
+publish_posts_directly: Опубликовать запись непосредственно
+pending_msg: . Будут опубликованы , как только админ обзор его
+publish: публикации
+unpublish: Проект
+post_approved: Post опубликовал
+post_drafted: Новости подготовлен В
+pending: ожидании / подготовлен
+published: Опубликовано
+logo_text: Логотип текст
+logo_text_color: Логотип цвет текста
+logo_type: тип Логотип
+show_source_menu: Показать источник меню
+show_cat_menu: Показать меню категории
+enable_adblocker_alert: Включить AdBlocker оповещения
+adblock_detected: Adblock Обнаружен
+adblock_msg: Пожалуйста disbale AdBlock и обновите страницу снова
+enable_featured_video_carousel: Fetured видео баннер
+top_videos_instead_featured: Топ видео вместо продвигаемых на слайдера
+related_videos: Похожие видео
+remove_featured: Удалить Показанный
+menu_type: тип меню
+youtube_app_settings: настройки Youtube приложение
+yt_api_key: Youtube ключ апи
+youtube_channel: канал Youtube
+youtube_user: Youtube пользователь
+youtube_playlist: Youtube Playlist
+youtube_search: Youtube Результат поиска
+grab_info: Grab Info
+link_or_id: Youtube ссылку на видео / ID
+type_link_or_id: Положите видео YouTube или URL - адрес идентификатор видео
+loading: Loading ...
+any_category: Любая категория
+use_name_as_frontend_widget_title: Использовать имя в качестве внешнего интерфейса виджета название ( В противном случае будет использоваться категория или название источника)
+channel_id_or_url: идентификатор канала или URL
+put_youtube_channel_id_or_url: Вставить канал YouTube идентификатор или URL здесь , как "UCD2XuG7GK1HrQdiHOCa6iOg" или "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Поиск текста
+put_youtube_search_text: Тип / вставка YouTube Поиск текста здесь
+playlist_id_or_url: ID плейлиста или URL
+put_youtube_playlist_id_or_url: Вставить идентификатор плейлиста юность или URL здесь , как "PLC8AEE86B4D4E345D" или "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: идентификатор пользователя или URL
+put_youtube_user_id_or_url: Вставить идентификатор пользователя YouTube или URL здесь , как "MARVEL "или" https://www.youtube.com/user/MARVEL "
+url_not_valid: Ваш идентификатор канала или идентификатор плейлиста или текстовый поиск не является действительным. Перейти для редактирования и проверки.
+video_id_not_valid: Youtube ссылку на видео или ID не является действительным
+with_video: с видео
+autoplay_video: Автозапуск видео
+url_or_id_required: адрес или поле необходимо предъявить удостоверение личности
+any_source: любого источника
+any_subcategory: Любая подкатегория категории
+use_youtube_publish_time: Использовать же время публикации в YouTube
+widget_type: "Смотреть дальше" Тип ссылки
+how_to_yt_api_key: Как получить ключ API юность?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Только опубликованные
+only_pending: только ожидающие
+only_featured: только признакам
+categories_deleted: Категории удалены
+can_not_undo: Вы не можете отменить это действие один раз разрешается. Ты уверен?
+how_to_get_gplus_api: Как получить Google плюс ключ API?
+auth_redirect_url: Auth URL переадресации
+gplus_app_settings: Google плюс приложение настройки
+enable_gplus_login: Включить Google + войти в
+gplus_client_id: Google+ идентификатор клиента
+gplus_client_secret: Google+ клиента секрет

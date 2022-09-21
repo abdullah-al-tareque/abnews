@@ -1,0 +1,447 @@
+---
+sign_in: உள்நுழை
+sign_up: பதிவு
+agent_panel: முகவர் குழு
+admin_panel: நிர்வாகம் குழு
+register: பதிவு
+details: விவரங்கள்
+view_all: காண்க அனைத்து
+order_by: உத்தரவு
+none: எதுவும்
+terms_and_conditions: விதிமுறைகள் மற்றும் நிபந்தனைகளின்
+reg_success_message: உங்கள் கணக்கு பதிவு இலட்சியத்தையும் உள்ளது. மின்னஞ்சல் ஒன்று உங்கள் மின்னஞ்சல் அனுப்பப்பட்டது. உங்கள் account.Thanks செயல்படுத்த என்று மின்னஞ்சல் பின்பற்றவும்
+recover: மீட்டெடு
+oops: அச்சச்சோ, பக்கம் காணப்படவில்லை
+address: முகவரி
+all: அனைத்து
+contact_us: எங்களை தொடர்பு
+confirmation: உறுதிப்படுத்தல்
+tags: குறிச்சொற்கள்
+login: உள்நுழைய
+post_not_found: வீடியோக்கள் ஏதும் இல்லை
+view_more: மேலும் காண்க
+image: பட
+create: உருவாக்கவும்
+send: அனுப்பவும்
+contact_subject: தொடர்பு மின்னஞ்சல்
+password: கடவுச்சொல்
+confirm_password: கடவுச்சொல் உறுதிப்படுத்தல்
+all_posts: அனைத்து வீடியோக்கள்
+no_posts: வீடியோக்கள் ஏதும்
+title: தலைப்பு
+description: விளக்கம்
+status: நிலைமை
+actions: செயல்கள்
+type: வகை
+type_something: வகை ஏதாவது
+content: உள்ளடக்க
+category: வகை
+all_categories: அனைத்து பிரிவுகள்
+edit_category: பிரிவில் திருத்த
+new_category: புதிய வகை
+edit: திருத்த
+delete: நீக்கு
+name: பெயர்
+save: சேமி
+no_parent: எந்த பெற்றோர்
+add_another: மற்றொரு சேர்
+export_to_file: கோப்பாக ஏற்றுமதி
+options: விருப்பங்கள்
+all_pages: அனைத்து பக்கங்கள்
+no_pages: இல்லை பக்கங்கள்
+manage_menu: நிர்வகி மெனு
+menu_title: பட்டி தலைப்பு
+menu_alias: பட்டி என்கிற
+show_in_menu: மெனுவில் ஷோ
+page_layout: பக்கம் அமைப்பை
+content_from: இருந்து உள்ளடக்க
+url: Url ஐ
+seo_options: எஸ்சிஓ விருப்பங்கள்
+meta_description: மெட்டா விளக்கம்
+key_words: முக்கிய வார்த்தைகள்
+crawl_after: (நாட்கள்) பிறகு வலம்
+all_plugins: அனைத்து கூடுதல்
+no_plugins: இல்லை கூடுதல்
+name_and_version: பெயர் மற்றும் பதிப்பு
+change_password: மாற்றம் கடவுச்சொல்லை
+current_password: தற்போதைய கடவுச்சொல்லை
+new_password: புதிய கடவுச்சொல்லை
+retype_password: மீண்டும் தட்டச்சு கடவுச்சொல்லை
+password_reset_info_msg: தயவு செய்து முதல் செட்டை உங்கள் புதிய கடவுச்சொல்
+edit_profile: திருத்து
+profile_picture: சுயவிவர படம்
+username: பெயர்
+email: மின்னஞ்சல்
+first_name: முதல் பெயர்
+last_name: கடைசி பெயர்
+gender: பால்
+phone: தொலைபேசி
+about_me: என்னைப் பற்றி
+facebook_account: பேஸ்புக் கணக்கு
+twitter_account: ட்விட்டர் கணக்கு
+linkedin_account: சென்டர் கணக்கு
+gp_account: , Google+ கணக்கு
+account_msg: : http இல்லாமல், தயவு செய்து இணைப்பு நுழைய: //
+contact_email: தொடர்பு மின்னஞ்சல்
+webadmin_name: Webadmin பெயர்
+webadmin_email: Webadmin மின்னஞ்சல்
+update: மேம்படுத்தல்
+upload: பதிவேற்ற
+site_title: தள தலைப்பு
+footer_text: அடிக்குறிப்பு உரை
+site_logo: தள சின்னம்
+site_language: தளத்தின் மொழி
+site_text_direction: தள உரை இயக்கம்
+per_page: , பக்கம் மண்பாண்டம்
+default_page_layout: இயல்புநிலை பக்கம் லேஅவுட்
+smtp_email: SMTP மின்னஞ்சல்
+smtp_host: SMTP கணினிக்கு
+smtp_port: SMTP, போர்ட்
+smtp_timeout: SMTP கால
+smtp_user: SMTP, பயனர்
+smtp_password: , SMTP கடவுச்சொல்
+generate_site_map: உருவாக்குதல் தள வரைபடம்
+sitemap_info_msg: NB: பின்குறிப்பு நீங்கள் தள சேர்க்கப்பட வேண்டும், இது தேர்ந்தெடுக்கவும் ஐ. வெற்றிகரமான தலைமுறை sitemap.xml பிறகு ரூட் அடைவில் கீழ் சேமிக்கப்படும். நீங்கள் உங்கள் சொந்த URL கள் உட்பட அந்த கோப்பு திருத்த முடியும்.
+pages: பக்கங்கள்
+view_xml: காண்க பிற
+create_xml: உருவாக்கு பிற
+manage_backups: மறுபிரதிகளை நிர்வகி
+create_sql_backup: உருவாக்கவும் எல் காப்பு
+create_image_backup: உருவாக்க பட காப்பு
+restore: மீட்டமை
+download: பதிவிறக்க
+dashboard: டாஷ்போர்டு
+overview_stats_more: கண்ணோட்டம், புள்ளிவிவரங்கள் மற்றும் மேலும்
+visit_site: விசிட் தள
+themes: தீம்கள்
+locations: இடங்கள்
+profile: செய்தது
+agents: முகவர்கள்
+widgets: சாளரம்
+all_widgets: அனைத்து சாளரம்
+widget_positions: சாளரம் அமையும்
+new_post: புதிய போஸ்ட்
+pages_and_menu: பக்கங்கள் மற்றும் பட்டி
+new_page: புதிய பக்கம்
+menu: பட்டி
+system: அமைப்பு
+edit_email_text: திருத்த மின்னஞ்சல் உரை
+admin_settings: வலை நிர்வாகம் அமைப்புகள்
+sitemap: தள வரைபடம்
+activate: செயல்படுத்தவும்
+active_theme: செயலில் தீம்
+available_themes: கிடைக்கும் தீம்கள்
+all_users: வீகோ
+create_user: உருவாக்கு
+export_user_email: ஏற்றுமதி பயனர் மின்னஞ்சல்கள் (CSV)
+profile_info: சுயவிவர தகவல்
+edit_page: திருத்து பக்கம்
+create_widget: சாளரம் உருவாக்கு
+widget_name: சாளரம் பெயர்
+activate_deactivate: செயல்படுத்தவும் / டி செயலாக்க
+show: காட்டு
+available_widgets: கிடைக்கும் சிறு சாளரம்
+active_widgets: செயலில் சாளரம்
+delete_warning: நீங்கள் உறுதியாக நீக்குவது வேண்டுமா.
+yes: 'ஆம்'
+no: 'இல்லை'
+fa_icon: , FA ஐகான் வர்க்கம்
+post_ad: இடுகை விளம்பர
+post_ad_subtitle: உங்கள் விளம்பரத்தை விவரம் போடு
+signin: உள்நுழைவு
+signup: இணைந்ததற்கு
+signup_title: உங்கள் கணக்கை உருவாக்கு
+not_found: கிடைக்கவில்லை
+purpose: நோக்கம்
+select_category: தேர்வு பகுப்பு
+upload_later_msg: நீங்கள் பதவியை உருவாக்க பின்னர் கேலரி புகைப்படங்கள் மற்றும் வீடியோ URL பதிவேற்ற முடியும்
+user_panel: பயனர் குழு
+logout: வெளியேறு
+put_as_comma_seperated: என (,) கமா sperated வைத்து
+added: சேர்க்கப்பட்டது
+location: இடம்
+views: பார்வைகள்
+add_new: சேர் புதிய
+search: தேடுதல்
+contact_mode: தொடர்பு முறை
+reset: மீட்டமை
+contact: தொடர்பு
+type_your_message: இங்கே உங்கள் செய்தியைத் தட்டச்சு ..
+mail_sent: மின்னஞ்சல் அனுப்பப்பட்டது
+home: முகப்பு
+list_your_ad: பட்டியல் விளம்பரத்தை
+print: அச்சு
+remember_me: என்னை ஞாபகம் வைத்து
+forgot_password: கடவுச்சொல் மறந்து விட்டீர்களா
+login_to_your_account: உங்கள் கணக்கில் உள்நுழைய
+register_your_account: உங்கள் கணக்கு பதிவு
+male: ஆண்
+female: பெண்
+state: மாநில
+users: பயனர்கள்
+ads: விளம்பரங்கள்
+categories: வகைகள்
+top_posts: மேல் இடுகைகள்
+default_site_settings: இயல்புநிலை தளத்தில் அமைப்புகள்
+webadmin_settings: Webadmin அமைப்புகள்
+banner_settings: பதாகை அமைப்புகள்
+logged_in_as: வெளியேற்ற என
+password_change_success: கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது
+email_sent_inbox: ஒரு மின்னஞ்சல் உங்கள் inbox.Check என்று மின்னஞ்சல் அனுப்ப உள்ளது.
+password_recovery_link_invalid: கடவுச்சொல் மீட்பு இணைப்பு உள்ளது செல்லாது
+user_updated: பயனர் புதுப்பிக்கப்பட்ட
+user_deleted: பயனர் நீக்கப்பட்ட
+data_inserted: தரவு சேர்க்கப்பட்டது
+data_updated: புதுப்பிக்கப்பட்ட தரவு
+page_updated: பக்கம் புதுப்பிக்கப்பட்ட
+page_created: பக்கம் உருவாக்கப்பட்டது
+page_deleted: பக்கம் நீக்கப்பட்டது
+menu_updated: பட்டி புதுப்பிக்கப்பட்ட
+site_map_generation_success: தள வரைபடம் வெற்றிகரமாக உருவாக்கப்பட்டது.
+select_option: தேர்வு அல்லது அதற்கு மேற்பட்ட விருப்பங்களை தேர்ந்தெடுத்து கொள்ளவும்.
+image_backup_created: பட காப்பு உருவாக்கப்பட்டது
+language_translated: மொழி பெயர்க்கப்பட்டது
+backup_deleted: காப்பு நீக்கப்பட்ட
+database_restored: டேட்டாபேஸ் மீட்டெடுத்தது
+theme_activated: தீம் இயக்கப்பட்டது
+user_created: பயனர் உருவாக்கப்பட்டது
+widget_position_updated: சாளரம் Postion புதுப்பிக்கப்பட்ட
+widget_created: சாளரம் உருவாக்கப்பட்டது
+settings_updated: அமைப்புகள் மேம்படுத்தப்பட்டது
+widget_data_updated: சாளரம் தரவு புதுப்பிக்கப்பட்ட
+unable_to_write_widget: விட்ஜெட்டை எழுத முடியவில்லை
+admin_change_pass_help: எந்த மாற்றமும் தேவைப்பட்டால் காலியாக விடவும்
+login_with_google: கூகிள் தேதி
+login_with_facebook: பேஸ்புக் தேதி
+register_for_new_account : புதிய கணக்கை பதிவு
+site_map : தள வரைபடம்
+show_site_map : தளம் வரைபடம் காட்டு
+about : பற்றி
+see_full_documentation: காண்க முழு ஆவணங்கள்
+admin: நிர்வாகம்
+re_password: கடவுச்சொல்லை மீண்டும் தட்டச்சு
+explain_widget_position: விளக்குங்கள் விட்ஜெட்டை நிலைகள்
+new_ad: புதிய விளம்பர
+select_one: தேர்ந்தெடுக்க ஒரு
+username_or_email: பயனர் பெயர் அல்லது மின்னஞ்சல்
+post_detail: போஸ்ட் விவரம்
+edit_user: திருத்து பயனர்
+the_field_is_required: % கள் துறையில் தேவை.
+valid_email: % கள் துறையில் ஒரு செல்லுபடியாகும் மின்னஞ்சல் முகவரி வேண்டும்.
+min_length: % கள் துறையில் நீளம் குறைந்தது% s எழுத்துக்கள் இருக்க வேண்டும்.
+numeric: % கள் துறையில் எண்கள் மட்டுமே இருக்க வேண்டும்.
+matches: % கள் துறையில்% கள் புலம் பொருந்தவில்லை.
+greater_than: % கள் துறையில்% கள் விட பெரிய கொண்டிருக்க வேண்டும்.
+must_accept_terms: விதிமுறைகளை ஏற்றுக்கொள்ளாவிட்டால் மற்றும் நிலை வேண்டும்
+dont_have_permission: நீங்கள் இந்த பக்கம் அணுக அனுமதி இல்லை
+email_allready_in_use: என்பது ஏற்கனவே பயன்பாட்டில் உள்ள மின்னஞ்சல்
+username_allready_in_use: allready பயன்பாட்டில் பயனர் பெயர்
+current_password_not_matched: தற்போதைய கடவுச்சொல்லை didn \ 'டி போட்டியில்
+email_not_matched: மின்னஞ்சல் பொருந்தியது
+account_not_confirmed: கணக்கு உறுதிப்படுத்தப்படவில்லை
+unique_alias: % கள் துறையில் தனிப்பட்ட இருக்க வேண்டும்
+smtp_email_settings: SMTP மின்னஞ்சல் அமைப்புகள்
+error_occured: பிழை ஏற்பட்டது . கீழே உள்ள புலங்களில் சரிபார்க்கவும்
+user_profile: வி.ஐ. '
+user_email: பயனர் மின்னஞ்சல்
+target_lang_name: இலக்கு மொழி
+enable_signup: இணைந்ததற்கு இயக்கு
+facebook_app_settings: பேஸ்புக் பயன்பாட்டை அமைப்புகளை
+enable_facebook_login: உள்நுழைவு பேஸ்புக் செயல்படுத்த
+fb_app_id: Facebook ஆப் ஐடி
+fb_secret_key: பேஸ்புக் இரகசிய முக்கிய
+comment_settings: கருத்து அமைப்புகள்
+enable_comment: கருத்து இயக்கு
+disqus_shortname: disqus shortname
+active_widget_position: செயலில் சாளரத்தின் நிலையை
+upload_and_install: பதிவேற்ற மற்றும் நிறுவ
+install_updates: மேம்படுத்தல்கள் நிறுவ / கருப்பொருள்கள் / கூடுதல் / சாளரம்
+click_and_edit: ஒரு டெம்ப்ளேட் கோப்பு தேர்வு மற்றும் கிளிக் தொகு
+google_analytics_settings: கூகுள் AnalyticsSettings
+default_seo_settings: இயல்புநிலை SEO அமைப்புகள்
+find_us_on_facebook: Facebook இல் எங்களை கண்டறிய
+type_anything: வகை எதையும்
+login_failed : உள்நுழைவு தோல்வியடைந்தது
+debug_email : பிழைதிருத்து மின்னஞ்சல்
+email_to : மின்னஞ்சலுக்கு
+ive_read_the: நான் படித்த
+title_city_category: தலைப்பு, மூல அல்லது வகை
+css_compression: அனைத்து CSS கோப்புகளை ஒன்றிணைக்க
+all_sub_categories : நாகலாந்து
+no_sub_categories : இல்லை சப் வகைகள்
+email_cleared: மின்னஞ்சல் அழிக்கப்படும்
+hide_users_profile_phone: பயனர்கள் மறை சுயவிவர தொலைபேசி
+features: அம்சங்கள்
+new_source: புதிய மூலம்
+all_sources: அனைத்து ஆதாரங்கள்
+addsource: மூல சேர்க்க
+seo_keywords : எஸ்சிஓ சொற்கள்
+seo_description : எஸ்சிஓ விளக்கம்
+all_videos : அனைத்து வீடியோக்கள்
+new_video : புதிய வீடியோ
+create_video : உருவாக்க வீடியோ
+edit_video : திருத்து வீடியோ
+no_source : ஆதாரம்
+no_category : இல்லை பகுப்பு
+sub_category : துணை பிரிவு
+category_2: S.Category
+video_updated: வீடியோ மேம்படுத்தப்பட்டது
+video_added: உருவாக்கப்பட்ட வீடியோ
+source: மூல
+link: இணைப்பு
+media: மீடியா
+put_as_comma_separated: கமா போன்ற போடு (,) பிரிக்கப்பட்ட வடிவத்தைப்
+site_settings: தள அமைப்புகள்
+clear_old_videos: தெளிவு பழைய வீடியோக்கள்
+videos_before: வீடியோக்கள் முன்
+leave_empty_if_doesnot_matter: பயன்தரவில்லை என்றால் விடுப்பு காலியாக 'T விஷயமே
+view_less_than: குறைவாக காண்க
+without_image: படம் இல்லாமல்
+you_cant_undo_this_action: நீங்கள் இந்த செயலை செயல் தவிர்க்க முடியாது
+video_deleted: வீடியோக்களும் அழிக்கப்படும்
+general: பொது
+moderator: நடுவர்
+genaral_user_can_create_post: பயனர் வீடியோக்களை உருவாக்க முடியும்
+moderator_can_create_post: நடுவர் வீடியோக்களை உருவாக்க முடியும்
+auto_crawl: ஆட்டோ வலம்
+lazy_load_images: சோம்பேறி படங்களை
+generate_widgets: விட்ஜெட்டுகளை உருவாக்க
+sidebar: பக்கப்பட்டி
+pagebody: Pagebody
+widget_generated: சாளரம் உருவாக்கப்படும்
+widget_generation_failed: சாளரம் தலைமுறை தோல்வி
+latest_videos: சமீபத்திய
+video_by: வீடியோ மூலம்
+top_videos: சிறந்த வீடியோக்கள்
+source_added: மூல சேர்க்கப்பட்டது
+no_videos_found: இல்லை வீடியோக்கள்
+clear: தெளிவு
+seen_by: காண்க
+read_this_on: படிக்க இந்த
+video_source: மூலத்திலிருந்து வீடியோ
+video_category: இருந்து ஒரு வகை வீடியோ
+source_name: பெயர்
+parent_category: பெற்றோர் பகுப்பு
+videos_grabbed: வீடியோக்கள் வெற்றிகரமாக எவரை
+rss_url: URL Feed
+auto_grabbing: வாட்டி வாகன
+start_on: தொடக்கம்
+grab_duration: கிராப் கால
+item_per_grab: கிராப் ஒன்றுக்கு பொருள்
+edit_source: தொகு
+source_updated: மூல மேம்படுத்தப்பட்டது
+video_featured: வீடியோ இடம்பெற்றது
+video_un_featured: வீடியோ ஐ.நா. இடம்பெற்றது
+no_videos: வீடியோக்கள் இல்லை
+featured_videos: வீடியோக்கள் இடம்பெற்றது
+widget_updated: புதுப்பிக்கப்பட்ட விட்ஜெட்
+delete_selected: நீக்கு தேர்ந்தெடுக்கப்பட்ட
+popular_videos: பிரபலமான வீடியோக்கள்
+search_result_for: தேடல் முடிவு
+source_type: மூல வகை
+make_featured: மேக்
+enable_cookie_policy_popup: குக்கீ கொள்கை மேல்மீட்பு
+cookie_policy_page_url: குக்கீ கொள்கை பக்கம் url
+cookie_policy: குக்கீ கொள்கை
+cookie_policy_alert: , இத்தளம் குக்கீகளை பயன்படுத்துகிறது. குக்கீகளை நாங்கள் பயன்படுத்த ஒப்புக்கொள்கிறீர்கள் இந்த தளத்தை பயன்படுத்த தொடர்வதன் மூலம்.
+read_more: மேலும் படிக்க
+i_agree: நான் ஏற்கிறேன்
+confirmation_email : உறுதிப்படுத்தல் மின்னஞ்சல்
+recovery_email : மீட்பு மின்னஞ்சல்
+payment_confirmation_email : கட்டணம் உறுதிப்படுத்தல் மின்னஞ்சல்
+tracking_code : கண்காணிப்பு குறியீடு
+video: வீடியோ
+auto_translate: வாகன மொழிபெயர்
+auto_translator: வாகன மொழிபெயர்ப்பாளர்
+from_lang: மொழி இருந்து
+edit_email_template: திருத்த மின்னஞ்சல் tmpl
+web_email_settings : வலை மின்னஞ்சல் அமைப்புகளை
+on: Posted On
+video_sources: வீடியோ ஆதாரங்கள்
+save_images_locally: படங்களை சேமிக்க உள்நாட்டில்
+media_url_update: பழைய செய்தி URL மேம்படுத்தல்
+old_base_url: பழைய அடிப்படை URL
+new_base_url: புதிய அடிப்படை URL
+enable_cache: இயக்கு கேச்
+grabnow: கிராப் இப்போது
+sample_page: மாதிரி பக்கம்
+disable_main_site_link: முடக்கு முக்கிய தளம் இணைப்பை
+admin_language: நிர்வாகம் மொழி
+five_filters_api_url: ஐந்து வடிகட்டிகள் API URL
+january: ஜனவரி
+february: பிப்ரவரி
+march: மார்ச்
+april: ஏப்ரல்
+may: மே
+june: ஜூன்
+july: ஜூலை
+august: ஆகஸ்ட்
+september: செப்டம்பர்
+october: அக்டோபர்
+november: நவம்பர்
+december: டிசம்பர்
+generaluser_can_create_post: Genral பயனர் வீடியோக்களை உருவாக்க முடியும்
+publish_posts_directly: நேரடியாக இடுகையை வெளியிடு
+pending_msg: . நிர்வாக முறை வெளியிடப்படும் அதை மறுபரிசீலனை
+publish: வெளியிடு
+unpublish: வரைவு
+post_approved: இடுகைகள் வெளியிடப்பட்ட
+post_drafted: செய்திகள் வரைவு
+pending: நிலுவையில் / வரைவு
+published: Published
+logo_text: லோகோ உரை
+logo_text_color: லோகோ உரை வண்ணம்
+logo_type: லோகோ வகை
+show_source_menu: மூல பட்டி காட்டு
+show_cat_menu: காட்டு வகை மெனு
+enable_adblocker_alert: adblocker எச்சரிக்கை இயக்கு
+adblock_detected: AdBlock கண்டறியப்பட்டது
+adblock_msg: தயவு செய்து adblock க்கு Disbale மீண்டும் பக்கம் புதுப்பிக்க
+enable_featured_video_carousel: Fetured வீடியோக்கள் பேனர்
+top_videos_instead_featured: பதிலாக சிறந்த வீடியோக்கள் ஸ்லைடர் இடம்பெற்றது என்ற
+related_videos: தொடர்புடைய வீடியோக்கள்
+remove_featured: சிறப்பு நீக்க
+menu_type: மெனு வகை
+youtube_app_settings: Youtube பயன்பாடு அமைப்புகளை
+yt_api_key: YouTube API விசை
+youtube_channel: YouTube சேனல்
+youtube_user: Youtube பயனர்
+youtube_playlist: YouTube பிளேலிஸ்ட்டில்
+youtube_search: YouTube தேடல் முடிவுக்கான
+grab_info: கிராப் தகவல்
+link_or_id: YouTube வீடியோ இணைப்பு / ஐடி
+type_link_or_id: YouTube வீடியோ URL அல்லது வீடியோ ஐடி வைத்து
+loading: ஏற்றுகிறது ...
+any_category: எந்த வகை
+use_name_as_frontend_widget_title: முன் தள விட்ஜெட்டை போன்ற பெயரை பயன்படுத்த தலைப்பு (இல்லையெனில் வகை அல்லது மூல பெயர் பயன்படுத்தப்படும்)
+channel_id_or_url: சேனல் ஐடி அல்லது url
+put_youtube_channel_id_or_url: "UCD2XuG7GK1HrQdiHOCa6iOg" அல்லது "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg" போன்ற இங்கே ஒட்டு YouTube சேனல் ஐடி அல்லது url
+search_text: தேடல் உரை
+put_youtube_search_text: வகை / ஒட்டு YouTube தேடல் உரை இங்கே
+playlist_id_or_url: பிளேலிஸ்ட்டில் ஐடி அல்லது url
+put_youtube_playlist_id_or_url: YouTube பிளேலிஸ்ட்டில் ஐடி அல்லது url "PLC8AEE86B4D4E345D" அல்லது "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D" போன்ற இங்கே ஒட்டு
+user_id_or_url: பயனர் ஐடி அல்லது url
+put_youtube_user_id_or_url: "மார்வெல் போன்ற YouTube பயனர் ஐடி அல்லது url ஒட்டு இங்கே "அல்லது" https://www.youtube.com/user/MARVEL "
+url_not_valid: உங்கள் சேனல் ஐடி அல்லது பிளேலிஸ்ட் ஐடி அல்லது தேடல் உரை தவறானது. திருத்த மற்றும் பார்க்கலாம் சென்று.
+video_id_not_valid: YouTube வீடியோ இணைப்பு அல்லது ஐடி தவறானது
+with_video: வீடியோ
+autoplay_video: தானியங்கி வீடியோ
+url_or_id_required: URL அல்லது ஐடி துறையில் தேவை
+any_source: எந்த மூல
+any_subcategory: எந்த துணை
+use_youtube_publish_time: அதே பயன்பாட்டு என YouTube நேரத்தில் வெளியிட
+widget_type: "மேலும்" இணைப்பு வகை
+how_to_yt_api_key: YouTube API விசை எப்படி பெற?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: மட்டும் வெளியிடப்பட்ட
+only_pending: நிலுவையில் மட்டும்
+only_featured: மட்டும் இடம்பெற்றது
+categories_deleted: வகைகள் நீக்கப்பட்டது
+can_not_undo: நீங்கள் இந்த நடவடிக்கை ஒரு முறை அனுமதி திரும்பப்பெற முடியாது. நீ சொல்வது உறுதியா?
+how_to_get_gplus_api: எப்படி கூகுள் பிளஸ் API விசை பெற?
+auth_redirect_url: URL அங்கீகார திருப்பி
+gplus_app_settings: கூகுள் பிளஸ் பயன்பாட்டை அமைப்புகளை
+enable_gplus_login: இயக்கு Google + உள்நுழைய
+gplus_client_id: Google+ கிளையன்ட் id
+gplus_client_secret: Google+ வாடிக்கையாளர் இரகசிய

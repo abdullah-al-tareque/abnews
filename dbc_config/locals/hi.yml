@@ -1,0 +1,447 @@
+---
+sign_in: साइन इन करें
+sign_up: साइन अप
+agent_panel: एजेंट पैनल
+admin_panel: व्यवस्थापक पैनल
+register: रजिस्टर
+details: विवरण
+view_all: सभी देखें
+order_by: आदेश द्वारा
+none: कोई भी
+terms_and_conditions: नियम और शर्त
+reg_success_message: आपका खाता पंजीकरण सफल है। एक ईमेल आपके ईमेल के लिए भेजा गया था। कि ईमेल सक्रिय करने के लिए अपने account.Thanks का पालन करें
+recover: उबरने
+oops: ओह, पृष्ठ नहीं मिला
+address: पता
+all: सभी
+contact_us: हमसे संपर्क
+confirmation: करें पुष्टिकरण
+tags: टैग
+login: लॉगिन
+post_not_found: वीडियो नहीं मिले
+view_more: और देखें
+image: छवि
+create: बनाएं
+send: भेजें
+contact_subject: संपर्क ईमेल
+password: पासवर्ड
+confirm_password: की पुष्टि करें
+all_posts: सभी वीडियो
+no_posts: कोई वीडियो
+title: शीर्षक
+description: विवरण
+status: स्थिति
+actions: प्रक्रिया
+type: प्रकार
+type_something: प्रकार कुछ
+content: सामग्री
+category: श्रेणी
+all_categories: सभी श्रेणियाँ
+edit_category: संपादित श्रेणी
+new_category: नई श्रेणी
+edit: संपादित
+delete: मिटायें
+name: नाम
+save: सहेजें
+no_parent: कोई माता पिता
+add_another: एक और जोड़े
+export_to_file: निर्यात फ़ाइल के लिए
+options: विकल्प
+all_pages: सभी पृष्ठों
+no_pages: कोई पृष्ठ
+manage_menu: प्रबंधित करें मेनू
+menu_title: मेनू शीर्षक
+menu_alias: मेनू उर्फ
+show_in_menu: मेनू में दिखाएँ
+page_layout: पृष्ठ लेआउट
+content_from: से सामग्री
+url: यूआरएल
+seo_options: एसईओ विकल्प
+meta_description: मेटा वर्णन
+key_words: कुंजी शब्द
+crawl_after: क्रॉल (दिन) के बाद
+all_plugins: सभी plugins
+no_plugins: कोई प्लगइन्स
+name_and_version: नाम और संस्करण
+change_password: बदलें पासवर्ड
+current_password: वर्तमान पासवर्ड
+new_password: नया पासवर्ड
+retype_password: पासवर्ड फिर से लिखें
+password_reset_info_msg: कृपया पहले सेट अपना नया पासवर्ड
+edit_profile: संपादित प्रोफ़ाइल
+profile_picture: प्रोफ़ाइल चित्र
+username: प्रयोक्ता नाम
+email: ईमेल
+first_name: प्रथम नाम
+last_name: अंतिम नाम
+gender: लिंग
+phone: फ़ोन
+about_me: मेरे बारे में
+facebook_account: फेसबुक अकाउंट
+twitter_account: ट्विटर खाते
+linkedin_account: लिंक्डइन अकाउंट
+gp_account: Google+ खाते
+account_msg: लिंक दर्ज करें http बिना,: //
+contact_email: संपर्क ईमेल
+webadmin_name: Webadmin नाम
+webadmin_email: Webadmin ईमेल
+update: अपडेट
+upload: अपलोड
+site_title: साइट शीर्षक
+footer_text: पाद पाठ
+site_logo: साइट लोगो
+site_language: साइट भाषा
+site_text_direction: साइट पाठ दिशा
+per_page: अंक लगाना प्रति पेज
+default_page_layout: डिफ़ॉल्ट पेज लेआउट
+smtp_email: एसएमटीपी ईमेल
+smtp_host: एसएमटीपी होस्ट
+smtp_port: SMTP पोर्ट
+smtp_timeout: एसएमटीपी मध्यांतर
+smtp_user: एसएमटीपी उपयोगकर्ता
+smtp_password: एसएमटीपी पासवर्ड
+generate_site_map: उत्पन्न साइट मानचित्र
+sitemap_info_msg: NB: एनबी करें जो आप साइटमैप पर शामिल होने के लिए चाहते हैं का चयन एक्सएमएल। बाद सफल पीढ़ी sitemap.xml जड़ निर्देशिका के अंतर्गत सहेजा जाता है। तुम भी अपने यूआरएल सहित के लिए उस फ़ाइल को संपादित कर सकते हैं।
+pages: पेज
+view_xml: XML दृश्य
+create_xml: बनाएं एक्सएमएल
+manage_backups: प्रबंधित बैकअप
+create_sql_backup: एसक्यूएल बैकअप बनाएं
+create_image_backup: बनाएं छवि बैकअप
+restore: पुनर्स्थापित
+download: डाउनलोड
+dashboard: डैशबोर्ड
+overview_stats_more: अवलोकन, आँकड़े और अधिक
+visit_site: भेंट साइट
+themes: विषय-वस्तु
+locations: स्थान
+profile: प्रोफाइल
+agents: एजेंटों
+widgets: विजेट
+all_widgets: सभी विजेट
+widget_positions: विजेट पदों
+new_post: नई पोस्ट
+pages_and_menu: पन्ने और मेनू
+new_page: नया पृष्ठ
+menu: मेनू
+system: प्रणाली
+edit_email_text: संपादित ईमेल पाठ
+admin_settings: वेब व्यवस्थापक सेटिंग्स
+sitemap: साइट मानचित्र
+activate: सक्रिय
+active_theme: चर्चित विषय
+available_themes: उपलब्ध विषयों
+all_users: सभी उपयोगकर्ताओं
+create_user: उपयोगकर्ता बनाएं
+export_user_email: निर्यात उपयोगकर्ता ईमेल (.csv)
+profile_info: प्रोफाइल इन्फो
+edit_page: संपादित करें पृष्ठ
+create_widget: बनाएं विजेट
+widget_name: विजेट नाम
+activate_deactivate: सक्रिय / डी-एक्टिवेट
+show: दिखाएँ
+available_widgets: उपलब्ध विगेट्स
+active_widgets: सक्रिय विजेट
+delete_warning: आप वाकई को नष्ट करना चाहते हैं।
+yes: 'हाँ'
+no: 'नहीं'
+fa_icon: एफए आइकन वर्ग
+post_ad: पोस्ट विज्ञापन
+post_ad_subtitle: रखो अपने विज्ञापन विस्तार
+signin: प्रवेश
+signup: साइनअप
+signup_title: अपने खाता बनाने के लिए
+not_found: नहीं मिला
+purpose: विषय
+select_category: श्रेणी का चयन
+upload_later_msg: आप पोस्ट निर्माण के बाद गैलरी तस्वीरें और वीडियो URL अपलोड करने में सक्षम हो जाएगा
+user_panel: उपयोगकर्ता पैनल
+logout: लॉगआउट
+put_as_comma_seperated: के रूप में (,) अल्पविराम sperated डाल
+added: जोड़ा
+location: स्थान
+views: दृश्य
+add_new: जोड़े नई
+search: खोजें
+contact_mode: संपर्क मोड
+reset: रीसेट
+contact: संपर्क
+type_your_message: अपने संदेश यहां लिखें ..
+mail_sent: मेल भेजा
+home: होम
+list_your_ad: सूची विज्ञापन
+print: प्रिंट
+remember_me: मुझे याद है
+forgot_password: पासवर्ड भूल गए
+login_to_your_account: अपने खाते में प्रवेश
+register_your_account: अपने खाते रजिस्टर
+male: पुरुष
+female: महिला
+state: राज्य
+users: उपयोगकर्ता
+ads: टॉप
+categories: श्रेणियाँ
+top_posts: शीर्ष पोस्ट
+default_site_settings: डिफ़ॉल्ट साइट सेटिंग्स
+webadmin_settings: Webadmin सेटिंग
+banner_settings: बैनर सेटिंग्स
+logged_in_as: लॉग इन के रूप में
+password_change_success: पासवर्ड सफलतापूर्वक बदल
+email_sent_inbox: एक ईमेल के अपने inbox.Check है कि ईमेल करने के लिए भेज रहा है।
+password_recovery_link_invalid: पासवर्ड रिकवरी लिंक मान्य नहीं है
+user_updated: उपयोगकर्ता Updated
+user_deleted: उपयोगकर्ता हटाए गए
+data_inserted: डेटा सम्मिलित
+data_updated: डेटा अद्यतन
+page_updated: पेज अद्यतन
+page_created: पृष्ठ बनाया
+page_deleted: पृष्ठ हटा
+menu_updated: मेनू अद्यतन
+site_map_generation_success: साइट का नक्शा सफलतापूर्वक उत्पन्न।
+select_option: पर चयन या एक से अधिक विकल्प का चयन करें।
+image_backup_created: छवि बैकअप बनाया
+language_translated: भाषा का अनुवाद
+backup_deleted: बैकअप हटाए गए
+database_restored: डेटाबेस पुनर्स्थापित
+theme_activated: थीम सक्रिय
+user_created: उपयोगकर्ता बनाया
+widget_position_updated: विजेट स्थिति अद्यतन
+widget_created: विजेट बनाया
+settings_updated: सेटिंग्स अपडेट
+widget_data_updated: विजेट डेटा अद्यतन
+unable_to_write_widget: विजेट लिखने में असमर्थ
+admin_change_pass_help: खाली छोड़ देते हैं कोई परिवर्तन की जरूरत
+login_with_google: गूगल के साथ लॉगिन
+login_with_facebook: Facebook के साथ लॉगिन
+register_for_new_account : न्यू खाते के लिए रजिस्टर
+site_map : साइट मानचित्र
+show_site_map : साइट मानचित्र दिखाएँ
+about : बारे
+see_full_documentation: देखें पूर्ण प्रलेखन
+admin: व्यवस्थापक
+re_password: फिर से लिखें पासवर्ड
+explain_widget_position: विजेट पदों समझाओ
+new_ad: नया विज्ञापन
+select_one: एक का चयन करें
+username_or_email: उपयोगकर्ता नाम या ईमेल
+post_detail: पोस्ट विस्तार
+edit_user: उपयोगकर्ता संपादित
+the_field_is_required: % s क्षेत्र की आवश्यकता है।
+valid_email: % S क्षेत्र एक मान्य ईमेल पता होना चाहिए।
+min_length: % S क्षेत्र लंबाई में कम से कम% s अक्षरों का होना चाहिए।
+numeric: % S क्षेत्र केवल अंक ही होना चाहिए।
+matches: % S क्षेत्र% s क्षेत्र से मेल नहीं खाती।
+greater_than: % S क्षेत्र एक नंबर% s से अधिक होना चाहिए।
+must_accept_terms: आप शर्तों को स्वीकार और हालत चाहिए
+dont_have_permission: आप इस पेज को उपयोग करने के लिए अनुमति नहीं है
+email_allready_in_use: पहले से प्रयोग में ईमेल
+username_allready_in_use: allready उपयोग में यूजर का नाम
+current_password_not_matched: वर्तमान पासवर्ड didn \ 't मैच
+email_not_matched: ईमेल मिलान नहीं
+account_not_confirmed: खाते की पुष्टि नहीं की
+unique_alias: % s क्षेत्र अद्वितीय की जरूरत है
+smtp_email_settings: एसएमटीपी ईमेल सेटिंग
+error_occured: त्रुटि हुई । नीचे दिए गए फ़ील्ड की जाँच करें
+user_profile: उपयोगकर्ता '
+user_email: उपयोगकर्ता ई-मेल
+target_lang_name: लक्ष्य भाषा
+enable_signup: सक्षम साइनअप
+facebook_app_settings: फेसबुक अनुप्रयोग सेटिंग्स
+enable_facebook_login: लॉगिन Facebook सक्षम
+fb_app_id: फेसबुक अनुप्रयोग आईडी
+fb_secret_key: फेसबुक गुप्त कुंजी
+comment_settings: टिप्पणी सेटिंग्स
+enable_comment: टिप्पणी सक्षम
+disqus_shortname: Disqus Shortname
+active_widget_position: सक्रिय विजेट स्थिति
+upload_and_install: अपलोड करें और स्थापित
+install_updates: अद्यतन स्थापित / विषयों / plugins / विजेट्स
+click_and_edit: एक टेम्पलेट फ़ाइल का चयन करें और संपादित करें क्लिक करें
+google_analytics_settings: गूगल AnalyticsSettings
+default_seo_settings: डिफ़ॉल्ट एसईओ सेटिंग्स
+find_us_on_facebook: पर फेसबुक हमें पता लगाएं
+type_anything: प्रकार कुछ भी
+login_failed : लॉगइन असफल
+debug_email : डिबग ईमेल
+email_to : ईमेल करने के लिए
+ive_read_the: मैंने पढ़ा है
+title_city_category: शीर्षक, स्रोत या श्रेणी
+css_compression: मर्ज सभी सीएसएस फ़ाइलें
+all_sub_categories : सभी उप श्रेणियों
+no_sub_categories : कोई उप श्रेणियों
+email_cleared: ईमेल को मंजूरी दे दी
+hide_users_profile_phone: मिटायें उन प्रोफ़ाइल फोन
+features: सुविधाएँ
+new_source: न्यू स्रोत
+all_sources: सभी सूत्रों
+addsource: जोड़े स्रोत
+seo_keywords : एसईओ कीवर्ड
+seo_description : एसईओ विवरण
+all_videos : सभी वीडियो
+new_video : नई वीडियो
+create_video : बनाएँ वीडियो
+edit_video : संपादित वीडियो
+no_source : कोई स्रोत
+no_category : नहीं श्रेणी
+sub_category : उप श्रेणी
+category_2: S.Category
+video_updated: वीडियो अद्यतन
+video_added: वीडियो बनाया
+source: स्रोत
+link: लिंक
+media: मीडिया
+put_as_comma_separated: अल्पविराम के रूप में डाल (,) प्रारूप अलग
+site_settings: साइट सेटिंग्स
+clear_old_videos: साफ पुराने वीडियो
+videos_before: वीडियो से पहले
+leave_empty_if_doesnot_matter: खाली छोड़ यदि नहीं करता 'टी बात
+view_less_than: दृश्य से कम
+without_image: छवि के बिना
+you_cant_undo_this_action: आप पूर्ववत नहीं कर सकते इस कार्रवाई
+video_deleted: वीडियो को मंजूरी दे दी
+general: जनरल
+moderator: संचालक
+genaral_user_can_create_post: प्रयोक्ता वीडियो बना सकते
+moderator_can_create_post: संचालक वीडियो बना सकते हैं
+auto_crawl: ऑटो क्रॉल
+lazy_load_images: आलसी लोड हो रहा छवियों
+generate_widgets: विजेट्स उत्पन्न
+sidebar: साइडबार
+pagebody: Pagebody
+widget_generated: विजेट उत्पन्न
+widget_generation_failed: विजेट पीढ़ी में नाकाम रही
+latest_videos: नवीनतम
+video_by: वीडियो द्वारा
+top_videos: शीर्ष वीडियो
+source_added: सूत्र ने कहा
+no_videos_found: कोई वीडियो
+clear: साफ
+seen_by: दृश्य
+read_this_on: पढ़ें इस पर
+video_source: एक स्रोत से वीडियो
+video_category: एक श्रेणी से वीडियो
+source_name: का नाम
+parent_category: जनक श्रेणी
+videos_grabbed: वीडियो सफलतापूर्वक पकड़ा
+rss_url: यूआरएल फीड
+auto_grabbing: ऑटो हथियाने
+start_on: पर प्रारंभ
+grab_duration: पकड़ो अवधि
+item_per_grab: प्रति हड़पने मद
+edit_source: स्रोत संपादित
+source_updated: स्रोत अद्यतन
+video_featured: वीडियो रुप से प्रदर्शित
+video_un_featured: वीडियो संयुक्त राष्ट्र के विशेष रुप
+no_videos: कोई वीडियो
+featured_videos: रुप से प्रदर्शित वीडियो
+widget_updated: विजेट अद्यतन
+delete_selected: चिह्नित चुने गए
+popular_videos: लोकप्रिय वीडियो
+search_result_for: खोजें परिणाम
+source_type: प्रकाश प्रकार
+make_featured: विशेष रुप
+enable_cookie_policy_popup: कुकी नीति पॉपअप
+cookie_policy_page_url: कुकी नीति पृष्ठ URL
+cookie_policy: कुकी नीति
+cookie_policy_alert: इस साइट कुकीज़ का उपयोग करता है। इस साइट से आप कुकीज़ के हमारे इस्तेमाल के लिए सहमत का उपयोग करने के जारी रखकर।
+read_more: और पढ़ें
+i_agree: मैं इस बात से सहमत
+confirmation_email : पुष्टिकरण ईमेल
+recovery_email : वसूली ईमेल
+payment_confirmation_email : भुगतान पुष्टिकरण ईमेल
+tracking_code : ट्रैकिंग कोड
+video: वीडियो
+auto_translate: ऑटो अनुवाद
+auto_translator: स्वत: अनुवादक
+from_lang: भाषा से
+edit_email_template: संपादित ईमेल Tmpl
+web_email_settings : वेब ईमेल सेटिंग्स
+on: को पोस्ट
+video_sources: वीडियो सूत्रों का कहना है
+save_images_locally: छवियों को बचाने के लिए स्थानीय स्तर पर
+media_url_update: अद्यतन पुराने मीडिया यूआरएल
+old_base_url: पुराने आधार यूआरएल
+new_base_url: नया आधार यूआरएल
+enable_cache: सक्षम कैश
+grabnow: पकड़ो अब
+sample_page: नमूना पृष्ठ
+disable_main_site_link: अक्षम मुख्य साइट के लिंक
+admin_language: व्यवस्थापक भाषा
+five_filters_api_url: पांच फिल्टर एपीआई यूआरएल
+january: जनवरी
+february: फ़रवरी
+march: मार्च
+april: अप्रैल
+may: मई
+june: जून
+july: जुलाई
+august: अगस्त
+september: सितम्बर
+october: अक्टूबर
+november: नवम्बर
+december: दिसम्बर
+generaluser_can_create_post: Genral उपयोगकर्ता वीडियो बना सकते हैं
+publish_posts_directly: सीधे पोस्ट प्रकाशित करें
+pending_msg: । व्यवस्थापक एक बार प्रकाशित किया जाएगा यह समीक्षा
+publish: प्रकाशित
+unpublish: ड्राफ्ट
+post_approved: पोस्ट में प्रकाशित
+post_drafted: समाचार का मसौदा तैयार किया
+pending: विचाराधीन / मसौदा तैयार
+published: प्रकाशित
+logo_text: लोगो पाठ
+logo_text_color: लोगो पाठ रंग
+logo_type: लोगो प्रकार
+show_source_menu: स्रोत दिखाएँ मेनू
+show_cat_menu: दिखाएँ श्रेणी मेनू
+enable_adblocker_alert: सक्षम adblocker चेतावनी
+adblock_detected: Adblock पता लगाया
+adblock_msg: कृपया adblock disbale और फिर पृष्ठ ताज़ा
+enable_featured_video_carousel: Fetured वीडियो बैनर
+top_videos_instead_featured: के बजाय शीर्ष वीडियो स्लाइडर पर विशेष रुप से
+related_videos: संबंधित वीडियो
+remove_featured: विशेष रुप से हटाये
+menu_type: मेनू प्रकार
+youtube_app_settings: यूट्यूब अनुप्रयोग सेटिंग्स
+yt_api_key: यूट्यूब एपीआई कुंजी
+youtube_channel: यूट्यूब चैनल
+youtube_user: यूट्यूब उपयोगकर्ता
+youtube_playlist: यूट्यूब प्लेलिस्ट
+youtube_search: यूट्यूब खोज परिणाम
+grab_info: पकड़ो जानकारी
+link_or_id: यूट्यूब वीडियो लिंक / आईडी
+type_link_or_id: रखो यूट्यूब वीडियो URL या वीडियो आईडी
+loading: लोड हो रहा है ...
+any_category: किसी भी श्रेणी
+use_name_as_frontend_widget_title: दृश्यपटल विजेट के रूप में प्रयोग करें नाम शीर्षक (वरना श्रेणी या स्रोत का नाम इस्तेमाल किया जाएगा)
+channel_id_or_url: चैनल आईडी या यूआरएल
+put_youtube_channel_id_or_url: चिपकाने के यूट्यूब चैनल आईडी या यूआरएल यहाँ "UCD2XuG7GK1HrQdiHOCa6iOg" या "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg" की तरह
+search_text: खोजें पाठ
+put_youtube_search_text: प्रकार / चस्पा यूट्यूब खोज पाठ यहाँ
+playlist_id_or_url: प्लेलिस्ट आईडी या यूआरएल
+put_youtube_playlist_id_or_url: "PLC8AEE86B4D4E345D" या "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D" की तरह यहां चिपकाएं यूट्यूब प्लेलिस्ट आईडी या यूआरएल
+user_id_or_url: उपयोगकर्ता आईडी या यूआरएल
+put_youtube_user_id_or_url: यूट्यूब यूजर आईडी या यूआरएल चिपकाने यहाँ "चमत्कार की तरह "या" https://www.youtube.com/user/MARVEL "
+url_not_valid: आपका चैनल आईडी या प्लेलिस्ट आईडी या खोज पाठ मान्य नहीं है। संपादित करें और जांच करने के लिए जाओ।
+video_id_not_valid: यूट्यूब वीडियो लिंक या आईडी मान्य नहीं है
+with_video: वीडियो के साथ
+autoplay_video: ऑटोप्ले वीडियो
+url_or_id_required: URL या आईडी फ़ील्ड आवश्यक है
+any_source: किसी भी स्रोत
+any_subcategory: किसी उपश्रेणी
+use_youtube_publish_time: उपयोग एक ही यूट्यूब के रूप में समय से प्रकाशित
+widget_type: "देखें" लिंक प्रकार
+how_to_yt_api_key: यूट्यूब एपीआई कुंजी कैसे प्राप्त करें?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: केवल प्रकाशित
+only_pending: केवल लंबित
+only_featured: केवल विशेष रुप
+categories_deleted: श्रेणियां हटा
+can_not_undo: आप पूर्ववत नहीं कर सकते यह कार्रवाई एक बार अनुमति दी। क्या आपको यकीन है?
+how_to_get_gplus_api: कैसे गूगल प्लस एपीआई कुंजी पाने के लिए?
+auth_redirect_url: Auth अनुप्रेषित यूआरएल
+gplus_app_settings: गूगल प्लस अनुप्रयोग सेटिंग्स
+enable_gplus_login: गूगल + के लिए लॉग इन सक्षम
+gplus_client_id: Google+ ग्राहक आईडी
+gplus_client_secret: Google+ ग्राहक रहस्य

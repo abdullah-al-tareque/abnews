@@ -1,0 +1,447 @@
+---
+sign_in: সাইন ইন
+sign_up: সাইন আপ
+agent_panel: এজেন্ট প্যানেল
+admin_panel: অ্যাডমিন প্যানেল
+register: নিবন্ধন
+details: বিবরণ
+view_all: দেখুন সকল
+order_by: আদেশ দ্বারা
+none: কোনটি
+terms_and_conditions: শর্তাদি এবং শর্ত
+reg_success_message: আপনার অ্যাকাউন্ট নিবন্ধন successfull হয়. একটি ই-মেইল আপনার ই-মেইল পাঠানো হয়েছে. যে ই-মেইল সক্রিয় করার জন্য আপনার account.Thanks অনুসরণ করুন
+recover: পুনরুদ্ধার করুন
+oops: ওহো, পৃষ্ঠা খুঁজে পাওয়া যায়নি
+address: ঠিকানা
+all: সকল
+contact_us: করুন আমাদের সাথে যোগাযোগ
+confirmation: নিশ্চিতকরণ
+tags: ট্যাগ্স
+login: লগইন
+post_not_found: ভিডিও পাওয়া
+view_more: আরো দেখুন
+image: চিত্র
+create: তৈরি করুন
+send: পাঠান
+contact_subject: যোগাযোগ ইমেল
+password: পাসওয়ার্ড
+confirm_password: নিশ্চিত পাসওয়ার্ড
+all_posts: সকল ভিডিও
+no_posts: কোন ভিডিও
+title: শিরোনাম
+description: বর্ণনা
+status: স্থিতি
+actions: পদক্ষেপ
+type: প্রকার
+type_something: প্রকার কিছু
+content: বিষয়বস্তু
+category: শ্রেণী
+all_categories: সকল বিভাগ
+edit_category: সম্পাদনা বিভাগ
+new_category: নতুন বিভাগ
+edit: সম্পাদনা
+delete: মুছে
+name: নাম
+save: সেভ
+no_parent: কোন পিতা বা মাতা
+add_another: আরেকটি যোগ
+export_to_file: এক্সপোর্ট ফাইল থেকে
+options: বিকল্প
+all_pages: সমস্ত পৃষ্ঠা
+no_pages: কোন পৃষ্ঠাগুলি
+manage_menu: পরিচালনা মেনু
+menu_title: মেনু শিরোনাম
+menu_alias: মেনু ওরফে
+show_in_menu: মেনু দেখান
+page_layout: পৃষ্ঠা বিন্যাস
+content_from: থেকে বিষয়বস্তু
+url: ইউআরএল
+seo_options: এসইও অপশন
+meta_description: মেটা বর্ণনা
+key_words: মূল শব্দ
+crawl_after: হামাগুড়ি (দিন) পর
+all_plugins: সব প্লাগ-ইনের
+no_plugins: কোন প্লাগিন
+name_and_version: নাম ও সংস্করণের
+change_password: পাসওয়ার্ড পরিবর্তন করুন
+current_password: বর্তমান পাসওয়ার্ড
+new_password: নতুন পাসওয়ার্ড
+retype_password: পাসওয়ার্ড আবার টাইপ
+password_reset_info_msg: করুন প্রথম সেট আপনার নতুন পাসওয়ার্ড
+edit_profile: সম্পাদনা প্রফাইল
+profile_picture: প্রোফাইল ছবি
+username: ইউজারনেম
+email: ইমেল
+first_name: নামের প্রথমাংশ
+last_name: নামের শেষাংশ
+gender: জেন্ডার
+phone: ফোন
+about_me: আমার সম্পর্কে
+facebook_account: ফেসবুকে অ্যাকাউন্ট
+twitter_account: টুইটার অ্যাকাউন্ট
+linkedin_account: লিঙ্কডইন অ্যাকাউন্ট
+gp_account: Google+ অ্যাকাউন্ট
+account_msg: লিঙ্কে প্রবেশ করুন http- র ছাড়া,: //
+contact_email: যোগাযোগ ইমেল
+webadmin_name: Webadmin নাম
+webadmin_email: Webadmin ইমেল
+update: আপডেট
+upload: আপলোড
+site_title: সাইট শিরোনাম
+footer_text: পাদলেখ পাঠ্য
+site_logo: সাইট লোগো
+site_language: সাইটের ভাষা
+site_text_direction: সাইট টেক্সট দিকবিন্যাস
+per_page: পত্রাঙ্কন প্রতি পৃষ্ঠা
+default_page_layout: ডিফল্ট পৃষ্ঠা সজ্জা
+smtp_email: SMTP এর ইমেইল
+smtp_host: SMTP এর হোস্ট
+smtp_port: SMTP এর পোর্ট
+smtp_timeout: SMTP এর Timeout এ কোডটি
+smtp_user: SMTP এর নিচে
+smtp_password: SMTP এর পাসওয়ার্ড
+generate_site_map: জেনারেট সাইট ম্যাপ
+sitemap_info_msg: NB: দ্রষ্টব্য করুন যা আপনি সাইটম্যাপ অন্তর্ভুক্ত করা করতে চান তা নির্বাচন তারা xml. পরে সফল প্রজন্মের sitemap.xml রুট ডিরেক্টরি অধীনে সংরক্ষিত হয়. এছাড়াও আপনি আপনার নিজের URL গুলি সহ জন্য যে ফাইলটি সম্পাদন করতে পারেন.
+pages: পেজ
+view_xml: এক্সএমএল দেখুন
+create_xml: তৈরি করুন এক্সএমএল
+manage_backups: পরিচালনা ব্যাকআপ
+create_sql_backup: এসকিউএল ব্যাকআপ তৈরি করুন
+create_image_backup: তৈরি করুন প্রতিচ্ছবি ব্যাকআপ
+restore: পুনরুদ্ধার
+download: ডাউনলোড
+dashboard: ড্যাশবোর্ড
+overview_stats_more: ওভারভিউ, পরিসংখ্যান এবং আরো
+visit_site: সাইট পরিদর্শন করুন
+themes: থিমস
+locations: অবস্থানগুলো
+profile: প্রোফাইলের
+agents: এজেন্ট
+widgets: উইজেট
+all_widgets: সকল উইজেট
+widget_positions: উইজেট পদসমূহ
+new_post: নতুন পোস্ট
+pages_and_menu: পেজ & মেনু
+new_page: নতুন পাতা
+menu: মেনু
+system: সিস্টেম
+edit_email_text: সম্পাদনা ইমেইল টেক্সট
+admin_settings: ওয়েব অ্যাডমিন সেটিং
+sitemap: সাইট ম্যাপ
+activate: অ্যাক্টিভেট
+active_theme: সক্রিয় থিম
+available_themes: উপলব্ধ থিম
+all_users: সকল ব্যবহারকারীর
+create_user: ব্যবহারকারী
+export_user_email: রপ্তানি ব্যবহারকারীর ই-মেইল (.csv)
+profile_info: প্রোফাইল তথ্য
+edit_page: সম্পাদনা পাতা
+create_widget: তৈরি করুন উইজেট
+widget_name: উইজেট নাম
+activate_deactivate: সক্রিয় / ডি-অ্যাক্টিভেট
+show: দেখান
+available_widgets: উপলব্ধ উইজেট
+active_widgets: সক্রিয় উইজেট
+delete_warning: আপনি নিশ্চিত মুছতে পারি ইচ্ছুক.
+yes: 'হ্যাঁ'
+no: 'না'
+fa_icon: এফএ আইকন বর্গ
+post_ad: পোস্ট এ্যাড
+post_ad_subtitle: রাখুন আপনার বিজ্ঞাপন বিস্তারিত
+signin: সাইনইন
+signup: সাইনআপ
+signup_title: আপনার অ্যাকাউন্ট তৈরি করুন
+not_found: না পাওয়া
+purpose: পারপাস
+select_category: বিভাগ নির্বাচন করুন
+upload_later_msg: আপনি পোস্ট নির্মাণের পরে গ্যালারি ফটো এবং ভিডিও আপলোড করার জন্য URL সক্ষম হবেন
+user_panel: ব্যবহারকারী প্যানেল
+logout: লগআউট
+put_as_comma_seperated: যেমন (,) কমা sperated করা
+added: যোগ করা হয়েছে
+location: অবস্থান
+views: দেখেছে
+add_new: যোগ নতুন
+search: অনুসন্ধান
+contact_mode: করুন মোড
+reset: রিসেট
+contact: করুন
+type_your_message: আপনার বার্তা এখানে লিখুন ..
+mail_sent: মেইল পাঠান
+home: হোম
+list_your_ad: তালিকা আপনার Ad
+print: প্রিন্ট
+remember_me: আমাকে মনে রাখুন
+forgot_password: পাসওয়ার্ড ভুলে গেছেন?
+login_to_your_account: আপনার অ্যাকাউন্টে লগইন
+register_your_account: করে আপনার অ্যাকাউন্ট নিবন্ধন
+male: পুরুষ
+female: মহিলা
+state: রাজ্য
+users: ব্যবহারকারীরা
+ads: বিজ্ঞপ্তি
+categories: ধরন
+top_posts: শীর্ষ পোস্ট
+default_site_settings: ডিফল্ট সাইট সেটিং
+webadmin_settings: Webadmin সেটিংস
+banner_settings: ব্যানার সেটিংস
+logged_in_as: লগ ইন হিসাবে
+password_change_success: পাসওয়ার্ড সফলভাবে পরিবর্তন
+email_sent_inbox: একটি ইমেল আপনার inbox.Check যে ইমেলে পাঠাতে হয়.
+password_recovery_link_invalid: পাসওয়ার্ড রিকভারি লিঙ্ক বৈধ নয়
+user_updated: ব্যবহারকারী আপডেট
+user_deleted: ব্যবহারকারী মোছা হয়েছে
+data_inserted: ডেটা সন্নিবেশিত
+data_updated: তথ্য Updated
+page_updated: পাতা Updated
+page_created: পাতা তৈরী
+page_deleted: পৃষ্ঠা মোছা হয়েছে
+menu_updated: মেনু Updated
+site_map_generation_success: সাইট মানচিত্র সফলভাবে উত্পন্ন.
+select_option: নির্বাচন বা আরো অপশন নির্বাচন করুন.
+image_backup_created: প্রতিচ্ছবি ব্যাকআপ তৈরি করা
+language_translated: ভাষাটি অনুবাদ
+backup_deleted: ব্যাকআপ মুছে ফেলা
+database_restored: ডাটাবেস পুনরুদ্ধার হয়েছে
+theme_activated: থিম সক্রিয়
+user_created: ব্যবহারকারী তৈরি
+widget_position_updated: উইজেট postion আপডেট
+widget_created: উইজেট তৈরি করা
+settings_updated: সেটিংস আপডেট
+widget_data_updated: উইজেট ডেটা আপডেট
+unable_to_write_widget: উইজেট লিখতে অক্ষম
+admin_change_pass_help: ফাঁকা রাখেন, তাহলে কোনো পরিবর্তন প্রয়োজন
+login_with_google: গুগল দিয়ে লগইন
+login_with_facebook: ফেসবুক দিয়ে লগইন
+register_for_new_account : নতুন অ্যাকাউন্ট নিবন্ধন
+site_map : সাইট ম্যাপ
+show_site_map : দেখান সাইট ম্যাপ
+about : সম্পর্কে
+see_full_documentation: দেখুন পূর্ণ ডকুমেন্টেশন
+admin: অ্যাডমিন
+re_password: পুনঃটাইপ পাসওয়ার্ড
+explain_widget_position: উইজেট অবস্থানের ব্যাখ্যা করুন
+new_ad: নতুন বিজ্ঞাপন
+select_one: একটি নির্বাচন করুন
+username_or_email: ব্যবহারকারীর নাম বা ইমেল
+post_detail: পোস্ট বিস্তারিত
+edit_user: ব্যবহারকারী সম্পাদনা
+the_field_is_required: % s- ক্ষেত্র প্রয়োজন বোধ করা হয়.
+valid_email: % S এর ক্ষেত্র একটি বৈধ ই-মেইল ঠিকানা থাকতে হবে.
+min_length: % S এর ক্ষেত্র দৈর্ঘ্য কমপক্ষে% s- অক্ষর ব্যবহার করা আবশ্যক.
+numeric: % S এর ক্ষেত্র শুধুমাত্র সংখ্যা থাকতে হবে.
+matches: % S এর ক্ষেত্র% s- ক্ষেত্রের সাথে মিলছে না.
+greater_than: % S এর ক্ষেত্র একটি সংখ্যা% s তার চেয়ে অনেক বেশী ধারণ করতে হবে.
+must_accept_terms: আপনি পদ গ্রহণ এবং শর্ত নয়
+dont_have_permission: আপনি এই পৃষ্ঠায় যাওয়ার জন্য অনুমতি নেই
+email_allready_in_use: ব্যবহারে ইতিমধ্যে ইমেইল
+username_allready_in_use: Allready ব্যবহারে ব্যবহারকারীর নাম
+current_password_not_matched: বর্তমান পাসওয়ার্ড করিনি \ 'টি ম্যাচ
+email_not_matched: ইমেল মিলেছে না
+account_not_confirmed: অ্যাকাউন্ট নিশ্চিত না
+unique_alias: % s- ক্ষেত্র অনন্য হতে হবে
+smtp_email_settings: SMTP এর ইমেল সেটিং
+error_occured: ত্রুটি ঘটেছে . নিচের ক্ষেত্র চেক করুন
+user_profile: নিচে প্রোফাইল '
+user_email: ব্যবহারকারীর ই-মেইল
+target_lang_name: উদ্দিষ্ট ভাষা
+enable_signup: সক্ষম সাইনআপ
+facebook_app_settings: ফেসবুক অ্যাপ সেটিংস
+enable_facebook_login: ফেসবুকে প্রবেশ সক্রিয়
+fb_app_id: ফেসবুক অ্যাপ আইডি
+fb_secret_key: ফেসবুক গোপন চাবি
+comment_settings: মন্তব্য সেটিংস
+enable_comment: মন্তব্য সক্ষম
+disqus_shortname: সূত্র SHORTNAME
+active_widget_position: সক্রিয় উইজেট অবস্থানে
+upload_and_install: আপলোড ও ইন্সটল
+install_updates: আপডেট Install / থিম / প্লাগইন / উইজেট
+click_and_edit: একটি টেমপ্লেট ফাইল নির্বাচন এবং ক্লিক সম্পাদন
+google_analytics_settings: গুগল AnalyticsSettings
+default_seo_settings: ডিফল্ট SEO সেটিংস
+find_us_on_facebook: ফেসবুকে আমাদের দেখুন
+type_anything: প্রকার কিছু
+login_failed : লগইন ব্যর্থ
+debug_email : ডিবাগ ইমেল
+email_to : ইমেল করতে
+ive_read_the: আমি পড়েছি
+title_city_category: শিরোনাম, উৎস বা শ্রেণী
+css_compression: মার্জ সব সিএসএস ফাইল
+all_sub_categories : সকল সাব আরও
+no_sub_categories : কোন সাব বিভাগ
+email_cleared: ইমেল সাফ
+hide_users_profile_phone: লুকান ব্যবহারকারীদের প্রোফাইল ফোন
+features: বৈশিষ্ট্য
+new_source: নতুন উৎস
+all_sources: সকল সূত্র
+addsource: যোগ উৎস
+seo_keywords : এসইও মূলশব্দ
+seo_description : এসইও বর্ণনা
+all_videos : সকল ভিডিও
+new_video : নতুন ভিডিও
+create_video : তৈরি করুন ভিডিও
+edit_video : সম্পাদনা ভিডিও
+no_source : কোন উত্স
+no_category : কোন শ্রেণী
+sub_category : সাব ক্যাটাগরি
+category_2: S.Category
+video_updated: ভিডিও আপডেট
+video_added: ভিডিও সৃষ্টি
+source: উত্স
+link: লিংক
+media: মিডিয়া
+put_as_comma_separated: কমা হিসাবে রাখুন (,) ফরম্যাটে আলাদা
+site_settings: সাইট সেটিংস
+clear_old_videos: সাফ করুন পুরাতন ভিডিও
+videos_before: ভিডিও আগে
+leave_empty_if_doesnot_matter: ছুটি খালি হলে doesn 'টন ব্যাপার
+view_less_than: দেখুন কম
+without_image: চিত্র ছাড়াই
+you_cant_undo_this_action: আপনি পূর্বাবস্থা করতে পারবেন না এই কর্ম
+video_deleted: ভিডিও সাফ
+general: সাধারণ
+moderator: মডারেটর
+genaral_user_can_create_post: ব্যবহারকারী ভিডিও তৈরি করতে পারেন
+moderator_can_create_post: মডারেটর ভিডিও তৈরি করতে পারেন
+auto_crawl: অটো হামাগুড়ি
+lazy_load_images: অলস লোড ইমেজ
+generate_widgets: উইজেট জেনারেট
+sidebar: সাইডবার
+pagebody: Pagebody
+widget_generated: উইজেট উত্পন্ন
+widget_generation_failed: উইজেট প্রজন্ম ব্যর্থ
+latest_videos: সর্বশেষ
+video_by: ভিডিও দ্বারা
+top_videos: শীর্ষ ভিডিও
+source_added: উত্স যোগ করা
+no_videos_found: কোন ভিডিও
+clear: সাফ
+seen_by: দেখুন
+read_this_on: পড়ুন এই
+video_source: উৎস থেকে ভিডিও
+video_category: একটি বিভাগ থেকে ভিডিও
+source_name: নাম
+parent_category: অভিভাবক শ্রেণী
+videos_grabbed: ভিডিও সফলভাবে গলায়
+rss_url: url টি ফিড
+auto_grabbing: অটো দখল
+start_on: উপর স্টার্ট
+grab_duration: ধাঁ সময়কাল
+item_per_grab: প্রতি দখল আইটেম
+edit_source: উৎস সম্পাদনা
+source_updated: উত্স আপডেট
+video_featured: ভিডিও বৈশিষ্ট্যযুক্ত
+video_un_featured: ভিডিও উন বৈশিষ্ট্যযুক্ত
+no_videos: কোন ভিডিও
+featured_videos: আলোচিত ভিডিও
+widget_updated: উইজেট আপডেট
+delete_selected: মুছুন নির্বাচিত
+popular_videos: জনপ্রিয় ভিডিও
+search_result_for: অনুসন্ধান ফল
+source_type: উত্স টাইপ
+make_featured: বৈশিষ্ট্যযুক্ত করুন
+enable_cookie_policy_popup: কুকি নীতি পপআপ
+cookie_policy_page_url: কুকি নীতি পৃষ্ঠার url
+cookie_policy: কুকি নীতি
+cookie_policy_alert: এই সাইটটি কুকি ব্যবহার করে. এই সাইটে আপনি আমাদের কুকি ব্যবহারে সম্মত হন ব্যবহার অব্যাহত দ্বারা.
+read_more: Read more
+i_agree: আমি সম্মত
+confirmation_email : নিশ্চিতকরণ ইমেল
+recovery_email : পুনরুদ্ধার ইমেল
+payment_confirmation_email : পেমেন্ট নিশ্চিতকরণ ইমেল
+tracking_code : ট্র্যাকিং কোড
+video: ভিডিও
+auto_translate: অটো অনুবাদ
+auto_translator: অটো অনুবাদক
+from_lang: ভাষা থেকে
+edit_email_template: সম্পাদনা ইমেল tmpl
+web_email_settings : ওয়েব ইমেল সেটিংস
+on: উপর পোস্ট
+video_sources: ভিডিও সোর্স
+save_images_locally: ইমেজ সংরক্ষণ করুন স্থানীয়ভাবে
+media_url_update: আপডেট পুরাতন মিডিয়া URL
+old_base_url: প্রাচীন ভিত্তি URL
+new_base_url: নতুন ভিত্তি URL
+enable_cache: সক্রিয় ক্যাশে
+grabnow: ধাঁ এখন
+sample_page: নমুনা পাতা
+disable_main_site_link: অক্ষম মূল সাইট লিঙ্ক
+admin_language: অ্যাডমিন ভাষা
+five_filters_api_url: পাঁচ ফিল্টার API URL
+january: জানুয়ারি
+february: ফেব্রুয়ারি
+march: মার্চ
+april: এপ্রিল
+may: মে
+june: জুন
+july: জুলাই
+august: আগস্ট
+september: সেপ্টেম্বর
+october: অক্টোবর
+november: নভেম্বর
+december: ডিসেম্বর
+generaluser_can_create_post: Genral ব্যবহারকারী ভিডিও তৈরি করতে পারেন
+publish_posts_directly: সরাসরি পোস্ট প্রকাশ করুন
+pending_msg: . অ্যাডমিন একবার প্রকাশ করা হবে তা পর্যালোচনা
+publish: প্রকাশ
+unpublish: খসড়া
+post_approved: পোস্ট প্রকাশিত
+post_drafted: সংবাদ ড্রাফট
+pending: মুলতুবি / ড্রাফট
+published: প্রকাশিত
+logo_text: লোগো টেক্সট
+logo_text_color: লোগো টেক্সট রঙ
+logo_type: লোগো টাইপ
+show_source_menu: উৎস মেনু দেখান
+show_cat_menu: দেখান বিভাগ মেনু
+enable_adblocker_alert: সক্রিয় Adblocker সতর্কতা
+adblock_detected: Adblock সনাক্ত
+adblock_msg: করুন Adblock disbale এবং আবার পৃষ্ঠাটি রিফ্রেশ
+enable_featured_video_carousel: Fetured ভিডিও ব্যানার
+top_videos_instead_featured: পরিবর্তে শীর্ষ ভিডিও স্লাইডার উপর বৈশিষ্ট্যযুক্ত
+related_videos: সংশ্লিষ্ট ভিডিও
+remove_featured: বৈশিষ্ট্যযুক্ত সরান
+menu_type: মেনু টাইপ
+youtube_app_settings: ইউটিউব অ্যাপ্লিকেশন সেটিংস
+yt_api_key: ইউটিউব API কী
+youtube_channel: ইউটিউব চ্যানেলে
+youtube_user: ইউটিউব ব্যবহারকারী
+youtube_playlist: ইউটিউব প্লেলিস্ট
+youtube_search: YouTube অনুসন্ধান ফলাফলে
+grab_info: ধাঁ তথ্য
+link_or_id: ইউটিউব ভিডিও লিংক / আইডি
+type_link_or_id: রাখুন YouTube ভিডিও URL বা ভিডিও আইডি
+loading: লোড হচ্ছে ...
+any_category: কোন বিভাগ
+use_name_as_frontend_widget_title: ফ্রন্টএন্ড উইজেট হিসাবে ব্যবহার করুন নাম শিরোনাম (অন্যথা বিভাগ বা উৎস নাম ব্যবহার করা হবে)
+channel_id_or_url: চ্যানেল আইডি অথবা url
+put_youtube_channel_id_or_url: পেস্ট ইউটিউব চ্যানেলে আইডি অথবা url এখানে "UCD2XuG7GK1HrQdiHOCa6iOg" বা "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg" মত
+search_text: অনুসন্ধান পাঠ্য
+put_youtube_search_text: টাইপ / পেস্ট ইউটিউব সার্চ টেক্সট এখানে
+playlist_id_or_url: প্লেলিস্ট আইডি অথবা url
+put_youtube_playlist_id_or_url: "PLC8AEE86B4D4E345D" বা "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D" মত এখানে পেস্ট ইউটিউব প্লেলিস্ট আইডি অথবা url
+user_id_or_url: ইউজার আইডি অথবা url
+put_youtube_user_id_or_url: ইউটিউব ব্যবহারকারী আইডি অথবা url পেস্ট এখানে "কি আশ্চর্য্যবোধ মত "অথবা" https://www.youtube.com/user/MARVEL "
+url_not_valid: আপনার চ্যানেল আইডি বা প্লেলিস্ট আইডি বা সার্চ টেক্সট বৈধ নয়. সম্পাদনা এবং পরীক্ষা করার জন্য যান.
+video_id_not_valid: ইউটিউব ভিডিও লিংক বা আইডি বৈধ নয়
+with_video: ভিডিও
+autoplay_video: অটোপ্লে ভিডিও
+url_or_id_required: ইউআরএল বা আইডি ক্ষেত্র প্রয়োজন বোধ করা হয়
+any_source: কোন উৎস
+any_subcategory: কোন উপবিষয়শ্রেণীটি
+use_youtube_publish_time: ব্যবহারের একই YouTube- এ হিসাবে প্রকাশ সময়
+widget_type: "স্থাপিত আরো" লিঙ্কটি টাইপ
+how_to_yt_api_key: YouTube API কী প্রাপ্ত কিভাবে?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: শুধু প্রকাশিত
+only_pending: শুধু পেন্ডিং
+only_featured: শুধু বৈশিষ্ট্যযুক্ত
+categories_deleted: বিভাগ মোছা
+can_not_undo: আপনি পূর্বাবস্থা করতে পারবেন না এই কর্ম একবার অনুমতি. তুমি কি নিশ্চিত?
+how_to_get_gplus_api: কিভাবে গুগল প্লাস API কী পেতে?
+auth_redirect_url: প্রমাণীকরণ পুনঃনির্দেশ url
+gplus_app_settings: গুগল প্লাস অ্যাপ্লিকেশন সেটিংস
+enable_gplus_login: গুগল + লগইন সক্রিয়
+gplus_client_id: Google+ এ ক্লায়েন্ট id
+gplus_client_secret: Google+ এ ক্লায়েন্ট সিক্রেট

@@ -1,0 +1,447 @@
+---
+sign_in: Iniciar
+sign_up: Suscríbete
+agent_panel: Agente Panel
+admin_panel: Panel de administración
+register: Registro
+details: Detalles
+view_all: Ver Todos
+order_by: Ordenar Por
+none: Ninguno
+terms_and_conditions: Términos y condiciones
+reg_success_message: Su registro de la cuenta es exitosa. Un correo electrónico fue enviado a su correo electrónico. Por favor, siga que el correo electrónico para activar sus account.Thanks
+recover: Recuperar
+oops: Vaya, página no encontrada
+address: Dirección
+all: Todos los
+contact_us: Contáctenos
+confirmation: Confirmación
+tags: Etiquetas
+login: Login
+post_not_found: Los videos no encontrado
+view_more: Ver más
+image: Imagen
+create: Crear
+send: Enviar
+contact_subject: contacto Correo electrónico
+password: Contraseña
+confirm_password: Confirmar contraseña
+all_posts: Todos los videos
+no_posts: ningún vídeo
+title: Título
+description: Descripción
+status: de estado
+actions: Acciones
+type: Tipo
+type_something: Tipo algo
+content: contenido
+category: Categoría
+all_categories: Todo categorías
+edit_category: Editar categoría
+new_category: Nueva categoría
+edit: Editar
+delete: Borrar
+name: Nombre
+save: Guardar
+no_parent: Ningún padre
+add_another: Añadir otro
+export_to_file: Exportar a presentar
+options: opciones
+all_pages: Todas las páginas
+no_pages: Ninguna página
+manage_menu: Administrar menú del
+menu_title: menú de títulos
+menu_alias: alias menú
+show_in_menu: Mostrar en el menú
+page_layout: de diseño de página
+content_from: de contenido del
+url: Url
+seo_options: opciones de SEO
+meta_description: Meta Descripción de
+key_words: las palabras clave
+crawl_after: de rastreo después de (días)
+all_plugins: Todos los plugins
+no_plugins: No hay plugins
+name_and_version: nombre y versión
+change_password: Cambiar contraseña
+current_password: contraseña actual
+new_password: Nueva contraseña
+retype_password: Repita su contraseña
+password_reset_info_msg: Por favor, primero fijado su nueva contraseña
+edit_profile: Editar perfil
+profile_picture: perfil Picture
+username: nombre de usuario
+email: Correo electrónico
+first_name: nombre
+last_name: Apellido
+gender: Sexo
+phone: Teléfono
+about_me: Acerca de mí
+facebook_account: cuenta de Facebook
+twitter_account: cuenta de Twitter
+linkedin_account: Linkedin cuenta de
+gp_account: Google + cuenta
+account_msg: Por favor introduce el enlace, sin http: //
+contact_email: Contacto email
+webadmin_name: WEBADMIN Nombre
+webadmin_email: Webadmin de correo electrónico
+update: de actualización
+upload: Subir
+site_title: sitio Título
+footer_text: de pie de página del texto
+site_logo: del sitio Logo
+site_language: del sitio idioma
+site_text_direction: del sitio Dirección del texto
+per_page: paginación por Página
+default_page_layout: Presentación de página predeterminada
+smtp_email: de correo electrónico SMTP
+smtp_host: Servidor SMTP
+smtp_port: SMTP puerto
+smtp_timeout: de SMTP
+smtp_user: SMTP del usuario
+smtp_password: Contraseña SMTP
+generate_site_map: Generar Mapa del sitio
+sitemap_info_msg: NB: Nota: por favor, seleccione el que desea ser incluido en el mapa xml. Después de sitemap.xml generación exitosa se guarda bajo el directorio raíz. También puede editar el archivo para incluir sus propias direcciones URL.
+pages: Páginas
+view_xml: vista XML
+create_xml: Crear XML
+manage_backups: administrar copias de seguridad
+create_sql_backup: Crear copia de seguridad SQL
+create_image_backup: Crear imagen de copia de seguridad
+restore: Restaurar
+download: Descargar
+dashboard: Tablero
+overview_stats_more: general, las estadísticas y Más
+visit_site: Visita el sitio
+themes: Temas de
+locations: Ubicaciones
+profile: Perfil
+agents: Agentes
+widgets: Reproductores
+all_widgets: todos los widgets
+widget_positions: Widget Posiciones
+new_post: Nuevo Post
+pages_and_menu: páginas de menú y
+new_page: Nueva página
+menu: de menú
+system: Sistema
+edit_email_text: de edición de correo electrónico de texto
+admin_settings: web de configuración del administrador
+sitemap: Mapa del sitio
+activate: Activar
+active_theme: Temas activos
+available_themes: Temas disponibles
+all_users: Todos los usuarios
+create_user: Crear usuario
+export_user_email: exportar correos electrónicos de los usuarios (cSV)
+profile_info: Información de Perfil
+edit_page: Editar página
+create_widget: Crear Widget
+widget_name: Widget Nombre
+activate_deactivate: Activar / desactivar
+show: Mostrar
+available_widgets: Disponible Widgets
+active_widgets: Los widgets activos
+delete_warning: ¿seguro que desea eliminar no.
+yes: 'Sí'
+no: 'n'
+fa_icon: FA clase icono
+post_ad: Publica Anuncio
+post_ad_subtitle: Pon tu anuncio detalle
+signin: Signin
+signup: Inscripción
+signup_title: cree su cuenta
+not_found: No se ha encontrado
+purpose: Propósito
+select_category: Seleccionar categoría
+upload_later_msg: podrás subir galería de fotos y de vídeo url después de la creación posterior
+user_panel: del panel de usuario
+logout: Salir
+put_as_comma_seperated: poner como (,) coma sperated
+added: Añadido
+location: Ubicación
+views: Vistas
+add_new: Añadir nuevo
+search: Buscar
+contact_mode: Contacto Modo
+reset: Restablecer
+contact: Contacto
+type_your_message: Escribe tu mensaje aquí ..
+mail_sent: electrónico enviado
+home: Inicio
+list_your_ad: Lista de su anuncio
+print: de impresión
+remember_me: Recordarme ¿
+forgot_password: Olvidó la contraseña
+login_to_your_account: de sesión en su cuenta de
+register_your_account: registrar su cuenta
+male: Masculino
+female: Femenino
+state: Estado
+users: de usuarios
+ads: Anuncios
+categories: Categorías
+top_posts: Top Posts
+default_site_settings: Predeterminado Ajustes
+webadmin_settings: Ajustes Webadmin
+banner_settings: la configuración del separador
+logged_in_as: de inicio de sesión en el que
+password_change_success: la contraseña se ha cambiado satisfactoriamente
+email_sent_inbox: Un correo electrónico es enviar a su inbox.Check que el correo electrónico.
+password_recovery_link_invalid: Recuperación de la contraseña no es válido Enlace
+user_updated: usuario Actualización
+user_deleted: Usuario eliminado
+data_inserted: de datos inserta
+data_updated: datos actualizados
+page_updated: página actualizada
+page_created: Página Creada
+page_deleted: página eliminada
+menu_updated: del menú Actualización
+site_map_generation_success: Mapa del sitio generó correctamente.
+select_option: Por favor, seleccione el o más seleccionar opciones.
+image_backup_created: Imagen de copia de respaldo
+language_translated: idioma traducido
+backup_deleted: eliminados de copia de seguridad
+database_restored: de base de datos restaurada
+theme_activated: Tema activado
+user_created: usuario creado
+widget_position_updated: Widget Postion Actualizado
+widget_created: objetos que se crea
+settings_updated: la configuración actualizada
+widget_data_updated: Widget datos actualizados
+unable_to_write_widget: No se puede escribir widget de
+admin_change_pass_help: dejar en blanco si no hay cambio necesario
+login_with_google: Entrar con Google
+login_with_facebook: Entrar con Facebook
+register_for_new_account : Registrarse para una cuenta Nueva
+site_map : Mapa del sitio
+show_site_map : Mostrar mapa del sitio
+about : Acerca
+see_full_documentation: Ver documentación completa
+admin: de administración
+re_password: Repita su contraseña
+explain_widget_position: Explicar las posiciones de widgets
+new_ad: Nuevo anuncio
+select_one: Seleccionar un
+username_or_email: nombre de usuario o Email
+post_detail: Mensaje detalle
+edit_user: Editar usuario
+the_field_is_required: es obligatorio campo El% s.
+valid_email: El campo% s debe contener una dirección válida de correo electrónico.
+min_length: El campo% s debe ser al menos% s caracteres de longitud.
+numeric: El campo% s debe contener sólo números.
+matches: El campo% s no coincide con el campo% s.
+greater_than: El campo% s debe contener un número mayor de% s.
+must_accept_terms: Debe aceptar los términos y acondicionar
+dont_have_permission: Usted no tiene permiso para acceder a esta página
+email_allready_in_use: por correo electrónico ya está en uso
+username_allready_in_use: Nombre de usuario allready en uso
+current_password_not_matched: la contraseña actual didn \ 't partido de
+email_not_matched: correo electrónico no coincide
+account_not_confirmed: cuenta no confirmado
+unique_alias: campo% s debe ser único
+smtp_email_settings: Configuración de correo electrónico SMTP
+error_occured: ha producido un error . Por favor, compruebe los campos siguientes
+user_profile: perfil del usuario
+user_email: de correo electrónico del usuario
+target_lang_name: Idioma de destino
+enable_signup: Habilitar Registrar
+facebook_app_settings: la configuración de la aplicación de Facebook
+enable_facebook_login: Habilitar facebook login
+fb_app_id: Facebook ID de la aplicación
+fb_secret_key: de Facebook secretos clave
+comment_settings: Configuración de comentarios
+enable_comment: Habilitar comentarios
+disqus_shortname: Disqus Nombre corto
+active_widget_position: Activo posición widget de
+upload_and_install: Subir e instalar
+install_updates: Instalar actualizaciones / Temas / plugins / widgets
+click_and_edit: Seleccione un archivo de plantilla y haga clic en Editar
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: configuración por defecto de SEO
+find_us_on_facebook: Encuéntrenos en Facebook
+type_anything: Tipo Cualquier cosa
+login_failed : se podría iniciar sesión
+debug_email : de depuración de correo electrónico
+email_to : Para enviar por correo
+ive_read_the: he leído el
+title_city_category: título, fuente o categoría
+css_compression: Combinar todos los archivos CSS
+all_sub_categories : Todas las categorías Sub
+no_sub_categories : no tiene ningún problema Categorías
+email_cleared: por correo electrónico aclarado
+hide_users_profile_phone: perfil Ocultar usuarios de teléfonos
+features: Características
+new_source: Nueva fuente de
+all_sources: todo fuentes
+addsource: Agregar origen de
+seo_keywords : SEO
+seo_description : Seo Descripción
+all_videos : Todos los Videos
+new_video : Nuevo vídeo
+create_video : crear video
+edit_video : de edición de vídeo
+no_source : Sin fuente
+no_category : Sin Categoría
+sub_category : Sub Categoría
+category_2: S.Category
+video_updated: vídeo actualizado
+video_added: vídeo creado
+source: fuente
+link: Enlace
+media: de medios
+put_as_comma_separated: Ponga como coma (,) separados formato
+site_settings: configuración del sitio
+clear_old_videos: claras viejos videos
+videos_before: videos antes
+leave_empty_if_doesnot_matter: Dejar vacío si doesn 't importa
+view_less_than: Ver menos
+without_image: sin la imagen
+you_cant_undo_this_action: no se puede deshacer esta acción
+video_deleted: Videos aclaró
+general: general
+moderator: Moderador
+genaral_user_can_create_post: usuario puede crear vídeos
+moderator_can_create_post: moderador puede crear vídeos
+auto_crawl: Auto rastreo
+lazy_load_images: imágenes carga diferida
+generate_widgets: generar widgets de
+sidebar: la barra lateral
+pagebody: Pagebody
+widget_generated: Widget genera
+widget_generation_failed: la generación de widgets no pudo
+latest_videos: más reciente
+video_by: video Por
+top_videos: Top Videos
+source_added: Fuente Registrada
+no_videos_found: no hay vídeos
+clear: claro
+seen_by: Ver
+read_this_on: Lee esto en
+video_source: vídeo de una fuente
+video_category: de vídeo de una categoría
+source_name: Nombre
+parent_category: de Padres Categoría
+videos_grabbed: vídeos agarró con éxito
+rss_url: URL del feed de
+auto_grabbing: Auto agarrando
+start_on: Inicio en
+grab_duration: Grab duración
+item_per_grab: de artículos por apropiación
+edit_source: Editar fuente
+source_updated: fuente actualiza
+video_featured: video del día
+video_un_featured: video un contó
+no_videos: No hay vídeos
+featured_videos: vídeos destacados
+widget_updated: widget actualiza
+delete_selected: Borrar seleccionado
+popular_videos: populares vídeos
+search_result_for: Buscar resultado
+source_type: tipo de origen
+make_featured: Marca ofrecido
+enable_cookie_policy_popup: política de Cookies emergente
+cookie_policy_page_url: de la galleta página de la directiva url
+cookie_policy: política de cookies
+cookie_policy_alert: Este sitio utiliza cookies. Al continuar utilizando este sitio usted acepta el uso de cookies.
+read_more: Leer más
+i_agree: Estoy de acuerdo
+confirmation_email : confirmación de correo electrónico
+recovery_email : de recuperación de correo electrónico
+payment_confirmation_email : de pago electrónico de confirmación
+tracking_code : de código de seguimiento de
+video: video
+auto_translate: automático Traducir
+auto_translator: traductor automático
+from_lang: Del lenguaje
+edit_email_template: tmpl correo electrónico Editar
+web_email_settings : configuración de correo electrónico Web
+on: Publicado en
+video_sources: Vídeo Fuentes
+save_images_locally: Guardar imágenes localmente
+media_url_update: Actualizar URL medios antigua
+old_base_url: base url Antiguo
+new_base_url: url nueva base
+enable_cache: Habilitar caché
+grabnow: Grab Ahora
+sample_page: Muestra de la página
+disable_main_site_link: Desactivar principal vínculo de sitio
+admin_language: lenguaje de administración
+five_filters_api_url: Cinco filtros api url
+january: enero
+february: febrero
+march: marzo
+april: abril
+may: mayo
+june: junio
+july: julio
+august: agosto
+september: septiembre
+october: octubre
+november: noviembre
+december: diciembre
+generaluser_can_create_post: de usuario genral puede crear vídeos
+publish_posts_directly: publicar entrada directamente
+pending_msg: . Será publicado una vez que el administrador lo revise
+publish: Publicar
+unpublish: Proyecto de
+post_approved: Post publicó
+post_drafted: Noticias redactó
+pending: Pendiente / redactado
+published: Publicado
+logo_text: Logo texto
+logo_text_color: del logotipo del color de texto
+logo_type: tipo Logo
+show_source_menu: Mostrar fuente de menú
+show_cat_menu: Mostrar menú de categorías
+enable_adblocker_alert: Activar alerta Adblocker
+adblock_detected: Adblock detectado
+adblock_msg: favor disbale Adblock y actualizar la página de nuevo
+enable_featured_video_carousel: vídeos Fetured de banner
+top_videos_instead_featured: Top Videos vez de las funciones de control deslizante
+related_videos: vídeos relacionados
+remove_featured: Eliminar destacado
+menu_type: tipo de menú
+youtube_app_settings: ajustes Aplicación de YouTube
+yt_api_key: Youtube clave de API
+youtube_channel: canal de Youtube
+youtube_user: usuario de Youtube
+youtube_playlist: Youtube Lista de reproducción
+youtube_search: Youtube Resultados de la búsqueda
+grab_info: Grab Información
+link_or_id: Youtube enlace de vídeo / Identificación
+type_link_or_id: Ponga YouTube URL del video o video Identificación del
+loading: Cargando ...
+any_category: Cualquier categoría
+use_name_as_frontend_widget_title: uso nombre como widget de frontend título (De lo contrario serán utilizados categoría o nombre de la fuente)
+channel_id_or_url: Identificación del canal o url
+put_youtube_channel_id_or_url: Pega youtube Identificación del canal o URL aquí como "UCD2XuG7GK1HrQdiHOCa6iOg" o "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Búsqueda de texto
+put_youtube_search_text: / Pegar texto de búsqueda Tipo youtube aquí
+playlist_id_or_url: Identificación de reproducción o url
+put_youtube_playlist_id_or_url: Pega ID de YouTube lista de reproducción o URL aquí como "PLC8AEE86B4D4E345D" o "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: Identificación del usuario o url
+put_youtube_user_id_or_url: Pega youtube Identificación del usuario o URL aquí como "MARVEL "o" https://www.youtube.com/user/MARVEL "
+url_not_valid: Su identificador de canal o la lista de reproducción o de Identificación del texto de búsqueda no es válido. Ir a editar y comprobar.
+video_id_not_valid: Youtube enlace de vídeo o la identificación no es válida
+with_video: Con el vídeo
+autoplay_video: de reproducción automática del vídeo
+url_or_id_required: URL o campo id se requiere
+any_source: cualquier fuente
+any_subcategory: Cualquier subcategoría
+use_youtube_publish_time: Uso mismo tiempo que publicar youtube
+widget_type: "Ver más" tipo de vínculo
+how_to_yt_api_key: Cómo obtener clave de API de YouTube?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Sólo publicados
+only_pending: Solamente los pendientes
+only_featured: Sólo destacados
+categories_deleted: Categorías borrados
+can_not_undo: no se puede deshacer esta acción una vez permitida. ¿Estás seguro?
+how_to_get_gplus_api: Cómo hacer que Google clave de API plus?
+auth_redirect_url: Auth URL de redirección de
+gplus_app_settings: la configuración de Google además de aplicaciones
+enable_gplus_login: Habilitar Google + login
+gplus_client_id: Google+ ID de cliente
+gplus_client_secret: secreto de cliente Google+

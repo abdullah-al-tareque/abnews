@@ -1,0 +1,447 @@
+---
+sign_in: Connexion
+sign_up: Inscrire
+agent_panel: Agent Panel
+admin_panel: Panneau d' administration
+register: enregistrer
+details: Détails
+view_all: Tout voir
+order_by: Trier par
+none: Aucun
+terms_and_conditions: Termes et Conditions
+reg_success_message: Votre inscription de compte est réussie. Un e - mail a été envoyé à votre adresse email. S'il vous plaît suivre ce courriel pour activer votre account.Thanks
+recover: Recover
+oops: Oops, page non trouvée
+address: Adresse
+all: Tous
+contact_us: Contactez - nous
+confirmation: Confirmation
+tags: tags
+login: Connexion
+post_not_found: Vidéos not Found
+view_more: Voir Plus
+image: image
+create: Créer
+send: Envoyer
+contact_subject: Contact Courriel
+password: Mot de passe
+confirm_password: Valider Mot de passe
+all_posts: Toutes les vidéos
+no_posts: Non Vidéos
+title: Titre
+description: Description de
+status: statut
+actions: Actions
+type: Type de
+type_something: type quelque chose
+content: contenu
+category: Catégorie
+all_categories: Tous catégories
+edit_category: Modifier une catégorie
+new_category: Nouvelle catégorie
+edit: Modifier
+delete: Supprimer
+name: Nom
+save: Sauvegarder
+no_parent: Aucun parent
+add_another: Ajouter un autre
+export_to_file: Exporter vers un fichier d'
+options: options
+all_pages: Toutes les pages
+no_pages: Aucune page
+manage_menu: Gérer le menu
+menu_title: Menu Titre
+menu_alias: alias Menu
+show_in_menu: Afficher dans le menu
+page_layout: mise en page de
+content_from: contenu à partir
+url: Url des
+seo_options: options SEO
+meta_description: Meta description
+key_words: mots clés
+crawl_after: Crawl après (jours)
+all_plugins: Tous les plugins
+no_plugins: Aucun plugins
+name_and_version: Nom et version
+change_password: Changer mot de
+current_password: passe actuel
+new_password: Nouveau mot de passe
+retype_password: Confirmer mot de passe
+password_reset_info_msg: S'il vous plaît First Set votre nouveau mot de passe
+edit_profile: Modifier mon profil
+profile_picture: profil Photo
+username: Nom d' utilisateur
+email: Courriel
+first_name: Prénom
+last_name: Nom
+gender: Sexe
+phone: téléphone À
+about_me: propos de moi
+facebook_account: compte Facebook
+twitter_account: compte Twitter
+linkedin_account: Linkedin compte
+gp_account: Google+ compte
+account_msg: S'il vous plaît entrer le lien, sans http: //
+contact_email: Contactez Email
+webadmin_name: WebAdmin Nom
+webadmin_email: Webadmin Email
+update: Update
+upload: Upload
+site_title: Titre du site
+footer_text: Pied de page texte
+site_logo: Logo du site
+site_language: Langue du
+site_text_direction: site Orientation du texte
+per_page: Pagination par page
+default_page_layout: par défaut de mise en page
+smtp_email: SMTP Email
+smtp_host: SMTP hôte
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP utilisateur
+smtp_password: Mot de passe SMTP
+generate_site_map: Générer Plan du site
+sitemap_info_msg: NB: NB S'il vous plaît sélectionner lequel vous souhaitez être inclus sur sitemap xml. Après sitemap.xml génération réussie est enregistré sous le répertoire ROOT. Vous pouvez également modifier ce fichier pour inclure vos propres urls.
+pages: Pages
+view_xml: Afficher XML
+create_xml: Créer XML
+manage_backups: Gestion des sauvegardes
+create_sql_backup: Créer sauvegarde SQL
+create_image_backup: Créer une image de sauvegarde de
+restore: restauration
+download: Télécharger
+dashboard: Dashboard
+overview_stats_more: Présentation, statistiques et plus
+visit_site: Visite du site
+themes: Thèmes
+locations: Emplacements
+profile: Profil
+agents: Agents
+widgets: Widgets
+all_widgets: Tous Widgets
+widget_positions: Widget Positions
+new_post: Nouveau message
+pages_and_menu: Pages & Menu
+new_page: Nouvelle page
+menu: Menu
+system: Système
+edit_email_text: Modifier Email Text
+admin_settings: Web Paramètres administrateur
+sitemap: Plan du site
+activate: Activer
+active_theme: thème actifs
+available_themes: Thèmes disponibles
+all_users: Tous les utilisateurs
+create_user: Créer l' utilisateur
+export_user_email: Emails Export de l' utilisateur (.csv)
+profile_info: info profil
+edit_page: Modifier la page
+create_widget: Créer Widget
+widget_name: Widget Nom
+activate_deactivate: Activer / désactiver
+show: Afficher
+available_widgets: Disponible Widgets
+active_widgets: Widgets actifs
+delete_warning: sont - vous sûr de ne pas supprimer.
+yes: 'Oui'
+no: 'Non'
+fa_icon: FA icône classe
+post_ad: Publier
+post_ad_subtitle: ton détail annonce
+signin: Signin
+signup: Inscription
+signup_title: Créez votre compte
+not_found: Pas trouvé
+purpose: But
+select_category: Sélectionner la catégorie
+upload_later_msg: Vous serez en mesure de télécharger la galerie photos et vidéo url après la création de poste
+user_panel: panneau utilisateur
+logout: Déconnexion
+put_as_comma_seperated: mis en (,) virgule sperated
+added: Ajouté
+location: Lieu
+views: Vues
+add_new: Ajouter un
+search: Rechercher
+contact_mode: Contactez mode
+reset: Réinitialiser
+contact: contact
+type_your_message: Tapez votre message ici ..
+mail_sent: Courrier Sent
+home: Accueil
+list_your_ad: Liste votre annonce
+print: Imprimer Se
+remember_me: souvenir de moi
+forgot_password: Mot de passe oublié
+login_to_your_account: Connectez - vous à votre compte
+register_your_account: Publiez votre compte
+male: Homme
+female: Femme
+state: État
+users: utilisateurs
+ads: annonces
+categories: Catégories
+top_posts: Top Posts
+default_site_settings: Par défaut du site Paramètres
+webadmin_settings: Paramètres WebAdmin
+banner_settings: Paramètres Bannière
+logged_in_as: Connecté en tant que
+password_change_success: mot de passe changé avec succès
+email_sent_inbox: un email est envoyé à votre inbox.Check que le courrier électronique.
+password_recovery_link_invalid: Password Recovery Link est non valide l'
+user_updated: utilisateur Mise à jour
+user_deleted: Utilisateur supprimé
+data_inserted: données inséré des
+data_updated: données mises à jour la
+page_updated: page Mise à jour la
+page_created: page Crée
+page_deleted: page supprimée
+menu_updated: Menu Mise à jour
+site_map_generation_success: Plan du site généré avec succès.
+select_option: S'il vous plaît sélectionner ou plus sélectionner des options.
+image_backup_created: Image de sauvegarde créée
+language_translated: Langue Traduit de
+backup_deleted: sauvegarde supprimé
+database_restored: Base de données restaurée
+theme_activated: Thème Activé
+user_created: utilisateur créé
+widget_position_updated: Widget postion Mise à jour
+widget_created: Widget Créé
+settings_updated: paramètres mis à jour
+widget_data_updated: Widget de données Mise à jour
+unable_to_write_widget: Impossible d'écrire le widget
+admin_change_pass_help: Laissez vide si aucun changement nécessaire
+login_with_google: Connexion avec Google Se
+login_with_facebook: connecter avec Facebook
+register_for_new_account : Inscrivez - vous Nouveau compte
+site_map : Plan du site
+show_site_map : Voir la carte du site A
+about : propos de
+see_full_documentation: See documentation complète
+admin: Administrateur
+re_password: Retaper mot de passe
+explain_widget_position: Expliquer positions widgets
+new_ad: New Ad
+select_one: Select One
+username_or_email: Nom d' utilisateur ou Email
+post_detail: Poster détail
+edit_user: Modifier l' utilisateur
+the_field_is_required: du champ% est nécessaire.
+valid_email: Le champ% doit contenir une adresse email valide.
+min_length: Le champ% doit être au moins caractères% s de longueur.
+numeric: Le champ% ne doit contenir que des chiffres.
+matches: Le champ% ne correspond pas au champ% s .
+greater_than: Le champ% doit contenir un nombre supérieur à% s.
+must_accept_terms: Vous devez accepter les termes et conditions
+dont_have_permission: Vous n'êtes pas autorisé à accéder à cette page
+email_allready_in_use: Email déjà utilisé
+username_allready_in_use: Nom d' utilisateur allready en cours d' utilisation
+current_password_not_matched: Mot de passe actuel n \ 't correspondance
+email_not_matched: Email pas adapté
+account_not_confirmed: compte pas confirmé
+unique_alias: le champ% doit être unique
+smtp_email_settings: Paramètres SMTP Email Une
+error_occured: erreur est survenue . S'il vous plaît vérifier les champs ci - dessous le
+user_profile: profil de l' utilisateur '
+user_email: email de l' utilisateur
+target_lang_name: Langue cible
+enable_signup: Activer signup
+facebook_app_settings: paramètres Facebook app
+enable_facebook_login: Activer facebook connexion
+fb_app_id: Facebook app id
+fb_secret_key: Facebook secret key
+comment_settings: Paramètres des commentaires
+enable_comment: Activer commentaires
+disqus_shortname: Disqus Shortname
+active_widget_position: active Position widget
+upload_and_install: Upload et installer
+install_updates: Installer les mises à jour / Thèmes / Plugins / Widgets
+click_and_edit: Sélectionnez un fichier modèle et cliquez sur modifier
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: paramètres par défaut de référencement
+find_us_on_facebook: Retrouvez - nous sur Facebook
+type_anything: type de Anything
+login_failed : Échec de la connexion
+debug_email : Debug email
+email_to : Pour envoyer
+ive_read_the: J'ai lu le
+title_city_category: titre, Source ou Catégorie
+css_compression: Fusionner tous les css fichiers
+all_sub_categories : toutes les sous catégories
+no_sub_categories : Aucun Catégories sous
+email_cleared: Envoi par courriel autorisé
+hide_users_profile_phone: profil Masquer les utilisateurs de téléphone
+features: Caractéristiques Une
+new_source: nouvelle source
+all_sources: Tous sources
+addsource: Ajouter la source
+seo_keywords : Seo Mots - clés
+seo_description : Seo description
+all_videos : Toutes les vidéos
+new_video : Nouvelle vidéo
+create_video : créer une vidéo
+edit_video : Modifier la vidéo
+no_source : Non Source
+no_category : Non Catégorie
+sub_category : Sous catégorie
+category_2: S.Category
+video_updated: vidéo mise à jour
+video_added: vidéo créé
+source: Source
+link: Lien
+media: médias
+put_as_comma_separated: Mettre en virgule (,) séparés Format
+site_settings: paramètres du site
+clear_old_videos: Effacer vieilles vidéos
+videos_before: Vidéos avant
+leave_empty_if_doesnot_matter: Leave vide si doesn 't importe
+view_less_than: Voir moins
+without_image: Sans image
+you_cant_undo_this_action: Vous ne pouvez pas annuler cette action
+video_deleted: vidéos effacé
+general: générale
+moderator: Modérateur L'
+genaral_user_can_create_post: utilisateur peut créer des vidéos
+moderator_can_create_post: modérateur peut créer des vidéos
+auto_crawl: Auto crawl
+lazy_load_images: Lazy images de chargement
+generate_widgets: générer des widgets
+sidebar: Sidebar
+pagebody: PageBody
+widget_generated: Widget généré
+widget_generation_failed: génération Widget échoué
+latest_videos: Dernière
+video_by: vidéo par
+top_videos: Top vidéos
+source_added: Source Ajouté
+no_videos_found: Aucune vidéo
+clear: Effacer
+seen_by: Voir
+read_this_on: Lire ceci sur la
+video_source: vidéo à partir d' une source
+video_category: vidéo à partir d' une catégorie
+source_name: Nom du
+parent_category: parent catégorie
+videos_grabbed: vidéos sAISIR avec succès
+rss_url: Flux url
+auto_grabbing: Auto saisissant
+start_on: sur Démarrer
+grab_duration: Grab durée
+item_per_grab: Articles par grab
+edit_source: Modifier la source
+source_updated: Source mis à jour la
+video_featured: vidéo sélectionnée
+video_un_featured: Vidéo non sélectionnée
+no_videos: Aucune vidéo
+featured_videos: vidéos en vedette
+widget_updated: Widget mis à jour
+delete_selected: Supprimer sélectionné
+popular_videos: vidéos populaires
+search_result_for: Recherche Résultat
+source_type: type Source
+make_featured: Marque en vedette
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie page politique url
+cookie_policy: politique de Cookie
+cookie_policy_alert: Ce site utilise des cookies. En continuant à utiliser ce site , vous acceptez notre utilisation des cookies.
+read_more: Lire la suite
+i_agree: Je suis d' accord
+confirmation_email : Confirmation email
+recovery_email : Recovery email
+payment_confirmation_email : paiement email de confirmation
+tracking_code : Code de suivi
+video: vidéo
+auto_translate: Auto Traduire
+auto_translator: Auto Translator
+from_lang: De la langue
+edit_email_template: Modifier email tmpl
+web_email_settings : Web email paramètres
+on: affiché sur la
+video_sources: vidéo Sources
+save_images_locally: Enregistrer des images localement à
+media_url_update: jour old url media
+old_base_url: url Old base
+new_base_url: Nouvelle base url
+enable_cache: Activer le cache
+grabnow: Grab Maintenant
+sample_page: Sample page
+disable_main_site_link: Désactiver lien vers le site principal
+admin_language: langue Admin
+five_filters_api_url: Cinq filtres api url
+january: Janvier
+february: Février
+march: Mars
+april: Avril
+may: mai
+june: Juin
+july: Juillet
+august: Août
+september: Septembre
+october: Octobre
+november: Novembre
+december: Décembre
+generaluser_can_create_post: utilisateur Genral peut créer des vidéos
+publish_posts_directly: Publier le message directement
+pending_msg: . Sera publié une fois l'administrateur l' examiner
+publish: Publier
+unpublish: Projet
+post_approved: Post a publié
+post_drafted: Nouvelles rédigé en
+pending: attente / rédigé
+published: Publié
+logo_text: Logo texte
+logo_text_color: Logo couleur de texte de
+logo_type: type Logo
+show_source_menu: Afficher la source Menu
+show_cat_menu: Afficher la catégorie Menu
+enable_adblocker_alert: Activer Adblocker alerte
+adblock_detected: Adblock détecté
+adblock_msg: S'il vous plaît disbale adblock et rafraîchir la page à nouveau
+enable_featured_video_carousel: vidéos Fetured banner
+top_videos_instead_featured: Top vidéos au lieu de présenté sur curseur
+related_videos: vidéos connexes
+remove_featured: Supprimer vedette
+menu_type: Type de menu
+youtube_app_settings: paramètres Youtube app
+yt_api_key: Youtube clé api
+youtube_channel: chaîne Youtube
+youtube_user: utilisateur Youtube
+youtube_playlist: Youtube playlist
+youtube_search: Youtube Résultat de la recherche
+grab_info: Grab Infos
+link_or_id: Youtube lien vidéo / id
+type_link_or_id: Mettez youtube URL de la vidéo ou vidéo id
+loading: Loading ...
+any_category: Toute catégorie
+use_name_as_frontend_widget_title: Utiliser nom comme widget frontend titre (Sinon la catégorie ou le nom de la source seront utilisés)
+channel_id_or_url: id Channel ou url
+put_youtube_channel_id_or_url: Coller id canal youtube ou url ici comme "UCD2XuG7GK1HrQdiHOCa6iOg" ou "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Search text
+put_youtube_search_text: type / Coller youtube texte de recherche ici
+playlist_id_or_url: id playlist ou url
+put_youtube_playlist_id_or_url: Coller youtube playlist id ou url ici comme "PLC8AEE86B4D4E345D" ou "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: id utilisateur ou url
+put_youtube_user_id_or_url: Coller youtube id utilisateur ou url ici comme "MARVEL "ou" https://www.youtube.com/user/MARVEL "
+url_not_valid: Votre identifiant de canal ou playlist id ou le texte de recherche est pas valide. Aller à modifier et vérifier.
+video_id_not_valid: Lien vidéo Youtube ou l' identifiant ne sont pas valides
+with_video: Avec vidéo
+autoplay_video: Autoplay Video
+url_or_id_required: Url ou champ id est requis
+any_source: Toute source
+any_subcategory: Toute sous - catégorie
+use_youtube_publish_time: Utiliser le même temps que la publication youtube
+widget_type: "Voir plus" type de lien
+how_to_yt_api_key: Comment obtenir youtube clé api?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Seulement publiés
+only_pending: Seulement en attente
+only_featured: Seulement en vedette
+categories_deleted: Catégories supprimées
+can_not_undo: Vous ne pouvez pas annuler cette action une fois autorisée. Êtes-vous sûr?
+how_to_get_gplus_api: Comment obtenir google clé api plus?
+auth_redirect_url: Auth redirection URL
+gplus_app_settings: Google Plus app paramètres
+enable_gplus_login: Activer Google + connecter
+gplus_client_id: Google+ id client
+gplus_client_secret: Google+ secret client

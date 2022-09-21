@@ -1,0 +1,447 @@
+---
+sign_in: Вход
+sign_up: Вход Up
+agent_panel: Agent панел
+admin_panel: Admin Panel
+register: Регистрирайте
+details: Детайли
+view_all: Виж всички
+order_by: Подреди по
+none: Нула
+terms_and_conditions: условия и срокове
+reg_success_message: за регистрация на профила ви е успешен. Един имейл е изпратен на електронната си поща. Моля, следвайте този имейл, за да активирате Вашите account.Thanks
+recover: Възстановяване
+oops: Oops, страницата не е намерена
+address: Адрес
+all: Всички
+contact_us: Свържете се с нас
+confirmation: за потвърждение
+tags: Tags
+login: Вход
+post_not_found: Videos не Намерени
+view_more: Виж Още
+image: Изображение
+create: Създаване
+send: Изпрати
+contact_subject: контакт Email
+password: Парола
+confirm_password: Потвърди парола
+all_posts: Видео
+no_posts: Не Видео
+title: Заглавие
+description: Описание
+status: Статус
+actions: Действия
+type: Type
+type_something: Тип нещо
+content: Content
+category: Категория
+all_categories: Всички категории
+edit_category: Edit категория
+new_category: New категория
+edit: Редактиране
+delete: Изтриване
+name: Наименование
+save: Save
+no_parent: Никой родител
+add_another: Добави Друг
+export_to_file: Export да подаде
+options: Options
+all_pages: Всички страници
+no_pages: Няма страници,
+manage_menu: Управление на менюто
+menu_title: Menu Title
+menu_alias: Menu псевдоним
+show_in_menu: Show в менюто
+page_layout: Page оформление
+content_from: на съдържанието от
+url: Url
+seo_options: SEO възможности
+meta_description: Мета описание
+key_words: Ключови думи
+crawl_after: Crawl след (дни)
+all_plugins: Всички приставки
+no_plugins: Не плъгини
+name_and_version: Име и версия
+change_password: Промяна на парола
+current_password: Текуща парола
+new_password: Нова парола
+retype_password: Повторете парола
+password_reset_info_msg: Моля Първо Определете вашата New Password
+edit_profile: Промени профил
+profile_picture: профил Снимка
+username: Потребителско име
+email: Email
+first_name: Име
+last_name: Фамилия
+gender: Пол
+phone: Телефон
+about_me: за мен
+facebook_account: Facebook акаунт
+twitter_account: Twitter акаунт
+linkedin_account: Linkedin сметка
+gp_account: Google+ акаунт
+account_msg: Моля въведете линка, без HTTP: //
+contact_email: Контакт Email
+webadmin_name: Webadmin Наименование
+webadmin_email: Webadmin Email
+update: Актуализация
+upload: Качи
+site_title: Site Title
+footer_text: Footer Текст
+site_logo: логото на сайта
+site_language: език на сайта
+site_text_direction: Site Текст Посока
+per_page: Pagination на страница
+default_page_layout: по подразбиране Page Layout
+smtp_email: SMTP мейл
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Потребителят
+smtp_password: SMTP парола
+generate_site_map: Генериране Карта на сайта
+sitemap_info_msg: NB: NB Моля изберете който искате да бъдат включени в сайта XML. След успешното sitemap.xml поколение е записан под главната директория. Можете също така да редактирате този файл за включително собствените си URL адреси.
+pages: Страници
+view_xml: Вижте XML
+create_xml: Създаване на XML
+manage_backups: Управление на Архивите
+create_sql_backup: Създаване на SQL Backup
+create_image_backup: Създаване на изображението Backup
+restore: Restore
+download: Изтегляне
+dashboard: Dashboard
+overview_stats_more: Преглед, Статистика и още
+visit_site: посещение на място
+themes: Теми
+locations: обекти
+profile: Профил
+agents: Agents
+widgets: Widgets
+all_widgets: Всички Widgets
+widget_positions: Widget Становища
+new_post: Нова публикация
+pages_and_menu: Pages & Menu
+new_page: New Page
+menu: Menu
+system: System
+edit_email_text: Edit Email Текст
+admin_settings: Web Admin Settings
+sitemap: Карта на сайта
+activate: Activate
+active_theme: Активни тема
+available_themes: налични теми
+all_users: Всички потребители
+create_user: да създават потребителски
+export_user_email: Export потребителски имейли (.csv)
+profile_info: Профил информация
+edit_page: Edit Page
+create_widget: Създайте Widget
+widget_name: Widget Наименование
+activate_deactivate: Активиране / De-Activate
+show: Show
+available_widgets: Available Widgets
+active_widgets: Активни Widgets
+delete_warning: сигурни ли сте, искате да изтриете.
+yes: "Да",
+no: "Не"
+fa_icon: FA икона клас
+post_ad: Публикувай Обява
+post_ad_subtitle: Поставете вашата реклама детайл
+signin: при влизане
+signup: членство
+signup_title: Създаване на профила ви
+not_found: Не е намерен
+purpose: Цел
+select_category: Изберете категория
+upload_later_msg: Ще можете да качите галерия снимки и видео URL след пост създаване
+user_panel: Потребителски панел
+logout: Изход
+put_as_comma_seperated: постави като (,) запетая sperated
+added: Добавен
+location: Местоположение
+views: Прегледи
+add_new: Добавяне на нов
+search: Търсене
+contact_mode: Свържи Mode
+reset: Reset
+contact: Свържи
+type_your_message: Въведете съобщението си тук ..
+mail_sent: съобщение, изпратено
+home: Начало
+list_your_ad: Списък Your Ad
+print: Print
+remember_me: Запомни ме
+forgot_password: Забравена парола
+login_to_your_account: Вход за вашия профил
+register_your_account: Регистрирайте своя профил
+male: Мъж
+female: Жена
+state: държавни
+users: Потребители
+ads: Обяви
+categories: Категории
+top_posts: Топ публикации
+default_site_settings: По подразбиране Site Settings
+webadmin_settings: Webadmin Settings
+banner_settings: Банер Settings
+logged_in_as: регистриран в като
+password_change_success: парола променена успешно
+email_sent_inbox: A имейл се изпраща към вашия inbox.Check, че електронната поща.
+password_recovery_link_invalid: Password Recovery Link не е валиден
+user_updated: Потребителят Обновено
+user_deleted: Потребителят изтрити
+data_inserted: данни вмъква
+data_updated: данни Обновен
+page_updated: Page Обновено
+page_created: Страницата е създадена
+page_deleted: Page изтрити
+menu_updated: Menu Обновено
+site_map_generation_success: Карта на сайта генериран успешно.
+select_option: Моля, изберете или повече избрани опции.
+image_backup_created: Изображение Backup Създаден
+language_translated: Езикови Преведено
+backup_deleted: Backup изтрит
+database_restored: Database Възстановен
+theme_activated: Тема Активиран
+user_created: създадено от потребителя
+widget_position_updated: Widget Postion Обновен
+widget_created: Widget Създаден
+settings_updated: Settings Updated
+widget_data_updated: Widget Data Обновено
+unable_to_write_widget: в състояние да пише джаджа
+admin_change_pass_help: Оставете празно, ако няма промяна, необходима
+login_with_google: Вход с Google
+login_with_facebook: Вход с Facebook
+register_for_new_account : Регистрирайте се за Нова Сметка
+site_map : Карта на сайта
+show_site_map : Покажи карта на сайта
+about : За
+see_full_documentation: See пълна документация
+admin: Admin
+re_password: Повторете парола
+explain_widget_position: Обяснете джаджа позиции
+new_ad: New Ad
+select_one: Изберете Един
+username_or_email: потребителско име или имейл
+post_detail: Публикувайте подробно
+edit_user: Edit потребителски
+the_field_is_required: се изисква% S поле.
+valid_email: Най% S поле трябва да съдържа валиден имейл адрес.
+min_length: Най% S поле трябва да бъде най-малко% S знака.
+numeric: Най% S поле трябва да съдържа само цифри.
+matches: Най% S поле не съвпада с% S поле.
+greater_than: Най% S поле трябва да съдържа число по-голямо от% S.
+must_accept_terms: Трябва да приемете условията и състоянието
+dont_have_permission: Вие нямате разрешение за достъп до тази страница
+email_allready_in_use: Email вече се използва
+username_allready_in_use: име ако вече е в употреба
+current_password_not_matched: в момента парола Не мислех \ 'т мач
+email_not_matched: Email не съответства
+account_not_confirmed: на профила не потвърди
+unique_alias: The% S поле трябва да бъде уникален
+smtp_email_settings: SMTP имейл Settings
+error_occured: Възникна грешка , Моля, проверете полетата по-долу
+user_profile: профила "
+user_email: Потребителят имейл
+target_lang_name: Целеви език
+enable_signup: Enable регистрации
+facebook_app_settings: настройки Facebook приложения
+enable_facebook_login: Enable Facebook вход
+fb_app_id: Facebook идентификационен номер на приложението
+fb_secret_key: Facebook тайни ключови
+comment_settings: настройки коментар
+enable_comment: Enable коментира
+disqus_shortname: Disqus SHORTNAME
+active_widget_position: Active джаджа позиция
+upload_and_install: качване и инсталиране
+install_updates: Инсталиране на обновленията / Themes / Plugins / Widgets
+click_and_edit: изберете шаблон файл и кликнете върху редактиране
+google_analytics_settings: в Google AnalyticsSettings
+default_seo_settings: настройки по подразбиране SEO
+find_us_on_facebook: Намерете ни във Facebook
+type_anything: Type всичко
+login_failed : Неуспешно влизане
+debug_email : Debug имейл
+email_to : за да пишете
+ive_read_the: аз съм чел за
+title_city_category: дял, източника или категория
+css_compression: Обединяване на всички CSS файлове
+all_sub_categories : Всички Подкатегории
+no_sub_categories : Не Подкатегории
+email_cleared: Email изчиства
+hide_users_profile_phone: Скриване на потребителите в профила телефонни
+features: функции
+new_source: New източник
+all_sources: All източници
+addsource: добави източник
+seo_keywords : Seo Ключови думи
+seo_description : Seo Описание
+all_videos : видео
+new_video : New видео
+create_video : Създаване на видео
+edit_video : Редактиране на видео
+no_source : Не източник
+no_category : Не Категория
+sub_category : Под категория
+category_2: S.Category
+video_updated: видео актуализира
+video_added: видео създадена
+source: източник
+link: Link
+media: Media
+put_as_comma_separated: Сложете като запетая (,), разделени формат
+site_settings: настройки на сайта
+clear_old_videos: Ясно стари клипове
+videos_before: Videos преди
+leave_empty_if_doesnot_matter: Оставете празно, ако неотворено "Няма значение
+view_less_than: Вижте по-малко от
+without_image: Без Изображение
+you_cant_undo_this_action: не можете да отмените това действие
+video_deleted: Видео изчиства
+general: General
+moderator: Модератор
+genaral_user_can_create_post: Потребителят може да създаде видеоклипове
+moderator_can_create_post: Модератор могат да създават видео
+auto_crawl: Авто обхождане
+lazy_load_images: Lazy товарни изображения
+generate_widgets: генериране джаджи
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget генерирани
+widget_generation_failed: Widget поколение не успя
+latest_videos: Последни
+video_by: видео Чрез
+top_videos: Топ Видео
+source_added: Източник Добавен
+no_videos_found: Няма видеоклипове
+clear: Clear
+seen_by: View
+read_this_on: прочетен тази на
+video_source: видео от източник
+video_category: на видео от категория
+source_name: Наименование
+parent_category: Главна категория
+videos_grabbed: Видео грабна успешно
+rss_url: Feed URL
+auto_grabbing: Auto измъкна
+start_on: Старт на
+grab_duration: Grab продължителност
+item_per_grab: точка на грайфер
+edit_source: Edit източник
+source_updated: източник актуализира
+video_featured: видео черта
+video_un_featured: видео ООН черта
+no_videos: Няма видеоклипове
+featured_videos: Препоръчани клипове
+widget_updated: джаджа обновяват
+delete_selected: Изтриване на избрания
+popular_videos: популярните видеоклипове
+search_result_for: Търсене Резултати
+source_type: тип Източник
+make_featured: Make черта
+enable_cookie_policy_popup: Cookie политиката Popup
+cookie_policy_page_url: Cookie страница политика URL
+cookie_policy: политика Cookie
+cookie_policy_alert: Този сайт използва бисквитки. Ако продължите да използвате този сайт, вие се съгласявате да използвате нашите бисквитки.
+read_more: Прочетете повече
+i_agree: съм съгласен
+confirmation_email : Потвърждение имейл
+recovery_email : Recovery имейл
+payment_confirmation_email : плащане потвърждение по имейл
+tracking_code : код за проследяване на
+video: видео
+auto_translate: Auto Превод
+auto_translator: Auto Преводач
+from_lang: От език
+edit_email_template: Редактиране на имейл TMPL
+web_email_settings : настройките за имейл Уеб
+on: публикуван на
+video_sources: видео източници
+save_images_locally: Запазване на изображения на местно ниво
+media_url_update: Актуализиране на стари медии URL
+old_base_url: Стария база URL
+new_base_url: Нова база URL
+enable_cache: Активиране Cache
+grabnow: Grab Сега
+sample_page: Примерен Page
+disable_main_site_link: Disable основната връзка на сайта
+admin_language: език Admin
+five_filters_api_url: Пет филтри API URL
+january: януари
+february: февруари
+march: март
+april: април
+may: май
+june: юни
+july: юли
+august: август
+september: септември
+october: октомври
+november: ноември
+december: декември
+generaluser_can_create_post: Genral потребител може да създаде видеоклипове
+publish_posts_directly: Публикувай пост директно
+pending_msg: . Ще бъде публикувана след като преглед от администратор тя
+publish: Публикуване
+unpublish: Проект
+post_approved: Post публикува
+post_drafted: новини изготвен
+pending: Pending / изготвен
+published: Публикувано
+logo_text: Logo текст
+logo_text_color: Logo текст цвят
+logo_type: тип Logo
+show_source_menu: Покажи източник меню
+show_cat_menu: Show меню категория
+enable_adblocker_alert: Активиране Adblocker сигнал
+adblock_detected: Adblock открити
+adblock_msg: Моля деактивира AdBlock и обнови страницата отново
+enable_featured_video_carousel: Fetured видео банери
+top_videos_instead_featured: Топ клипове вместо на черта на плъзгача
+related_videos: Свързани видеоклипове
+remove_featured: премахнете Featured
+menu_type: тип Menu
+youtube_app_settings: настройките на приложението Youtube
+yt_api_key: Youtube API ключ
+youtube_channel: Youtube канал
+youtube_user: Youtube потребителското
+youtube_playlist: Youtube Playlist
+youtube_search: Youtube Резултат от търсене на
+grab_info: Grab Информация
+link_or_id: Youtube видео връзка / ID
+type_link_or_id: Поставете YouTube видео URL или видео ID
+loading: Loading ...
+any_category: Всяка категория
+use_name_as_frontend_widget_title: Използвайте име като интерфейса джаджа заглавието (В противен случай ще се използва категория или име източник)
+channel_id_or_url: идентификационния номер на канала или URL
+put_youtube_channel_id_or_url: Постави YouTube канал ID или URL тук като "UCD2XuG7GK1HrQdiHOCa6iOg" или "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: Търси текст
+put_youtube_search_text: Вид / поставяне на текст за търсене в YouTube тук
+playlist_id_or_url: Playlist ID или URL
+put_youtube_playlist_id_or_url: Постави YouTube плейлист ID или URL тук като "PLC8AEE86B4D4E345D" или "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: User ID или URL
+put_youtube_user_id_or_url: Постави YouTube идентификация на абонат или URL тук като "МАРВЕЛ "или" https://www.youtube.com/user/MARVEL "
+url_not_valid: идентификационния номер на канала или плейлиста ID или търсене на текст не е валиден. Отиди да редактирате и да се провери.
+video_id_not_valid: Youtube видео връзка или ID не е валиден
+with_video: С видео
+autoplay_video: Autoplay видео
+url_or_id_required: Url или е задължително поле ID
+any_source: Всеки източник
+any_subcategory: Всяка подкатегория
+use_youtube_publish_time: Използвайте същата публикува време като YouTube
+widget_type: "Вижте повече" тип връзка
+how_to_yt_api_key: Как да се получи YouTube ключ API?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Само публикувани
+only_pending: Само висящи
+only_featured: Само черта
+categories_deleted: Категории изтрити
+can_not_undo: Вие не можете да отмените това действие, след като е позволено. Сигурен ли си?
+how_to_get_gplus_api: Как да получите Google Plus ключ API?
+auth_redirect_url: Auth URL адрес за пренасочване
+gplus_app_settings: на Google плюс приложения настройки
+enable_gplus_login: Активиране на Google + акаунта
+gplus_client_id: Google+ клиент ID
+gplus_client_secret: Google+ клиент тайна

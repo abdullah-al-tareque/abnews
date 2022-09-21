@@ -1,0 +1,447 @@
+---
+sign_in: تسجيل الدخول
+sign_up: اشترك
+agent_panel: كيل لوحة
+admin_panel: مشرف لوحة
+register: تسجيل
+details: تفاصيل
+view_all: عرض الكل
+order_by: ترتيب بواسطة
+none: أي
+terms_and_conditions: أحكام وشروط
+reg_success_message: تسجيل حسابك ناجحا. تم إرسال رسالة إلكترونية إلى البريد الإلكتروني الخاص بك. يرجى اتباع هذا البريد الإلكتروني لتفعيل account.Thanks بك
+recover: استرداد
+oops: عفوا، لم يتم العثور على الصفحة
+address: عنوان
+all: جميع
+contact_us: الاتصال بنا
+confirmation: تأكيد
+tags: الكلمات
+login: ادخل
+post_not_found: الفيديو لم يتم العثور على
+view_more: مشاهدة المزيد من
+image: صورة
+create: أنشئ
+send: إرسال
+contact_subject: الاتصال البريد الإلكتروني
+password: كلمة المرور
+confirm_password: تأكيد كلمة المرور
+all_posts: جميع الفيديوهات
+no_posts: لا يوجد مقاطع فيديو
+title: عنوان
+description: الوصف
+status: الحالة
+actions: تطبيقات
+type: نوع
+type_something: نوع شيء
+content: المحتوى
+category: الفئة
+all_categories: جميع فئات
+edit_category: تحرير فئة
+new_category: فئة جديدة
+edit: تحرير
+delete: حذف
+name: اسم
+save: حفظ
+no_parent: لا الوالدين
+add_another: اضافة آخر
+export_to_file: تصدير إلى ملف
+options: خيارات
+all_pages: كل الصفحات
+no_pages: لا توجد صفحات
+manage_menu: إدارة القائمة
+menu_title: القائمة عنوان
+menu_alias: مستعار القائمة
+show_in_menu: عرض في القائمة
+page_layout: تخطيط الصفحة
+content_from: المحتوى من
+url: رابط
+seo_options: الخيارات كبار المسئولين الاقتصاديين
+meta_description: ميتا وصف
+key_words: الكلمات الدالة
+crawl_after: الزحف بعد (الأيام)
+all_plugins: جميع الإضافات
+no_plugins: لا الإضافات
+name_and_version: اسم وإصدار
+change_password: تغيير كلمة المرور
+current_password: كلمة المرور الحالية
+new_password: كلمة المرور الجديدة
+retype_password: أعد كتابة كلمة المرور
+password_reset_info_msg: الرجاء المجموعة الأولى بك كلمة سر جديدة
+edit_profile: تعديل الملف الشخصي
+profile_picture: الملف الشخصي صورة
+username: المستخدم
+email: البريد الإلكتروني
+first_name: الاسم الأول
+last_name: اسم العائلة
+gender: الجنس
+phone: الهاتف
+about_me: معلومات عني
+facebook_account: حساب الفيسبوك
+twitter_account: تويتر حساب
+linkedin_account: تابعني على حساب
+gp_account: حساب + Google
+account_msg: الرجاء إدخال رابط، دون HTTP: //
+contact_email: الاتصال البريد الإلكتروني
+webadmin_name: Webadmin اسم
+webadmin_email: Webadmin البريد الإلكتروني
+update: تحديث
+upload: تحميل
+site_title: الموقع عنوان
+footer_text: تذييل النص
+site_logo: الموقع شعار
+site_language: لغة الموقع
+site_text_direction: الموقع اتجاه النص
+per_page: ترقيم الصفحات لكل صفحة
+default_page_layout: الافتراضي تخطيط الصفحة
+smtp_email: SMTP البريد الإلكتروني
+smtp_host: المضيف SMTP
+smtp_port: بروتوكول نقل البريد الإلكتروني ميناء
+smtp_timeout: SMTP مهلة
+smtp_user: SMTP العضو
+smtp_password: SMTP كلمة
+generate_site_map: توليد خريطة الموقع
+sitemap_info_msg: NB: ملاحظة: يرجى تحديد التي تريد إدراجها على خريطة أكس. يتم حفظ بعد جيل ناجح ملف sitemap.xml تحت الدليل الجذر. يمكنك أيضا تحرير هذا الملف لإدراج عناوين المواقع الخاصة بك.
+pages: صفحات
+view_xml: عرض XML
+create_xml: خلق XML
+manage_backups: إدارة النسخ الاحتياطية
+create_sql_backup: إنشاء SQL النسخ الاحتياطي
+create_image_backup: إنشاء صورة النسخ الاحتياطي
+restore: استعادة
+download: تحميل
+dashboard: لوحة
+overview_stats_more: لمحة عامة، إحصائيات وعن
+visit_site: زيارة الموقع
+themes: الموضوعات
+locations: المواقع
+profile: الشخصي
+agents: وكلاء
+widgets: الحاجيات
+all_widgets: جميع القطع
+widget_positions: القطعة الصفقات
+new_post: الجديدة المشاركة
+pages_and_menu: الصفحات والقائمة
+new_page: صفحة جديدة
+menu: قائمة
+system: نظام
+edit_email_text: تحرير البريد الإلكتروني نص
+admin_settings: الويب إعدادات الادارية
+sitemap: خريطة الموقع
+activate: تنشيط
+active_theme: النشطة موضوع
+available_themes: الموضوعات المتاحة
+all_users: كافة المستخدمين
+create_user: إنشاء العضو
+export_user_email: رسائل البريد الإلكتروني التصدير العضو (CSV)
+profile_info: الملف معلومات
+edit_page: تحرير الصفحة
+create_widget: إنشاء القطعة
+widget_name: القطعة اسم
+activate_deactivate: تنشيط / دي تنشيط
+show: مشاهدة
+available_widgets: المتوفرة الحاجيات
+active_widgets: الحاجيات النشطة
+delete_warning: هل أنت متأكد تريد حذف لا.
+yes: "نعم"
+no: "لا"
+fa_icon: اتحاد كرة القدم رمز الطبقة
+post_ad: المشاركة الإعلان
+post_ad_subtitle: ضع التفاصيل إعلانك
+signin: في تسجيل الدخول
+signup: الاشتراك
+signup_title: إنشاء حسابك
+not_found: لم يتم العثور على
+purpose: الغرض
+select_category: اختر الفئة
+upload_later_msg: عليك أن تكون قادرا على تحميل الصور معرض ورابط الفيديو بعد إنشاء آخر
+user_panel: لوحة العضو
+logout: الخروج
+put_as_comma_seperated: كما وضع (،) فاصلة sperated
+added: وأضاف
+location: الموقع
+views: المشاهدات
+add_new: إضافة جديد
+search: البحث
+contact_mode: الاتصال وضع
+reset: إعادة
+contact: الاتصال
+type_your_message: اكتب رسالتك هنا ..
+mail_sent: البريد المرسل
+home: الرئيسية
+list_your_ad: قائمة إعلانك
+print: طباعة
+remember_me: حفظ البيانات
+forgot_password: نسيت كلمة المرور
+login_to_your_account: الدخول إلى الحساب الخاص بك
+register_your_account: تسجيل حسابك
+male: ذكر
+female: أنثى
+state: الدولة
+users: المستخدمون
+ads: إعلانات
+categories: الفئات
+top_posts: الأعلى المشاركات
+default_site_settings: افتراضي المنتدى لوحة التحكم
+webadmin_settings: إعدادات Webadmin
+banner_settings: إعدادات راية
+logged_in_as: تسجيل في مثل
+password_change_success: تغير كلمة المرور بنجاح
+email_sent_inbox: والبريد الالكتروني هو نرسل للكم inbox.Check أن البريد الإلكتروني.
+password_recovery_link_invalid: استعادة كلمة السر وصلة غير صالحة
+user_updated: العضو تحديث
+user_deleted: حذف المستخدم
+data_inserted: إدخال بيانات
+data_updated: بيانات تحديث
+page_updated: الصفحة تحديث
+page_created: الصفحة مكون
+page_deleted: صفحة محذوفة
+menu_updated: القائمة تحديث
+site_map_generation_success: خريطة الموقع ولدت بنجاح.
+select_option: يرجى تحديد أو خيارات أكثر مختارة.
+image_backup_created: صورة النسخ الاحتياطي مكون
+language_translated: اللغة ترجمت
+backup_deleted: النسخ الاحتياطي المحذوفة
+database_restored: قاعدة البيانات المستعادة
+theme_activated: موضوع المنشط
+user_created: العضو مكون
+widget_position_updated: القطعة المركز تحديث
+widget_created: مكون القطعة
+settings_updated: الإعدادات المحدثة
+widget_data_updated: القطعة البيانات المحدثة
+unable_to_write_widget: غير قادر على الكتابة القطعة
+admin_change_pass_help: اتركه فارغا اذا لم يكن التغيير يحتاج
+login_with_google: الدخول مع جوجل
+login_with_facebook: الدخول مع الفيسبوك
+register_for_new_account : التسجيل لحساب جديد
+site_map : خريطة الموقع
+show_site_map : مشاهدة خريطة الموقع
+about : معلومات عن
+see_full_documentation: الكرسي وثائق كاملة
+admin: الادارية
+re_password: أعد كتابة كلمة المرور
+explain_widget_position: شرح المواقف القطعة
+new_ad: اعلان جديد
+select_one: اختر واحدة
+username_or_email: اسم المستخدم أو البريد الإلكتروني
+post_detail: المشاركة التفاصيل
+edit_user: تحرير المستخدم
+the_field_is_required: مطلوب الحقل و٪ الصورة.
+valid_email: يجب أن يحتوي على حقل٪ ق عنوان بريد إلكتروني صالح.
+min_length: يجب أن يكون حقل٪ ق٪ على الأقل الصورة حرفا.
+numeric: يجب أن يحتوي على حقل٪ الصورة أرقام فقط.
+matches: حقل٪ s لا تتطابق حقل٪ الصورة.
+greater_than: يجب أن يحتوي على حقل٪ الصورة رقم أكبر من٪ الصورة.
+must_accept_terms: يجب عليك قبول شروط وحالة
+dont_have_permission: ليس لديك الصلاحية لدخول هذه الصفحة
+email_allready_in_use: أرسل بالفعل في استخدام
+username_allready_in_use: اسم المستخدم allready قد في استخدام
+current_password_not_matched: كلمة المرور الحالية ديدن \ 'ر المباراة
+email_not_matched: البريد الإلكتروني غير مطابقة
+account_not_confirmed: الحساب لم تؤكد
+unique_alias: يحتاج الحقل و٪ الصورة لتكون فريدة من نوعها
+smtp_email_settings: إعدادات SMTP البريد الإلكتروني
+error_occured: حدث خطأ . يرجى التحقق من الحقول أدناه
+user_profile: ملف المستخدم
+user_email: البريد الإلكتروني العضو
+target_lang_name: لغة الهدف
+enable_signup: تمكين الاشتراك
+facebook_app_settings: إعدادات الفيسبوك التطبيق
+enable_facebook_login: تمكين الفيسبوك تسجيل الدخول
+fb_app_id: الفيسبوك التطبيق معرف
+fb_secret_key: الفيسبوك سرية الرئيسية
+comment_settings: إعدادات تعليق
+enable_comment: تمكين التعليق
+disqus_shortname: هارد SHORTNAME
+active_widget_position: النشط موقف القطعة
+upload_and_install: تحميل وتثبيت
+install_updates: تثبيت التحديثات / موبايل / الإضافات / الحاجيات
+click_and_edit: اختر ملف قالب وانقر على تحرير
+google_analytics_settings: جوجل AnalyticsSettings
+default_seo_settings: الإعدادات الافتراضية كبار المسئولين الاقتصاديين
+find_us_on_facebook: تجدنا في الفيسبوك
+type_anything: كتابة أي شيء
+login_failed : فشل تسجيل الدخول
+debug_email : التصحيح البريد الإلكتروني
+email_to : إلى البريد الإلكتروني
+ive_read_the: لقد قرأت
+title_city_category: العنوان، المصدر أو الفئة
+css_compression: دمج جميع ملفات المغلق
+all_sub_categories : جميع الأقسام الفرعية
+no_sub_categories : لا التصنيفات الفرعية
+email_cleared: ارسل مسح
+hide_users_profile_phone: إخفاء المستخدمين الشخصية الهاتف
+features: الميزات
+new_source: مصدر جديد
+all_sources: جميع مصادر
+addsource: إضافة مصدر
+seo_keywords : كلمات سيو
+seo_description : سيو الوصف
+all_videos : جميع الفيديوهات
+new_video : فيديو جديد
+create_video : إنشاء الفيديو
+edit_video : تحرير الفيديو
+no_source : لا مصدر
+no_category : لا الفئة
+sub_category : الفئة الفرعية
+category_2: S.Category
+video_updated: فيديو updated
+video_added: الفيديو التي تم إنشاؤها
+source: المصدر
+link: لينك
+media: وسائل الإعلام
+put_as_comma_separated: ضع كما فاصلة (،) فصل شكل
+site_settings: إعدادات الموقع
+clear_old_videos: حذف الفيديو القديمة
+videos_before: قبل فيديو
+leave_empty_if_doesnot_matter: اتركه فارغا إذا لا توجد الآن 'ر يهم
+view_less_than: عرض أقل من
+without_image: دون صورة
+you_cant_undo_this_action: لا يمكن التراجع عن هذا الإجراء
+video_deleted: فيديو تطهيرها
+general: عامة
+moderator: مشرف
+genaral_user_can_create_post: يمكن للمستخدم إنشاء ملفات الفيديو
+moderator_can_create_post: مشرف يمكن إنشاء ملفات الفيديو
+auto_crawl: السيارات الزحف
+lazy_load_images: كسلان تحميل الصور
+generate_widgets: توليد الحاجيات
+sidebar: الشريط الجانبي
+pagebody: Pagebody
+widget_generated: لدت القطعة
+widget_generation_failed: الجيل القطعة فشل
+latest_videos: آخر
+video_by: فيديو بواسطة
+top_videos: الفيديوهات
+source_added: اضاف المصدر
+no_videos_found: لايوجد فيديو
+clear: واضح
+seen_by: مشاهدة
+read_this_on: اقرأ هذا على
+video_source: الفيديو من مصدر
+video_category: الفيديو من فئة
+source_name: اسم
+parent_category: المنتدى الرئيسي
+videos_grabbed: فيديو انتزع بنجاح
+rss_url: رابط التغذية الإخبارية
+auto_grabbing: السيارات الاستيلاء
+start_on: ابدأ على
+grab_duration: انتزاع مدة
+item_per_grab: البند في انتزاع
+edit_source: تحرير مصدر
+source_updated: المصدر محدثة
+video_featured: ظهرت فيديو
+video_un_featured: فيديو الامم المتحدة واردة
+no_videos: لا أشرطة الفيديو
+featured_videos: وأشرطة الفيديو مميزة
+widget_updated: القطعة تجديد
+delete_selected: حذف المحدد
+popular_videos: شعبية الفيديو
+search_result_for: البحث نتيجة
+source_type: نوع المصدر
+make_featured: جعل ظهرت
+enable_cookie_policy_popup: سياسة كوكي قافزة
+cookie_policy_page_url: كوكي صفحة سياسة رابط
+cookie_policy: سياسة كوكي
+cookie_policy_alert: هذا الموقع يستخدم الكوكيز. من خلال الاستمرار في استخدام هذا الموقع، فإنك توافق على استخدامنا لملفات تعريف الارتباط.
+read_more: قراءة المزيد
+i_agree: وأنا أتفق
+confirmation_email : تأكيد البريد الإلكتروني
+recovery_email : استعادة البريد الإلكتروني
+payment_confirmation_email : دفع تأكيد البريد الإلكتروني
+tracking_code : كود تتبع
+video: فيديو
+auto_translate: السيارات ترجمة
+auto_translator: السيارات المترجم
+from_lang: من اللغة
+edit_email_template: تعديل البريد الإلكتروني tmpl
+web_email_settings : إعدادات البريد الإلكتروني الويب
+on: نشر على
+video_sources: الفيديو مصادر
+save_images_locally: حفظ الصور محليا
+media_url_update: تحديث رابط سائل الإعلام القديمة
+old_base_url: قديم قاعدة رابط
+new_base_url: قاعدة جديدة رابط
+enable_cache: تمكين ذاكرة التخزين المؤقت
+grabnow: انتزاع الآن
+sample_page: نموذج الصفحة
+disable_main_site_link: تعطيل الرئيسية ارتباط الموقع
+admin_language: لغة الادارية
+five_filters_api_url: خمس مرشحات المعهد رابط
+january: يناير
+february: فبراير
+march: مارس
+april: أبريل
+may: مايو
+june: يونيو
+july: يوليو
+august: أغسطس
+september: سبتمبر
+october: أكتوبر
+november: نوفمبر
+december: ديسمبر
+generaluser_can_create_post: يمكن للمستخدم GENRAL خلق أشرطة الفيديو
+publish_posts_directly: نشر آخر مباشرة
+pending_msg: . وسيتم نشر مرة واحدة المشرف مراجعته
+publish: نشر
+unpublish: مشروع
+post_approved: بوست نشرت
+post_drafted: صياغة الأخبار
+pending: الانتظار / صياغته
+published: نشرت
+logo_text: شعار النص
+logo_text_color: شعار لون النص
+logo_type: نوع الشعار
+show_source_menu: مشاهدة مصدر القائمة
+show_cat_menu: عرض القائمة فئة
+enable_adblocker_alert: تمكين منع الإعلانات تنبيه
+adblock_detected: ادبلوك الكشف عن
+adblock_msg: الرجاء disbale ادبلوك وتحديث الصفحة مرة أخرى
+enable_featured_video_carousel: وأشرطة الفيديو Fetured راية
+top_videos_instead_featured: الأعلى أشرطة الفيديو بدلا من ذلك من ظهرت على شريط التمرير
+related_videos: فيديوهات ذات
+remove_featured: حذف شارك
+menu_type: نوع القائمة
+youtube_app_settings: إعدادات يوتيوب التطبيق
+yt_api_key: يوتيوب مفتاح API
+youtube_channel: قناة يوتيوب
+youtube_user: يوتيوب المستخدم
+youtube_playlist: يوتيوب التشغيل
+youtube_search: يوتيوب نتائج البحث
+grab_info: معلومات الاستيلاء على
+link_or_id: يوتيوب رابط فيديو / معرف
+type_link_or_id: ضع رابط يوتيوب فيديو أو فيديو معرف
+loading: تحميل ...
+any_category: أي فئة
+use_name_as_frontend_widget_title: استخدام اسم كما القطعة الواجهة العنوان (وإلا فئة أو اسم مصدر ستستخدم)
+channel_id_or_url: قناة معرف أو رابط
+put_youtube_channel_id_or_url: لصق قناة يوتيوب معرف أو رابط هنا مثل "UCD2XuG7GK1HrQdiHOCa6iOg" أو "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: نص البحث
+put_youtube_search_text: نوع / لصق النص بحث يوتيوب هنا
+playlist_id_or_url: معرف قائمة التشغيل أو رابط
+put_youtube_playlist_id_or_url: لصق يوتيوب التشغيل معرف أو رابط هنا مثل "PLC8AEE86B4D4E345D" أو "https://www.youtube.com/watch؟v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: معرف العضو أو رابط
+put_youtube_user_id_or_url: لصق يوتيوب هوية المستخدم أو رابط هنا مثل "مارفل "أو" https://www.youtube.com/user/MARVEL "
+url_not_valid: معرف القناة أو معرف قائمة التشغيل أو نص البحث غير صالح. الذهاب إلى تحرير ومراجعة.
+video_id_not_valid: يوتيوب رابط الفيديو أو معرف غير صالح
+with_video: مع الفيديو
+autoplay_video: القراءة التلقائية الفيديو
+url_or_id_required: رابط أو مطلوب حقل تعريف
+any_source: أي مصدر
+any_subcategory: أي الفئة الفرعية
+use_youtube_publish_time: استخدام نفس تنشر الوقت يوتيوب
+widget_type: "شاهد المزيد" نوع الارتباط
+how_to_yt_api_key: كيفية الحصول يوتيوب مفتاح API
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: فقط نشرت
+only_pending: فقط في انتظار
+only_featured: ظهرت فقط
+categories_deleted: الفئات حذفها
+can_not_undo: لا يمكن التراجع عن هذا الإجراء يسمح مرة واحدة. هل أنت واثق؟
+how_to_get_gplus_api: كيفية الحصول على جوجل API الرئيسية زائد؟
+auth_redirect_url: المصادقة إعادة توجيه رابط
+gplus_app_settings: جوجل بالإضافة إلى التطبيق إعدادات
+enable_gplus_login: تمكين جوجل + الدخول
+gplus_client_id: في + Google هوية العميل
+gplus_client_secret: في + Google سر العميل

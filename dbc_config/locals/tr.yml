@@ -1,0 +1,447 @@
+---
+sign_in: Oturum
+sign_up: Oturum Yukarı
+agent_panel: Ajan Paneli
+admin_panel: Yönetici Paneli
+register: Kayıt
+details: Detayları
+view_all: Görüntüle Tüm
+order_by: Order By
+none: Yok
+terms_and_conditions: Şartlar ve Şart
+reg_success_message: Hesabınız kaydı başarılı olduğunu. Bir e-posta e-posta gönderildi. Senin account.Thanks etkinleştirmek için bu e-posta takip edin
+recover: Kurtar
+oops: Üzgünüz, sayfa bulunamadı
+address: Adres
+all: Tüm
+contact_us: Bize
+confirmation: Onay
+tags: Etiketler
+login: Giriş
+post_not_found: Videolar Bulunmadı
+view_more: Daha Fazla
+image: Görüntü
+create: Oluşturma
+send: Gönder
+contact_subject: İletişim E-posta
+password: Şifre
+confirm_password: Password Onay
+all_posts: Tüm Videolar
+no_posts: Video Yok
+title: Başlık
+description: Açıklama
+status: Durum
+actions: Eylemleri
+type: Tip
+type_something: Tip şey
+content: İçeriği
+category: Kategori
+all_categories: Hepsi kategoriler
+edit_category: Düzenleme kategorisi
+new_category: Yeni kategori
+edit: Düzenle
+delete: Sil
+name: Adı
+save: Kaydet
+no_parent: yok ebeveyn
+add_another: Başka ekle
+export_to_file: dosya Ver
+options: seçenekler
+all_pages: Tüm sayfalar
+no_pages: sayfalar
+manage_menu: menüsü yönetme
+menu_title: Menü Başlık
+menu_alias: menüsü takma
+show_in_menu: menüsünde göster
+page_layout: Sayfa düzeni
+content_from: gelen İçerik
+url: URL
+seo_options: SEO seçenekleri
+meta_description: Meta açıklama
+key_words: Anahtar kelimeler
+crawl_after: (gün) sonra Tarama
+all_plugins: tüm eklentileri
+no_plugins: yok eklentileri
+name_and_version: adı ve sürüm
+change_password: Şifre değiştir
+current_password: Mevcut parola
+new_password: Yeni parola
+retype_password: parolayı yeniden yazın
+password_reset_info_msg: İlk Set Yeni Şifre Lütfen
+edit_profile: Profili düzenle
+profile_picture: Profil Resmi
+username: adı
+email: E-posta
+first_name: Ad
+last_name: Soyad
+gender: Cinsiyet
+phone: Telefon
+about_me: Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Twitter hesabı
+linkedin_account: Linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: http olmadan linki girin: //
+contact_email: İletişim E-posta
+webadmin_name: webAdmin İsim
+webadmin_email: webadmin E-posta
+update: Güncelleme
+upload: Yükleme
+site_title: Sitesi Başlığı
+footer_text: Altbilgi Metin
+site_logo: Sitesi Logo
+site_language: site Dilini
+site_text_direction: Sitesi Metin yönü
+per_page: Sayfa başına Sayfalandırmayı
+default_page_layout: Varsayılan Sayfa Düzeni
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Port
+smtp_timeout: SMTP Zaman aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifre
+generate_site_map: site Haritası oluşturmak
+sitemap_info_msg: NB: nb sitemap dahil olmak istediğiniz seçiniz xml. Sonra başarılı nesil sitemap.xml KÖK dizini altına kaydedilir. Siz de kendi URL'lerin dahil olmak üzere bu dosyayı düzenleyebilirsiniz.
+pages: Sayfalar
+view_xml: XML gör
+create_xml: oluşturma XML
+manage_backups: yedekleri yönetme
+create_sql_backup: SQL Backup oluşturma
+create_image_backup: Görüntü Yedekleme oluştur
+restore: Restore
+download: İndir
+dashboard: Dashboard
+overview_stats_more: Genel Bakış, istatistik ve Daha
+visit_site: Siteyi Ziyaret
+themes: Temalar
+locations: Mekanlar
+profile: Profil
+agents: Ajanlar
+widgets: Radyo
+all_widgets: Tüm Radyo
+widget_positions: Widget Pozisyonlar
+new_post: Yeni Mesaj
+pages_and_menu: Sayfalar ve Menü
+new_page: Yeni Sayfa
+menu: Menü
+system: Sistemi
+edit_email_text: Düzenleme E-posta Metin
+admin_settings: Web Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirin
+active_theme: aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı oluşturma
+export_user_email: İhracat Kullanıcı e-postalar (.csv)
+profile_info: Profil Bilgileri
+edit_page: Sayfayı Düzenle
+create_widget: Widget oluştur
+widget_name: Widget İsim
+activate_deactivate: etkinleştirin / De-Activate
+show: göster
+available_widgets: Mevcut Widget'lar
+active_widgets: aktif Widget'lar
+delete_warning: emin silerim istiyor musunuz.
+yes: 'Evet'
+no: 'hayır'
+fa_icon: FA simgesi sınıfı
+post_ad: İlan Ver
+post_ad_subtitle: reklam detay koyun
+signin: signin
+signup: Kayıt
+signup_title: hesabınızı oluşturun
+not_found: bulunamadı
+purpose: Amaç
+select_category: Kategori Seçiniz
+upload_later_msg: Sen sonrası oluşturma sonra galeri fotoğraf ve video url yüklemek mümkün olacak
+user_panel: Kullanıcı paneli
+logout: Çık
+put_as_comma_seperated: (,) virgül ayrılmalıdır olarak koymak
+added: eklenen
+location: Yer
+views: Gösterim
+add_new: yeni ekle
+search: Arama
+contact_mode: İletişim Modu
+reset: Sıfırlama
+contact: İletişim
+type_your_message: mesajınızı buraya yazın ..
+mail_sent: Posta Sent
+home: Ev
+list_your_ad: listesi Reklam
+print: Baskı
+remember_me: Beni hatırla
+forgot_password: Şifremi unuttum
+login_to_your_account: Hesabınıza Giriş
+register_your_account: Hesabınızı kaydol
+male: Erkek
+female: Kadın
+state: Devlet
+users: Kullanıcılar
+ads: Reklamlar
+categories: Kategoriler
+top_posts: En Mesajlar
+default_site_settings: site Ayarları Standart
+webadmin_settings: Webadmin Ayarları
+banner_settings: Afiş Ayarları
+logged_in_as: Son giriş olarak
+password_change_success: Parola başarıyla değiştirildi
+email_sent_inbox: bir e-posta inbox.Check bu e-posta gönderilir.
+password_recovery_link_invalid: Şifre Kurtarma Bağlantı geçerli değil mi
+user_updated: Kullanıcı Güncelleme
+user_deleted: Kullanıcı Silinmiş
+data_inserted: Veri takılı
+data_updated: Güncelleme Veri
+page_updated: Sayfası Güncellendi
+page_created: düzenlendi Sayfa
+page_deleted: Sayfa silinmiş
+menu_updated: Menüsü Güncelleme
+site_map_generation_success: Site haritası başarıyla oluşturuldu.
+select_option: Üzerinde seçmek veya daha fazla seçenekleri seçin edin.
+image_backup_created: Görüntü Yedekleme düzenlendi
+language_translated: Dil Çeviri
+backup_deleted: Yedekleme Silinmiş
+database_restored: Veritabanı restore
+theme_activated: Tema Aktif
+user_created: Kullanıcı Oluşturuldu
+widget_position_updated: Widget Böl Güncelleme
+widget_created: Widget düzenlendi
+settings_updated: Ayarlar Updated
+widget_data_updated: Widget Veri Güncelleme
+unable_to_write_widget: Widget yazılamıyor
+admin_change_pass_help: herhangi bir değişiklik gerekirse boş bırakın
+login_with_google: Google ile Giriş
+login_with_facebook: Facebook ile Giriş
+register_for_new_account : Yeni Hesap için Kayıt
+site_map : Site Haritası
+show_site_map : göster site haritası
+about : Hakkında
+see_full_documentation: See tam dokümantasyon
+admin: Yönetici
+re_password: parolası tekrar yazın
+explain_widget_position: Widget pozisyonları açıklar
+new_ad: Yeni Reklam
+select_one: seç Bir
+username_or_email: kullanıcı adı veya e-posta
+post_detail: gönder detay
+edit_user: düzenleme kullanıcı
+the_field_is_required: % s alanı gerekiyor.
+valid_email: % S alanı geçerli bir e-posta adresi içermelidir.
+min_length: % S alan uzunluğu en az% s karakter olmalıdır.
+numeric: % S sadece sayı içermelidir.
+matches: % S alan% s alanı eşleşmiyor.
+greater_than: % S alan% s'den daha büyük bir sayı içermelidir.
+must_accept_terms: Sen şartlarını kabul ve kondisyon gerekir
+dont_have_permission: bu sayfayı erişmek için izniniz yok
+email_allready_in_use: zaten kullanılıyor E
+username_allready_in_use: allready kullanım içinde adı
+current_password_not_matched: Geçerli parola yapmadım \ 't maç
+email_not_matched: E-posta eşleşmedi
+account_not_confirmed: Hesap doğrulanmamıştır
+unique_alias: % s alan benzersiz olması gerekir
+smtp_email_settings: SMTP E-posta Ayarları
+error_occured: hata oluştu . Aşağıdaki alanları kontrol edin
+user_profile: 'Kullanıcı profili
+user_email: Kullanıcı e-posta
+target_lang_name: Hedef dil
+enable_signup: kaydolma etkinleştir
+facebook_app_settings: Facebook uygulaması ayarları
+enable_facebook_login: giriş facebook Enable
+fb_app_id: Facebook uygulaması id
+fb_secret_key: Facebook gizli anahtar
+comment_settings: Yorum ayarlarına
+enable_comment: Yorum Enable
+disqus_shortname: Disqus shortname
+active_widget_position: Aktif eklendi pozisyon
+upload_and_install: Yükle ve yükleyin
+install_updates: Güncelleştirmeleri Yükle / Temalar / Eklentiler / Widget'lar
+click_and_edit: bir şablon dosyasını seçin ve düzenlemek tıklayın
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Varsayılan SEO ayarları
+find_us_on_facebook: Facebook bizi bulun
+type_anything: Tipi şey
+login_failed : Giriş başarısız
+debug_email : Debug e-posta
+email_to : e-posta için
+ive_read_the: okudum
+title_city_category: başlığı, kaynak veya Kategori
+css_compression: tüm css dosyaları Birleştirme
+all_sub_categories : Tüm Alt Kategoriler
+no_sub_categories : yok Alt Kategoriler
+email_cleared: temizlenmiş e-posta
+hide_users_profile_phone: gizle kullanıcıların profil telefon
+features: Özellikleri
+new_source: Yeni kaynak
+all_sources: Hepsi kaynaklar
+addsource: , kaynak ekle
+seo_keywords : Seo Anahtar kelimeler
+seo_description : Seo Açıklama
+all_videos : Tüm Videolar
+new_video : Yeni Video
+create_video : video Oluştur
+edit_video : Edit video
+no_source : Hayır kaynak
+no_category : yok Kategori
+sub_category : Alt Kategori
+category_2: S.Category
+video_updated: Video updated
+video_added: video hazırlandı
+source: kaynak
+link: Bağlantı
+media: Medya
+put_as_comma_separated: (,) biçiminde virgülle olarak koyun ayrılmış
+site_settings: site ayarlarını
+clear_old_videos: temizle eski videoları
+videos_before: Videolar önce
+leave_empty_if_doesnot_matter: gelmez ise boş bırak 't matter
+view_less_than: daha Görünüm
+without_image: Image olmadan
+you_cant_undo_this_action: bu eylemi geri alamazsınız
+video_deleted: videolar temizlenecek
+general: Genel
+moderator: Moderatör
+genaral_user_can_create_post: videoları oluşturabilirsiniz Kullanıcı
+moderator_can_create_post: Moderatör videoları oluşturabilirsiniz
+auto_crawl: Otomatik tarama
+lazy_load_images: Lazy yükleme görüntüleri
+generate_widgets: widget oluşturmak
+sidebar: Kenar Çubuğu
+pagebody: Pagebody
+widget_generated: Widget oluşturulan
+widget_generation_failed: Widget nesil başarısız
+latest_videos: Son
+video_by: olarak video
+top_videos: En İyi Videolar
+source_added: eklendi Kaynak
+no_videos_found: Henüz video
+clear: temizle
+seen_by: Görünüm
+read_this_on: Oku Bu
+video_source: bir kaynağından video
+video_category: kategori gelen video
+source_name: ismi
+parent_category: Üst Kategori
+videos_grabbed: videolar başarıyla yakaladı
+rss_url: url Yem
+auto_grabbing: kapma Otomatik
+start_on: Başlat
+grab_duration: tut süresi
+item_per_grab: kapmak başına Ürün
+edit_source: Düzenleme kaynak
+source_updated: güncellenmiş Source
+video_featured: video özellikli
+video_un_featured: video un özellikli
+no_videos: Henüz video
+featured_videos: Featured video
+widget_updated: güncellenen Widget
+delete_selected: seçilen sil
+popular_videos: Popüler videolar
+search_result_for: Arama Sonuç
+source_type: Kaynak tipi
+make_featured: özellikli yap
+enable_cookie_policy_popup: Çerez Politikası Popup
+cookie_policy_page_url: Çerez politika sayfası url
+cookie_policy: Çerez politikası
+cookie_policy_alert: Bu site çerezleri kullanmaktadır. Eğer çerez kullanmamızı kabul Bu siteyi kullanmaya devam ederek.
+read_more: Devamını oku
+i_agree: Kabul ediyorum
+confirmation_email : Onay e-posta
+recovery_email : Kurtarma e-posta
+payment_confirmation_email : ödeme onay e-postası
+tracking_code : İzleme kodu
+video: video
+auto_translate: Otomatik Çeviri
+auto_translator: Otomatik Çevirmen
+from_lang: dil itibaren
+edit_email_template: Düzenleme e-posta tmpl
+web_email_settings : Web e-posta ayarlarında
+on: Posted On
+video_sources: Video kaynakları
+save_images_locally: yerel kaydet görüntüleri
+media_url_update: eski medya url Güncelleme
+old_base_url: Eski taban url
+new_base_url: Yeni baz url
+enable_cache: Önbellek Enable
+grabnow: Kepçe Şimdi
+sample_page: Sayfa Örnek
+disable_main_site_link: devre dışı bırak ana site bağlantı
+admin_language: Yönetici dili
+five_filters_api_url: Beş filtre api url
+january: Ocak
+february: Şubat
+march: Mart
+april: Nisan
+may: Mayıs
+june: Haziran
+july: Temmuz
+august: Ağustos
+september: Eylül
+october: Ekim
+november: Kasım
+december: Aralık
+generaluser_can_create_post: Genral kullanıcı videoları oluşturabilir
+publish_posts_directly: doğrudan yazı yayınlayın
+pending_msg: . Admin kez yayınlanacak olan bu gözden
+publish: Yayınla
+unpublish: Taslak
+post_approved: Mesaj yayınlanan
+post_drafted: haberler kaleme
+pending: Beklemede / hazırlanan
+published: Yayın
+logo_text: Logo metin
+logo_text_color: Logo metin rengi
+logo_type: Logo tipi
+show_source_menu: göster kaynak menü
+show_cat_menu: göster kategori menüsü
+enable_adblocker_alert: AdBlocker uyarısı etkinleştirin
+adblock_detected: algılandı Adblock
+adblock_msg: Adblock devre dışı bırakılsın Lütfen tekrar sayfayı yenileyin
+enable_featured_video_carousel: Fetured videolar afiş
+top_videos_instead_featured: yerine En videoları sürgünün üzerinde özellikli
+related_videos: ilgili videolar
+remove_featured: Öne çıkarmak
+menu_type: Menü türü
+youtube_app_settings: Youtube uygulaması ayarları
+yt_api_key: Youtube api anahtarı
+youtube_channel: Youtube kanalı
+youtube_user: Youtube kullanıcı
+youtube_playlist: Youtube Playlist
+youtube_search: Youtube Arama Sonucu
+grab_info: tut Bilgi
+link_or_id: Youtube video bağlantı / id
+type_link_or_id: youtube video url veya video kimliği koyun
+loading: Yükleniyor ...
+any_category: Herhangi kategori
+use_name_as_frontend_widget_title: önyüz Parçacık olarak kullan adını başlık (Aksi takdirde kategori veya kaynak adı kullanılır)
+channel_id_or_url: kanal kimliği veya url
+put_youtube_channel_id_or_url: "UCD2XuG7GK1HrQdiHOCa6iOg" veya "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg" burada youtube kanal kimliği veya url yapıştırın
+search_text: Arama metni
+put_youtube_search_text: Tipi / yapıştır youtube arama metni burada
+playlist_id_or_url: Playlist kimliği veya url
+put_youtube_playlist_id_or_url: "PLC8AEE86B4D4E345D" veya "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D" burada youtube çalma listesi kimliği veya url yapıştırın
+user_id_or_url: kullanıcı kimliği veya url
+put_youtube_user_id_or_url: MARVEL "burada youTube kullanıcı Kimliği veya url yapıştırın "veya" https://www.youtube.com/user/MARVEL "
+url_not_valid: kanal kimliği veya çalma listesi kimliği veya arama metni geçerli değil. Düzenlemek ve kontrol etmek için gidin.
+video_id_not_valid: Youtube video link veya kimliği geçersiz
+with_video: Video ile
+autoplay_video: Autoplay video
+url_or_id_required: Url veya id alanı gerekiyor
+any_source: herhangi bir kaynağı
+any_subcategory: herhangi bir alt kategori
+use_youtube_publish_time: aynı Kullanım youtube olarak zaman yayımlamak
+widget_type: bağlantı türü "daha görüntüle"
+how_to_yt_api_key: youtube API anahtarı nasıl elde edilir?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: Sadece yayınlanmış
+only_pending: Sadece bekleyen
+only_featured: Sadece özellikli
+categories_deleted: Kategoriler silinen
+can_not_undo: bu eylem bir kez izin geri alamazsınız. Emin misiniz?
+how_to_get_gplus_api: Nasıl artı API anahtarı google almak için?
+auth_redirect_url: Kimlik Doğrulama yönlendirme url
+gplus_app_settings: Google plus uygulama ayarları
+enable_gplus_login: google + giriş Enable
+gplus_client_id: Google+ istemci kimliği
+gplus_client_secret: Google+ istemci sırrı

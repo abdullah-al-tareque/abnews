@@ -1,0 +1,9 @@
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Cron failed because domain not registered
+Invalid youtube_channel url/id for Latest Tech[id:2])Actual url to error: https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&videoEmbeddable=true&maxResults=50&channelId=UCWBES10n3A9sDN5HxVrrNuA&order=date&key=AIzaSyBi-dpSt08YsgEvVopxcDhDYx5LK-9YKEE

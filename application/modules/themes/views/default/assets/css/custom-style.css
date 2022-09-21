@@ -1,0 +1,300 @@
+.top-bar {
+  background: #fff none repeat scroll 0 0;
+  border-bottom: 1px solid #e7e7e7;
+  border-top: 4px solid #e54e53;
+}
+.top-bar .row{
+  padding: 0px 0;
+}
+.top-bar .holder{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.header .main-header {
+  margin: 23px 0 2px;
+}
+.header .main-header .logo-panel{
+  padding: 0;
+}
+.clearfix{
+  clear: both;
+}
+.bred{
+  background: #eee;
+  padding: 5px 10px;
+}
+.bred > ul {
+  list-style: outside none none;
+  padding: 0;
+}
+.bred ul li{
+  float: left;
+  margin-right: 10px;
+}
+
+.ad-block-top{
+  padding: 0;
+}
+.ad-block-top img{
+  width: 100%;
+}
+.news-block-title{
+  border: 1px 0 solid #222;
+}
+.main-news-title {
+  border-left: 2px solid #e54e53;
+  font-size: 14px;
+  line-height: 23px;
+  margin-top: 15px;
+  padding: 0 0 0 6px;
+}
+.main-news-big-title {
+  border-left: 2px solid #e54e53;
+  font-size: 24px;
+  line-height: 23px;
+  margin-top: 15px;
+  padding: 0 0 0 6px;
+}
+.main-news-meta {
+  background: #f2f2f2 none repeat scroll 0 0;
+  color: #a6a6a6;
+  font-size: 11px;
+  line-height: 25px;
+  margin-top: -12px;
+  overflow: hidden;
+  padding-left: 14px;
+  position: relative;
+  text-transform: uppercase;
+}
+.main-news-image{
+  width: 100%;
+}
+.news-lists{
+  list-style: none;
+  padding: 0;
+}
+.v-separator{
+  border-left: 1px solid #d9d9d9;
+}
+.news-lists .news-content{
+  float: left;
+}
+.news-lists .list-unstyled {
+  position: relative;
+  height: 420px;
+}
+hr, hr.separator {
+  background: #d9d9d9 none repeat scroll 0 0;
+  height: 1px;
+  margin: 20px 0;
+  border:0 none;
+}
+/****** Nav bar ***********/
+.navbar-default {
+  background-color: #ca391e;
+  border-color: #b72b09;
+}
+.navbar-default .navbar-brand {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-text {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+  background-color: #ca391e;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  color: #ecdbff;
+  background-color: #b72b09;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
+  background-color: #ca391e;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #ecdbff;
+  background-color: #b72b09;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #ecdbff;
+  background-color: #b72b09;
+}
+.navbar-default .navbar-toggle {
+  border-color: #b72b09;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #b72b09;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+  color: #ecdbff;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+.submenu{
+    background-color: #ca391e;
+}
+.submenu a{
+  color: #ecdbff !important;
+}
+.submenu a:hover{
+    background-color: #B72B09 !important;
+}
+.caret-right {
+    border-bottom: 4px solid transparent;
+    border-top: 4px solid transparent;
+    border-left: 4px solid;
+    display: inline-block;
+    height: 0;
+    opacity: 1;
+    vertical-align: middle;
+    width: 0;
+    color: #fff;
+    margin-left: 5px;
+}
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ecdbff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ecdbff;
+    background-color: #b72b09;
+  }
+}
+
+.navbar{
+  margin-bottom: 0;
+}
+
+
+
+/***** nav bar end ************/
+.header-separator{
+  clear: both;
+  /*margin-bottom: 20px;*/
+
+}
+.view-all-category-top {
+  float: right;
+  position: relative;
+  top: 10px;
+}
+.view-all-category-top a{
+  font-size: 12px;
+  color: #FFAA55;
+}
+.view-all-category-top a:hover{
+  color: #32C8DE;
+  text-decoration: underline !important;
+}
+.news-by-main{
+  position: relative;
+  float: left;
+}
+.news-by-marquee{
+  position: relative;
+  float: left;
+  margin-left: 10px;
+}
+.news-by-marquee > .news-by-title{
+  position: relative;
+  float: left;
+}
+.news-by-marquee > .news-by-body{
+  position: relative;
+  float: left;  
+}
+
+.news-by{
+  position: relative;
+  float: left;
+  margin-right: 10px;
+}
+.news-by > .news-by-title{
+  position: relative;
+  float: left;
+}
+.news-by > .news-by-body{
+  position: relative;
+  float: left;  
+}
+
+
+.excerpt > p{
+  line-height: 20px;
+}
+.excerpt > .detail{
+  line-height: 25px;
+  margin: 10px 0;
+}
+#cookiescript-popup{
+  background-color: #111111;
+  border-radius: 5px;
+  bottom: 20px;
+  box-shadow: 0 0 8px #000000;
+  color: #ffffff;
+  font-family: Arial,sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  right: 20px;
+  line-height: 20px;
+  opacity: 1;
+  padding: 15px;
+  position: fixed;
+  text-align: left;
+  width: 300px;
+  z-index: 999999;
+
+}
+#cookiescript-wrapper{
+  margin: 0px 10px;
+  font-size: 13px;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Arial,sans-serif;
+  line-height: 23px;
+  letter-spacing: normal;
+
+}
+
+#details-map img { max-width: none; }
+.stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices{
+    height: 23px;
+}
+.stButton .stButton_gradient{
+    height: 23px;
+}
+.banner-block{
+}

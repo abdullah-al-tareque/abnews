@@ -1,0 +1,447 @@
+---
+sign_in: เข้าสู่ระบบ
+sign_up: สมัคร
+agent_panel: ตัวแทนแผง
+admin_panel: Admin Panel
+register: สมัครสมาชิก
+details: รายละเอียด
+view_all: ดูทั้งหมด
+order_by: สั่งซื้อสินค้าโดย
+none: ไม่มี
+terms_and_conditions: เงื่อนไข
+reg_success_message: การลงทะเบียนบัญชีของคุณประสบความสำเร็จ อีเมลที่ถูกส่งไปยังอีเมลของคุณ โปรดปฏิบัติตามอีเมลที่เพื่อเปิดใช้งานของคุณ account.Thanks
+recover: กู้คืน
+oops: อ๊ะไม่พบหน้าเว็บ
+address: ที่อยู่
+all: ทั้งหมด
+contact_us: ติดต่อเรา
+confirmation: ยืนยัน
+tags: Tags:
+login: เข้าสู่ระบบ
+post_not_found: ไม่พบวิดีโอ
+view_more: ดูรายละเอียด
+image: ภาพที่
+create: สร้าง
+send: ส่ง
+contact_subject: ติดต่ออีเมล์
+password: รหัสผ่าน
+confirm_password: ยืนยันรหัสผ่าน
+all_posts: วิดีโอทั้งหมด
+no_posts: ไม่มีวิดีโอ
+title: ชื่อเรื่อง
+description: คำอธิบาย
+status: สถานะ
+actions: การดำเนินการ
+type: ประเภท
+type_something: ประเภทสิ่งที่
+content: เนื้อหา
+category: หมวดหมู่
+all_categories: ทั้งหมด ประเภท
+edit_category: แก้ไขหมวดหมู่
+new_category: หมวดสินค้า New
+edit: แก้ไข
+delete: ลบ
+name: ชื่อ
+save: บันทึก
+no_parent: ไม่มีผู้ปกครอง
+add_another: เพิ่มอีก
+export_to_file: ส่งออกไปยังแฟ้ม
+options: ตัวเลือก
+all_pages: หน้าทั้งหมด
+no_pages: ไม่มีหน้า
+manage_menu: จัดการเมนู
+menu_title: เมนูชื่อ
+menu_alias: เมนูนามแฝง
+show_in_menu: แสดงในเมนู
+page_layout: เค้าโครงหน้า
+content_from: เนื้อหาจาก
+url: Url
+seo_options: ตัวเลือก SEO
+meta_description: อธิบาย Meta
+key_words: คำสำคัญ
+crawl_after: การรวบรวมข้อมูลหลังจาก (วัน)
+all_plugins: ปลั๊กอินทั้งหมด
+no_plugins: ไม่มีปลั๊กอิน
+name_and_version: ชื่อและรุ่น
+change_password: เปลี่ยนรหัสผ่าน
+current_password: รหัสผ่านปัจจุบัน
+new_password: รหัสผ่านใหม่
+retype_password: รหัสผ่านอีกครั้ง
+password_reset_info_msg: กรุณาตั้งค่าใหม่เป็นครั้งแรกของคุณรหัสผ่าน
+edit_profile: แก้ไขราย
+profile_picture: ละเอียด
+username: ชื่อผู้ใช้
+email: อีเมล์
+first_name: ชื่อ
+last_name: นามสกุล
+gender: เพศ
+phone: โทรศัพท์
+about_me: เกี่ยวกับฉัน
+facebook_account: บัญชี Facebook
+twitter_account: บัญชี Twitter
+linkedin_account: Linkedin บัญชี
+gp_account: บัญชี Google+
+account_msg: โปรดป้อนการเชื่อมโยงโดยไม่ต้อง http: //
+contact_email: ติดต่อ อีเมล์
+webadmin_name: webAdmin ชื่อ
+webadmin_email: webAdmin อีเมล์
+update: ปรับปรุง
+upload: อัปโหลด
+site_title: เว็บไซต์ชื่อ
+footer_text: ท้ายข้อความ
+site_logo: ในเว็บไซต์โลโก้
+site_language: เว็บไซต์ภาษา
+site_text_direction: เว็บไซต์ข้อความทิศทาง
+per_page: เลขต่อหน้า
+default_page_layout: เริ่มต้นการออกแบบหน้าเว็บ
+smtp_email: SMTP อีเมล์
+smtp_host: SMTP โฮสต์
+smtp_port: SMTP พอร์ต
+smtp_timeout: SMTP หมดเวลา
+smtp_user: SMTP ผู้ใช้
+smtp_password: SMTP รหัสผ่าน
+generate_site_map: สร้างแผนผังเว็บไซต์
+sitemap_info_msg: NB: NB กรุณาเลือกที่คุณต้องการจะรวมอยู่ในแผนผังไซต์ XML หลังจากที่ประสบความสำเร็จ sitemap.xml รุ่นที่จะถูกบันทึกไว้ภายใต้ไดเรกทอรีราก นอกจากนี้คุณยังสามารถแก้ไขไฟล์ที่สำหรับการรวม URL ของคุณเอง
+pages: หน้า
+view_xml: ดู XML
+create_xml: สร้าง XML
+manage_backups: จัดการการสำรองข้อมูล
+create_sql_backup: สร้าง SQL Server สำรอง
+create_image_backup: สร้างภาพสำรอง
+restore: Restore
+download: ดาวน์โหลด
+dashboard: แดชบอร์ด
+overview_stats_more: ภาพรวมสถิติและเพิ่มเติม
+visit_site: Visit Site
+themes: ธีม
+locations: สถานที่
+profile: ข้อมูลส่วนตัวของ
+agents: ตัวแทน
+widgets: วิดเจ็ต
+all_widgets: ทั้งหมด Widgets
+widget_positions: Widget ตำแหน่ง
+new_post: โพสต์ใหม่
+pages_and_menu: หน้าและเมนู
+new_page: ใหม่หน้า
+menu: เมนู
+system: ระบบ
+edit_email_text: แก้ไขอีเมลข้อความ
+admin_settings: Web Settings ธุรการ
+sitemap: แผนผังเว็บไซต์
+activate: เปิดใช้งาน
+active_theme: ใช้งานรูปแบบ
+available_themes: รูปแบบที่พร้อม
+all_users: ผู้ใช้ทั้งหมด
+create_user: สร้างผู้ใช้
+export_user_email: ส่งออกอีเมล์ของผู้ใช้ (.csv)
+profile_info: ข้อมูลส่วนตัว
+edit_page: แก้ไขเพจ
+create_widget: สร้างเครื่องมือ
+widget_name: Widget ชื่อ
+activate_deactivate: เปิด / หรือ de-activate
+show: แสดง
+available_widgets: ที่มีจำหน่ายวิดเจ็ต
+active_widgets: วิดเจ็ตที่ใช้งาน
+delete_warning: คุณแน่ใจว่าต้องการจะลบ
+yes: 'ใช่'
+no: 'ไม่'
+fa_icon: เอฟเอคัไอคอนระดับ
+post_ad: โพสต์โฆษณา
+post_ad_subtitle: ใส่รายละเอียดโฆษณาของคุณ
+signin: ลงชื่อเข้าใช้
+signup: ลงทะเบียน
+signup_title: สร้างบัญชีของคุณ
+not_found: ไม่พบ
+purpose: วัตถุประสงค์
+select_category: เลือกหมวดหมู่
+upload_later_msg: คุณจะสามารถอัปโหลดรูปภาพแกลเลอรี่และ URL วิดีโอโพสต์หลังจากการสร้าง
+user_panel: แผงผู้ใช้
+logout: ออกจากระบบ
+put_as_comma_seperated: ใส่เป็น (,) เครื่องหมายจุลภาค sperated
+added: เพิ่ม
+location: สถานที่
+views: ชม
+add_new: เพิ่มใหม่
+search: ค้นหา
+contact_mode: ติดต่อโหมด
+reset: ตั้งค่าใหม่
+contact: ติดต่อ
+type_your_message: พิมพ์ข้อความของคุณที่นี่ ..
+mail_sent: จดหมายที่ส่ง
+home: หน้าแรก
+list_your_ad: รายการโฆษณาของคุณ
+print: พิมพ์
+remember_me: จดจำฉัน
+forgot_password: ลืมรหัสผ่าน
+login_to_your_account: เข้าสู่ระบบบัญชีของคุณ
+register_your_account: ลงทะเบียนบัญชีของ
+male: ชาย
+female: หญิง
+state: รัฐ
+users: ผู้
+ads: โฆษณา
+categories: หมวดหมู่
+top_posts: กระทู้ยอดนิยม
+default_site_settings: การตั้งค่าการตั้งค่า
+webadmin_settings: การตั้งค่า WebAdmin
+banner_settings: ตั้งค่าแบนเนอร์
+logged_in_as: บันทึกการเข้า ในขณะที่
+password_change_success: เปลี่ยนรหัสผ่านประสบความสำเร็จใน
+email_sent_inbox: อีเมลจะถูกส่งไปยังอีเมลที่ inbox.Check ของคุณ
+password_recovery_link_invalid: กู้คืนรหัสผ่านการเชื่อมโยงไม่ถูกต้อง
+user_updated: ผู้ใช้ที่ปรับปรุง
+user_deleted: ใช้ที่ถูกลบ
+data_inserted: ข้อมูลแทรก
+data_updated: ปรับปรุงข้อมูล
+page_updated: หน้า Updated
+page_created: หน้านี้ถูกสร้าง
+page_deleted: หน้าถูกลบ
+menu_updated: เมนู Updated
+site_map_generation_success: แผนผังเว็บไซต์ที่สร้างเสร็จเรียบร้อยแล้ว
+select_option: กรุณาเลือกหรือเลือกตัวเลือกมากขึ้น
+image_backup_created: ภาพสำรองที่สร้าง
+language_translated: ภาษาแปล
+backup_deleted: การสำรองข้อมูลที่ถูกลบ
+database_restored: ฐานข้อมูลที่คืน
+theme_activated: ธีมเปิดใช้งาน
+user_created: ผู้ใช้ที่สร้าง
+widget_position_updated: Widget ตำแหน่ง Updated
+widget_created: สร้าง Widget
+settings_updated: อัพเดทการตั้งค่า
+widget_data_updated: ข้อมูล Widget Updated
+unable_to_write_widget: ไม่สามารถเขียน Widget
+admin_change_pass_help: เว้นว่างไว้หากไม่มีการเปลี่ยนแปลงที่จำเป็นต้อง
+login_with_google: เข้าสู่ระบบกับ Google
+login_with_facebook: เข้าสู่ระบบด้วย Facebook
+register_for_new_account : สมัครสมาชิกสำหรับบัญชีใหม่
+site_map : Site Map
+show_site_map : แสดงแผนที่เว็บไซต์
+about : เกี่ยวกับ
+see_full_documentation: ดู เอกสารฉบับเต็ม
+admin: ธุรการ
+re_password: รหัสผ่านอีกครั้ง
+explain_widget_position: อธิบายตำแหน่ง Widget
+new_ad: โฆษณาใหม่
+select_one: เลือกหนึ่งใน
+username_or_email: ชื่อผู้ใช้หรืออีเมล์
+post_detail: โพสต์รายละเอียด
+edit_user: ผู้ใช้แก้ไข
+the_field_is_required: ข้อมูล% s เป็นสิ่งจำเป็น
+valid_email: ฟิลด์% s จะต้องมีที่อยู่อีเมลที่ถูกต้อง
+min_length: ฟิลด์% s ต้องมีอย่างน้อย% s ตัวอักษรความยาว
+numeric: ฟิลด์% s จะต้องมีตัวเลขเท่านั้น
+matches: ฟิลด์% s ไม่ตรงกับข้อมูล% ดัชนี S
+greater_than: ฟิลด์% s จะต้องมีจำนวนมากกว่า% s
+must_accept_terms: คุณต้องยอมรับเงื่อนไข
+dont_have_permission: คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้
+email_allready_in_use: อีเมล์แล้วในการใช้
+username_allready_in_use: ชื่อผู้ใช้ allready ในการใช้งาน
+current_password_not_matched: รหัสผ่านปัจจุบัน didn t \ 'การแข่งขัน
+email_not_matched: อีเมล์ไม่ตรงกับ
+account_not_confirmed: บัญชีไม่ได้ยืนยัน
+unique_alias: ข้อมูล% s จะต้องไม่ซ้ำกัน
+smtp_email_settings: การตั้งค่าอีเมล์ SMTP
+error_occured: เกิดข้อผิดพลาด . กรุณาตรวจสอบช่องด้านล่าง
+user_profile: รายละเอียดผู้ใช้
+user_email: อีเมลของผู้ใช้
+target_lang_name: ภาษาเป้าหมาย
+enable_signup: เปิดใช้งานการสมัครใช้งาน
+facebook_app_settings: การตั้งค่าแอพ Facebook
+enable_facebook_login: เปิดใช้งาน Facebook ล็อกอิน
+fb_app_id: แอพ Facebook ID
+fb_secret_key: Facebook คีย์ลับ
+comment_settings: ตั้งค่าความคิดเห็น
+enable_comment: เปิดใช้การ
+disqus_shortname: สอบ SHORTNAME
+active_widget_position: ใช้งานตำแหน่ง Widget
+upload_and_install: อัปโหลดและติดตั้ง
+install_updates: ติดตั้งการปรับปรุง / ธีม / ปลั๊กอิน / widgets
+click_and_edit: เลือกไฟล์แม่แบบ และคลิกแก้ไข
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: ตั้งค่าเริ่มต้น SEO
+find_us_on_facebook: พบกับเราบน Facebook
+type_anything: ประเภทสิ่งใด
+login_failed : เข้าสู่ระบบล้มเหลว
+debug_email : อีเมล Debug
+email_to : ต้องการส่งอีเมล
+ive_read_the: ฉันได้อ่าน
+title_city_category: ชื่อเรื่องแหล่งที่มาหรือหมวดหมู่
+css_compression: ผสาน CSS ไฟล์ทั้งหมดใน
+all_sub_categories : ทุกหมวดหมู่ย่อย
+no_sub_categories : ไม่มีหมวดหมู่ย่อย
+email_cleared: ส่งอีเมล์เคลียร์
+hide_users_profile_phone: โทรศัพท์รายละเอียดซ่อนผู้ใช้
+features: คุณสมบัติ
+new_source: ที่มาใหม่
+all_sources: ทั้งหมด แหล่งที่มา
+addsource: เพิ่มแหล่งที่มาของ
+seo_keywords : คำ Seo
+seo_description : Seo คำอธิบาย
+all_videos : วิดีโอทั้งหมด
+new_video : วิดีโอใหม่
+create_video : สร้างวิดีโอ
+edit_video : แก้ไขวิดีโอ
+no_source : ไม่มีแหล่ง
+no_category : ไม่มีหมวดหมู่
+sub_category : ประเภทย่อย
+category_2: S.Category
+video_updated: วิดีโอที่อัปเดต
+video_added: วิดีโอที่สร้างขึ้น
+source: มา
+link: เชื่อมโยง
+media: สื่อ
+put_as_comma_separated: ใส่เป็นเครื่องหมายจุลภาค (,) แยกรูปแบบ
+site_settings: การตั้งค่าเว็บไซต์
+clear_old_videos: ล้างเก่า
+videos_before: วิดีโอก่อนที่จะ
+leave_empty_if_doesnot_matter: ปล่อยว่างไว้หาก doesn 'เรื่อง t
+view_less_than: ดูน้อยกว่า
+without_image: โดยไม่ต้องภาพที่
+you_cant_undo_this_action: คุณไม่สามารถยกเลิกการกระทำนี้
+video_deleted: วิดีโอล้าง
+general: ทั่วไป
+moderator: ผู้ดูแล
+genaral_user_can_create_post: ผู้ใช้สามารถสร้างวิดีโอ
+moderator_can_create_post: ผู้ดูแลสามารถสร้างวิดีโอ
+auto_crawl: อัตโนมัติรวบรวมข้อมูล
+lazy_load_images: ขี้เกียจโหลดภาพ
+generate_widgets: สร้างเครื่องมือ
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget สร้าง
+widget_generation_failed: รุ่น Widget ล้มเหลว
+latest_videos: ล่าสุด
+video_by: วิดีโอโดย
+top_videos: สูงสุดวิดีโอ
+source_added: มาเพิ่ม
+no_videos_found: ไม่มีวิดีโอ
+clear: ล้าง
+seen_by: ดู
+read_this_on: อ่านนี้ใน
+video_source: วิดีโอจากแหล่ง
+video_category: วิดีโอจากหมวดหมู่
+source_name: ชื่อ
+parent_category: ผู้ปกครองหมวดหมู่
+videos_grabbed: วิดีโอคว้าประสบความสำเร็จใน
+rss_url: ฟีด URL
+auto_grabbing: อัตโนมัติโลภ
+start_on: Start บน
+grab_duration: คว้าระยะเวลา
+item_per_grab: รายการต่อการคว้า
+edit_source: แก้ไขแหล่ง
+source_updated: ที่มาการปรับปรุง
+video_featured: วิดีโอเด่น
+video_un_featured: วิดีโอที่ไม่ให้ความสำคัญ
+no_videos: ไม่มีวิดีโอ
+featured_videos: วิดีโอแนะนำ
+widget_updated: Widget การปรับปรุง
+delete_selected: ลบเลือก
+popular_videos: วิดีโอยอดนิยม
+search_result_for: ค้นหา ผล
+source_type: ประเภทแหล่งที่มาของ
+make_featured: ยี่ห้อที่เข้าร่วม
+enable_cookie_policy_popup: คุกกี้นโยบายป๊อปอัพ
+cookie_policy_page_url: หน้านโยบาย URL คุกกี้
+cookie_policy: นโยบายคุกกี้
+cookie_policy_alert: เว็บไซต์นี้ใช้คุกกี้ อย่างต่อเนื่องโดยใช้เว็บไซต์นี้คุณเห็นด้วยกับการใช้คุกกี้ของเรา
+read_more: อ่านเพิ่มเติม
+i_agree: ผมเห็นด้วย
+confirmation_email : อีเมลยืนยัน
+recovery_email : การกู้คืนอีเมล
+payment_confirmation_email : ชำระเงินอีเมล์ยืนยัน
+tracking_code : รหัสติดตาม
+video: วิดีโอ
+auto_translate: แปลอัตโนมัติ
+auto_translator: Auto แปล
+from_lang: จากภาษา
+edit_email_template: แก้ไขอีเมล tmpl
+web_email_settings : การตั้งค่าอีเมลเว็บ
+on: โพสเมื่อ
+video_sources: วิดีโอแหล่งที่มา
+save_images_locally: บันทึกภาพในประเทศ
+media_url_update: อัพเดทสื่อเก่า URL
+old_base_url: ฐานเก่า URL
+new_base_url: ฐาน URL ใหม่
+enable_cache: เปิดใช้งานแคช
+grabnow: คว้าตอนนี้
+sample_page: เพจตัวอย่าง
+disable_main_site_link: ปิดการใช้งาน หลักเชื่อมโยงเว็บไซต์
+admin_language: ภาษาธุรการ
+five_filters_api_url: ห้าฟิลเตอร์ API URL
+january: มกราคม
+february: กุมภาพันธ์
+march: มีนาคม
+april: เมษายน
+may: พฤษภาคม
+june: มิถุนายน
+july: กรกฎาคม
+august: สิงหาคม
+september: กันยายน
+october: ตุลาคม
+november: พฤศจิกายน
+december: ธันวาคม
+generaluser_can_create_post:  เผยแพร่โพสต์โดยตรง
+publish_posts_directly: 
+pending_msg: จะได้รับการเผยแพร่เมื่อผู้ดูแลระบบตรวจสอบได้
+publish: เผยแพร่
+unpublish: ร่าง
+post_approved: โพสต์ตีพิมพ์
+post_drafted: ข่าวร่าง
+pending: รอดำเนินการ / ร่าง
+published: ตีพิมพ์
+logo_text: โลโก้ข้อความ
+logo_text_color: โลโก้สีข้อความ
+logo_type: ประเภทโลโก้
+show_source_menu: แสดงแหล่งที่มาของเมนู
+show_cat_menu: เมนูประเภทการแสดง
+enable_adblocker_alert: เปิดใช้ adblocker แจ้งเตือน
+adblock_detected: Adblock ตรวจพบ
+adblock_msg: โปรด disbale Adblock และรีเฟรชหน้าอีกครั้ง
+enable_featured_video_carousel: วิดีโอ Fetured แบนเนอร์
+top_videos_instead_featured: วิดีโอยอดนิยมแทน การให้ความสำคัญกับการเลื่อน
+related_videos: วิดีโอที่เกี่ยวข้อง
+remove_featured: นำแนะนำ
+menu_type: ประเภทเมนู
+youtube_app_settings: การตั้งค่าแอป YouTube
+yt_api_key: Youtube คีย์ API
+youtube_channel: Youtube ช่อง
+youtube_user: ผู้ใช้ YouTube
+youtube_playlist: Youtube เพลย์ลิส
+youtube_search: Youtube ผลการค้นหา
+grab_info: คว้าข้อมูล
+link_or_id: Youtube วิดีโอลิงก์ / ID
+type_link_or_id: ใส่ URL ของวิดีโอ YouTube หรือวิดีโอ ID
+loading: โหลด ...
+any_category: ใดประเภทการ
+use_name_as_frontend_widget_title: ใช้ชื่อเป็นเครื่องมือส่วนหน้า ชื่อ (มิฉะนั้นประเภทหรือชื่อแหล่งจะใช้)
+channel_id_or_url: รหัสช่องหรือ URL
+put_youtube_channel_id_or_url: วางรหัส YouTube ช่องหรือ URL ที่นี่เช่น "UCD2XuG7GK1HrQdiHOCa6iOg" หรือ "https://www.youtube.com/channel/UCD2XuG7GK1HrQdiHOCa6iOg"
+search_text: ค้นหาข้อความ
+put_youtube_search_text: ประเภท / วาง YouTube ค้นหาข้อความที่ นี่
+playlist_id_or_url: ID เพลย์ลิสหรือ URL
+put_youtube_playlist_id_or_url: วาง YouTube รายการเพลงประจำตัวประชาชนหรือ URL ที่นี่เช่น "PLC8AEE86B4D4E345D" หรือ "https://www.youtube.com/watch?v=MVQJSZjtUHA&list=PLC8AEE86B4D4E345D"
+user_id_or_url: ID ผู้ใช้หรือ URL
+put_youtube_user_id_or_url: วาง YouTube ID ผู้ใช้หรือ URL ที่นี่เช่น "MARVEL "หรือ" https://www.youtube.com/user/MARVEL "
+url_not_valid: รหัสช่องหรือรหัสรายการเพลงหรือค้นหาข้อความที่ไม่ถูกต้อง ไปที่แก้ไขและตรวจสอบ
+video_id_not_valid: ลิงค์วิดีโอ Youtube หรือรหัสไม่ถูกต้อง
+with_video: กับวิดีโอ
+autoplay_video: แบบอัตโนมัติวิดีโอ
+url_or_id_required: URL หรือที่ช่องรหัสจำเป็นต้องมี
+any_source: แหล่งที่มาใด ๆ
+any_subcategory: ใด ๆ หมวดหมู่
+use_youtube_publish_time: เดียวกันใช้เวลาเผยแพร่เป็น YouTube
+widget_type: "ดูเพิ่มเติม" ประเภทการเชื่อมโยง
+how_to_yt_api_key: วิธีการขอรับคีย์ API YouTube?
+define_api_key_msg: Please set a youtube api key from Admin panel > content > site settings
+source_deleted: Source deleted
+only_published: เฉพาะการตีพิมพ์
+only_pending: เฉพาะที่ค้างอยู่
+only_featured: คุณลักษณะเฉพาะ
+categories_deleted: หมวดหมู่ลบ
+can_not_undo: คุณไม่สามารถยกเลิกการดำเนินการนี้ได้รับอนุญาตครั้งเดียว คุณแน่ใจไหม?
+how_to_get_gplus_api: วิธีการรับ Google คีย์ API Plus?
+auth_redirect_url: Auth URL การเปลี่ยนเส้นทาง
+gplus_app_settings: การตั้งค่า Google Plus App
+enable_gplus_login: เปิดใช้งาน Google + เข้าสู่ระบบ
+gplus_client_id: Google+ ลูกค้ารหัส
+gplus_client_secret: ลับลูกค้า Google+
