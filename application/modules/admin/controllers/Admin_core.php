@@ -145,9 +145,6 @@ class Admin_core extends CI_Controller {
 	{
 
         $this->form_validation->set_rules('first_name',	'First Name', 		'required|xss_clean');
-        $this->form_validation->set_rules('last_name',	'last Name', 		'required|xss_clean');
-        $this->form_validation->set_rules('gender',		'Gender', 			'required|xss_clean');
-
 		if(!is_admin())
 			$this->form_validation->set_rules('user_type','User type', 	'required|xss_clean');
 
@@ -172,13 +169,7 @@ class Admin_core extends CI_Controller {
 		else
 		{
 			$id = $this->input->post('id');
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				redirect(site_url('admin/editprofile/'.$id));	
-			}
-			else
-			{
+			
 				$userdata['profile_photo'] 	= $this->input->post('profile_photo');
 	            $userdata['first_name'] 	= $this->input->post('first_name');
 	            $userdata['last_name'] 		= $this->input->post('last_name');
@@ -219,7 +210,7 @@ class Admin_core extends CI_Controller {
 					redirect(site_url('admin/editprofile/'.$id));		
 				else
 					redirect(site_url('admin/edituser/'.$id));		
-			}
+			
 		}
 
 	}
@@ -279,16 +270,11 @@ class Admin_core extends CI_Controller {
 		{
 			if($confirmation=='yes')
 			{
-				if(constant("ENVIRONMENT")=='demo')
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				}
-				else
-				{
+				
 					$this->load->model('user/user_model');
 					$this->user_model->delete_user_by_id($id);
 					$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_deleted').'</div>');
-				}
+				
 			}
 			redirect(site_url('admin/users/all/'.$page));		
 		}		
@@ -307,18 +293,13 @@ class Admin_core extends CI_Controller {
 			die;
 		}
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+	
 			$this->load->model('user/user_model');
 
 			$this->user_model->update_user_by_id(array('user_type'=>3),$id);
 
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_updated').'</div>');
-		}				
+						
 
 		redirect(site_url('admin/users/all/'.$page));				
 
@@ -337,18 +318,12 @@ class Admin_core extends CI_Controller {
 			die;
 		}
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
 			$this->load->model('user/user_model');
 
 			$this->user_model->update_user_by_id(array('user_type'=>2),$id);
 
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_updated').'</div>');
-		}		
+			
 
 		redirect(site_url('admin/users/all/'.$page));				
 
@@ -366,16 +341,11 @@ class Admin_core extends CI_Controller {
 			die;
 		}
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->load->model('user/user_model');
 			$this->user_model->confirm_user_by_id($id);
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_confirmed').'</div>');
-		}		
+				
 		redirect(site_url('admin/users/all/'.$page));				
 	}
 
@@ -393,15 +363,10 @@ class Admin_core extends CI_Controller {
 
 		if($limit=='forever')
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$this->user_model->banuser($id,$limit);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_banned').'</div>');
-			}	
+				
 			redirect(site_url('admin/userdetail/'.$id));			
 		}
 
@@ -412,16 +377,11 @@ class Admin_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$limit = $this->input->post('limit');
 				$this->user_model->banuser($id,$limit);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_banned').'</div>');
-			}	
+				
 			redirect(site_url('admin/userdetail/'.$id));
 		}
 	}

@@ -84,12 +84,7 @@ class Content_core extends CI_Controller {
 		{
 			if($confirmation=='yes')
 			{
-				if(constant("ENVIRONMENT")=='demo')
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				}
-				else
-				{
+				
 					if(is_agent())
 					{
 						$post = $this->classified_model->get_post_by_id($id);
@@ -111,7 +106,7 @@ class Content_core extends CI_Controller {
 						$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('post_deleted').'</div>');
 
 					}
-				}
+				
 			}
 			redirect(site_url('admin/classified/allposts/'.$page));		
 		}		
@@ -126,12 +121,7 @@ class Content_core extends CI_Controller {
 			die;
 		}
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->load->helper('date');
 			$format = 'DATE_RFC822';
 			$time = time();
@@ -143,7 +133,7 @@ class Content_core extends CI_Controller {
 
 			$this->content_model->update_video_data($data,$id);
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('post_approved').'</div>');
-		}
+		
 		redirect(site_url('admin/content/allvideos/'.$page));
 	}
 
@@ -155,12 +145,7 @@ class Content_core extends CI_Controller {
 			die;
 		}
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->load->helper('date');
 			$format = 'DATE_RFC822';
 			$time = time();
@@ -170,7 +155,7 @@ class Content_core extends CI_Controller {
 
 			$this->content_model->update_video_data($data,$id);
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('post_drafted').'</div>');
-		}
+		
 		redirect(site_url('admin/content/allvideos/'.$page));
 	}
 
@@ -248,13 +233,7 @@ class Content_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				redirect(site_url('admin/content/addsource/'.$id));	
-			}
-			else
-			{
+			
 				$data = array();
 				$data['source_name'] 	 = $this->input->post('source_name');
 				$data['source_type'] 	 = $this->input->post('source_type');
@@ -294,7 +273,7 @@ class Content_core extends CI_Controller {
 				}
 
 				redirect(site_url('admin/content/addsource/'.$id));	
-			}
+			
 		}
 	}
 
@@ -316,15 +295,10 @@ class Content_core extends CI_Controller {
 		{
 			if($confirmation=='yes')
 			{
-				if(constant("ENVIRONMENT")=='demo')
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				}
-				else
-				{
+				
 					$this->content_model->delete_source_data_by_id($id);
 					$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('source_deleted').'</div>');
-				}
+				
 			}
 			redirect(site_url('admin/content/allsources/'.$page));		
 		}		
@@ -451,13 +425,7 @@ class Content_core extends CI_Controller {
         }
         else
         {
-            if(constant("ENVIRONMENT")=='demo')
-            {
-                $this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-                redirect(site_url('admin/content/createvideo/'.$id.'/'.$start));
-            }
-            else
-            {
+           
             	 // echo '<pre>';print_r($_POST);
             	 // echo $this->input->post('description');
             	 // die;
@@ -503,7 +471,7 @@ class Content_core extends CI_Controller {
 
                 redirect(site_url('admin/content/createvideo/'.$id.'/'.$start));
 
-            }
+            
         }
     }
 
@@ -542,15 +510,10 @@ class Content_core extends CI_Controller {
         {
             if($confirmation=='yes')
             {
-                if(constant("ENVIRONMENT")=='demo')
-                {
-                    $this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-                }
-                else
-                {
+               
                     $this->content_model->delete_video_data_by_id($id);
                     $this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('video_deleted').'</div>');
-                }
+                
             }
             redirect(site_url('admin/content/allvideos/'.$page));
         }
@@ -605,12 +568,7 @@ class Content_core extends CI_Controller {
 		}
 		else
 		{	
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$data['values'] 	= json_encode($_POST);		
 				$res = $this->options_model->getvalues($key);
 
@@ -622,7 +580,7 @@ class Content_core extends CI_Controller {
 				else
 					$this->options_model->updatevalues($key,$data);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-			}
+			
 			redirect(site_url('admin/content/settings/'.$key));
 		}	
 	}
@@ -638,27 +596,17 @@ class Content_core extends CI_Controller {
 	public function clearvideos()
 	{
 		
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->content_model->clearvideos();
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('video_deleted').'</div>');
-		}
+		
 
 		redirect(site_url('admin/content/clearoldvideos'));
 	}
 
 	public function makefeatured($id='',$page='0')
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			redirect(site_url('admin/content/allvideos/'.$page));
-		}
-
+		
 		$data = array('featured'=>1);
 		$this->content_model->update_video_data($data,$id);
 		$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('video_featured').'</div>');
@@ -667,11 +615,7 @@ class Content_core extends CI_Controller {
 
 	public function removefeatured($id='',$page='0')
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			redirect(site_url('admin/content/allvideos/'.$page));
-		}
+	
 
 		$data = array('featured'=>0);
 		$this->content_model->update_video_data($data,$id);
@@ -682,12 +626,7 @@ class Content_core extends CI_Controller {
 
 	public function bulkdeletevideo()
     {
-
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			redirect(site_url('admin/content/allvideos'));
-		}
+		
 
         $ids = (isset($_POST['id']))?$_POST['id']:array();
 
@@ -722,17 +661,12 @@ class Content_core extends CI_Controller {
 		}
 		else
 		{	
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$old_base_url = $this->input->post('old_base_url');
 				$new_base_url = $this->input->post('new_base_url');
 				$this->content_model->replace_old_media_url($old_base_url,$new_base_url);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-			}
+			
 			redirect(site_url('admin/content/settings/'.$key));
 		}
     }

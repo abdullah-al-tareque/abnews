@@ -220,6 +220,24 @@ class Show_core extends CI_controller {
         load_template($data,$this->active_theme);
     }
 
+    public function popular_videos()
+    {
+        $data['content'] 	= load_view('popular_videos','',TRUE);
+        $data['alias']	    = 'popular_videos';
+        load_template($data,$this->active_theme);
+    }
+    public function featured_videos()
+    {
+        $data['content'] 	= load_view('featured_videos','',TRUE);
+        $data['alias']	    = 'featured_videos';
+        load_template($data,$this->active_theme);
+    }
+    public function latest_videos()
+    {
+        $data['content'] 	= load_view('latest_videos','',TRUE);
+        $data['alias']	    = 'latest_videos';
+        load_template($data,$this->active_theme);
+    }
 
 	public function terms_check($str)
 	{

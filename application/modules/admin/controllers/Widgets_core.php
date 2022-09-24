@@ -63,12 +63,7 @@ class Widgets_core extends CI_Controller {
 	
 	public function savewidgetpositions()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$positions = get_option('positions');
 			$positions = json_decode($positions->values);
 
@@ -81,7 +76,7 @@ class Widgets_core extends CI_Controller {
 			}
 			update_option('positions',$positions);
 			$this->session->set_flashdata('msg','<div class="alert alert-success">'.lang_key_admin('widget_position_updated').'</div>');
-		}
+		
 
 		redirect(site_url('admin/widgets/widgetpositions/'.$this->input->post('position')));
 	}
@@ -96,12 +91,7 @@ class Widgets_core extends CI_Controller {
 	{
 		$alias = $this->input->post('alias');
 
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			
 			$this->load->helper('file');
 			$data = $this->input->post('data');
@@ -114,22 +104,17 @@ class Widgets_core extends CI_Controller {
 			{
 			     $this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('widget_data_updated').'</div>');
 			}			
-		}
+		
 		redirect(site_url('admin/widgets/edit/'.$alias));
 	}
 
 	#change a widget status
 	public function setstatus($alias='',$status=1)
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->widget_model->set_widget_status($alias,$status);
 			$this->session->set_flashdata('msg','<div class="alert alert-success">'.lang_key_admin('widget_updated').'</div>');
-		}
+		
 		redirect(site_url('admin/widgets/all'));
 	}
 
@@ -143,17 +128,12 @@ class Widgets_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$data['name'] 	= $this->input->post('name');
 				$data['status'] = 1;
 				$this->widget_model->create_widget($data);
 				$this->session->set_flashdata('msg','<div class="alert alert-success">'.lang_key_admin('widget_created').'</div>');
-			}
+			
 			redirect(site_url('admin/widgets/all'));
 		}
 	}
@@ -169,12 +149,7 @@ class Widgets_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$data['name'] 				= $this->input->post('widget_name');
 				$data['source_id'] 			= $this->input->post('source_id');
 				$data['parent_category'] 	= $this->input->post('parent_category');
@@ -186,7 +161,7 @@ class Widgets_core extends CI_Controller {
 				$this->session->set_flashdata('msg','<div class="alert alert-success">'.lang_key_admin('widget_generated').'</div>');
 				else
 				$this->session->set_flashdata('msg','<div class="alert alert-success">'.lang_key_admin('widget_generation_failed').'</div>');
-			}
+			
 			redirect(site_url('admin/widgets/all'));
 		}
 	}

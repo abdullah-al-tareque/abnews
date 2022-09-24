@@ -52,32 +52,22 @@ class System_core extends CI_Controller {
 	#create db backup
 	public function createbackup()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->system_model->create_db_backup();		
-		}
+		
 		redirect(site_url('admin/system/allbackups'));
 	}
 	
 	#restore db from a backup file
 	public function restoredb($key=0)
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->load->helper('directory');
 			$map = directory_map('./assets/backups');
 			$file = $map[$key];
 			$this->system_model->restore_db_backup($file);
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('database_restored').'</div>');
-		}
+		
 
 		redirect(site_url('admin/system/allbackups'));
 	}
@@ -98,18 +88,13 @@ class System_core extends CI_Controller {
 	#delete a db backup
 	public function deletebackup($key)
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->load->helper('directory');
 			$map = directory_map('./assets/backups');
 			$file = $map[$key];
 			unlink('./assets/backups/'.$file);
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('backup_deleted').'</div>');
-		}
+		
 		redirect(site_url('admin/system/allbackups'));		
 	}
 	
@@ -123,6 +108,7 @@ class System_core extends CI_Controller {
 		{
 			$settings = array('contact_email'=>'','webadmin_email'=>'');
 		}
+		
 		$settings = json_encode($settings);		
 		$value['settings'] = $settings;
         $data['title'] = lang_key_admin('admin_settings');
@@ -135,39 +121,15 @@ class System_core extends CI_Controller {
 	{
 		$this->load->model('options_model');
 	
-		foreach($_POST as $key=>$value)
-		{
-			$this->form_validation->set_rules($key,$key,'required');
-		}
-		
-		if ($this->form_validation->run() == FALSE)
-		{
-			$this->settings($key);	
-		}
-		else
-		{	
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
-				$data['values'] 	= json_encode($_POST);		
-				$res = $this->options_model->getvalues($key);
-				if($res=='')
-				{
-					$data['key']	= $key;			
-					$this->options_model->addvalues($data);
-				}
-				else
-					$this->options_model->updatevalues($key,$data);
-						
-				
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-			}
 
-			redirect(site_url('admin/system/settings/'.$key));		
-		}			
+		
+				$data['values'] 	= json_encode($_POST);	
+				$this->options_model->updatevalues($key,$data);
+				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
+		
+
+			redirect(site_url('admin/system/settings/'));		
+				
 	}
 	#********* smtp email settings ************#
 	#load webadmin settings , settings are saved as json data
@@ -195,12 +157,7 @@ class System_core extends CI_Controller {
 		}
 		else
 		{	
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$key = 'smtp_settings';
 				$data['values'] 	= json_encode($_POST);		
 				$res = $this->options_model->getvalues($key);
@@ -241,7 +198,7 @@ class System_core extends CI_Controller {
 				}	
 				
 								
-			}
+			
 
 			redirect(site_url('admin/system/smtpemailsettings/'));		
 		}			
@@ -287,12 +244,7 @@ class System_core extends CI_Controller {
 		}
 		else
 		{	
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$data['values'] 	= json_encode($_POST);		
 				$res = $this->options_model->getvalues($key);
 				if($res=='')
@@ -306,7 +258,7 @@ class System_core extends CI_Controller {
 				
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
 				
-			}
+			
 			$current_lang =  get_current_lang();
 			$url = site_url('admin/system/sitesettings/'.$key);
 			$url = str_replace('/'.$current_lang.'/','/'.default_lang().'/', $url);
@@ -327,12 +279,7 @@ class System_core extends CI_Controller {
 	
 	public function updateemail()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$email = array();
 			$email['subject'] 	= $this->input->post('subject');
 			$email['body'] 		= $this->input->post('body');
@@ -345,7 +292,7 @@ class System_core extends CI_Controller {
 			$this->system_model->update_email_tmpl($data,$id);
 			
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-		}
+		
 		redirect(site_url('admin/system/emailtmpl/'.$id));		
 		
 	}

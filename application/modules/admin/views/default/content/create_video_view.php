@@ -23,7 +23,7 @@
                     <?php $v = isset($post->manual_creation)?$post->manual_creation:1;?>
                     <input type="hidden" name="manual_creation" value="<?php echo $v;?>">
 
-                    <div class="form-group">
+                    <div class="form-group hidden">
                         <label class="col-sm-3 col-md-2 control-label"><?php echo lang_key_admin('source');?>:</label>
 
                         <div class="col-sm-9 col-md-10 controls">

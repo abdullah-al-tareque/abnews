@@ -19,7 +19,7 @@ $dl = default_lang();
 
                   <th class="numeric"><?php echo lang_key_admin('title');?></th>
 
-                   <th class="numeric"><?php echo lang_key_admin('source');?></th>
+                   <th class="numeric hidden"><?php echo lang_key_admin('source');?></th>
 
                   <th class="numeric"><?php echo lang_key_admin('category');?></th>
 
@@ -32,11 +32,6 @@ $dl = default_lang();
                   <th class="numeric"><?php echo lang_key_admin('featured');?></th>
 
                    <th class="numeric"><?php echo lang_key_admin('actions');?></th>
-
-
-
-
-
 
                </tr>
 
@@ -58,7 +53,7 @@ $dl = default_lang();
 
                   <td data-title="<?php echo lang_key_admin('title');?>" class="numeric"><?php echo $row->title;?></td>
 
-                   <td data-title="<?php echo lang_key_admin('source');?>" class="numeric"><?php echo get_source_title_by_id($row->source_id);?></td>
+                   <td data-title="<?php echo lang_key_admin('source');?>" class="numeric hidden"><?php echo get_source_title_by_id($row->source_id);?></td>
 
                    <td data-title="<?php echo lang_key_admin('category');?>" class="numeric"><?php echo get_category_title_by_id($row->category);?></td>
 

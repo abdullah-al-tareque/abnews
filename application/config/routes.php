@@ -90,6 +90,9 @@ $route['page/(:any)'] = "show/page/$1";
 $route['rss'] = "show/rss";
 
 $route['contact'] = "show/contact";
+$route['popular_videos'] = "show/popular_videos";
+$route['featured_videos'] = "show/featured_videos";
+$route['latest_videos'] = "show/latest_videos";
 $route['sendcontactemail'] = "show/sendcontactemail";
 
 $route['translate_uri_dashes'] = FALSE;

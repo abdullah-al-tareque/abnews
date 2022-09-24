@@ -152,7 +152,7 @@ if ( ! function_exists('social_sharing_meta_tags_for_post'))
 			$CI = get_instance();
 			$post = $post->row();
 			$curr_lang = get_current_lang();
-			$site_title = get_settings('site_settings','site_title','Videopilot');
+			$site_title = get_settings('site_settings','site_title','ABnews');
 			$title = $post->title;
 
             $detail_link = post_detail_url($post);

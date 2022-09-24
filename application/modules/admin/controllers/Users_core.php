@@ -49,29 +49,19 @@ class Users_core extends CI_Controller {
 
 	public function ban_user($user_id=0, $page = 1)
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 	        $this->users_model->ban_user($user_id);
 	        $this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_banned').'</div>');
-		}
+		
         redirect(site_url('admin/users/all/' . $page));
     }
 
     public function unban_user($user_id=0, $page = 1)
     {
-    	if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+    	
 	        $this->users_model->unban_user($user_id);
 	        $this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_unbanned').'</div>');
-		}
+		
         redirect(site_url('admin/users/all/' . $page));
     }
 
@@ -88,15 +78,10 @@ class Users_core extends CI_Controller {
 		$this->load->model('user/user_model');
 		if($limit=='forever')
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$this->user_model->banuser($id,$limit);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_banned').'</div>');
-			}
+			
 
 			redirect(site_url('admin/userdetail/'.$id));			
 		}
@@ -109,16 +94,11 @@ class Users_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$limit = $this->input->post('limit');
 				$this->user_model->banuser($id,$limit);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('user_banned').'</div>');
-			}
+			
 			redirect(site_url('admin/userdetail/'.$id));
 		}
 	}

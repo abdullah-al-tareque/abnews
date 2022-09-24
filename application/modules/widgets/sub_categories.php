@@ -4,20 +4,17 @@ $CI->load->model('show/post_model');
 $page_type      =  $CI->uri->segment(2);
 $category_id    =  $CI->uri->segment(3);
 $CI->load->database();
-$CI->db->order_by('id','desc');
-$CI->db->where(array('status'=>1,'parent'=>$category_id));
+$CI->db->order_by('id','ASC');
+$CI->db->where(array('status'=>1,'parent'=>0));
 $query = $CI->db->get('categories');
-
-if($page_type=="categoryvideos" && is_numeric($category_id)){
-
 ?>
 <div class="s-widget">
     <!-- Heading -->
-    <h5><i class="fa fa-sun-o color"></i>&nbsp; <?php echo lang_key('all_sub_categories');?></h5>
+    <h5><i class="fa fa-sun-o color"></i>  ক্যাটেগরীজ</h5>
     <!-- Widgets Content -->
     <div class="widget-content hot-properties">
         <?php if($query->num_rows()<=0){?>
-            <div class="alert alert-info"><?php echo lang_key('no_sub_categories');?></div>
+            <div class="alert alert-info">ক্যাটেগরীজ</div>
         <?php }else{?>
             <ul class="list-unstyled list-6">
                 <?php
@@ -26,7 +23,7 @@ if($page_type=="categoryvideos" && is_numeric($category_id)){
                 ?>
                     <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
                         <a href="<?php echo $category_url;?>">
-                            <?php echo lang_key($post->title); ?> <span dir="rtl" class="color">(<?php echo count_videos_by_subcategory($post->id);?>)</span>
+                            <?php echo lang_key($post->title); ?> <span dir="rtl" class="color">(<?php echo count_videos_by_category($post->id);?>)</span>
                         </a>
                     </li>
                 <?php
@@ -36,5 +33,5 @@ if($page_type=="categoryvideos" && is_numeric($category_id)){
         <?php }?>
     </div>
 </div>
-<?php }?>
+
 <div style="clear:both"></div>

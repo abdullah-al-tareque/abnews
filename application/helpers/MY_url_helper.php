@@ -29,6 +29,114 @@ if ( ! function_exists('site_url'))
 }
 
 
+function get_table($table,$where=array(),$field='',$orderby='',$limit='')
+{
+	$CI = get_instance();
+	if(!empty($where))
+		$CI->db->where($where);
+
+	if(!empty($orderby))
+		$CI->db->order_by($field , $orderby);
+	if(!empty($limit))
+		$CI->db->limit($limit);
+	$query = $CI->db->get($table);
+
+	if ($query->num_rows() > 0)
+	{
+		return $query->result();
+	}
+	else
+	{
+		return FALSE;
+	}
+}
+
+function get_count($table,$where=array())
+{
+	$CI = get_instance();
+	if(!empty($where))
+		$CI->db->where($where);
+	$query = $CI->db->get($table);
+
+	if ($query->num_rows() > 0)
+	{
+		return $query->num_rows();
+	}
+	else
+	{
+		return FALSE;
+	}
+}
+
+function get_total($table,$where=array(),$column=null)
+{
+	$CI = get_instance();
+	if(!empty($where))
+		$CI->db->where($where);
+	$query = $CI->db->get($table);
+	$total = 0;
+	if ($query->num_rows() > 0)
+	{
+		$value = $query->result();
+
+		foreach($value as $to){
+
+				$total += $to->$column;
+
+		}
+
+		return $total;
+	}
+	else
+	{
+		return FALSE;
+	}
+}
+
+
+
+
+
+
+function get_data($table,$where=array())
+{
+	$CI = get_instance();
+	$CI->db->select('*');
+	$CI->db->from($table);
+	if(!empty($where))
+		$CI->db->where($where);        
+	$query = $CI->db->get();        
+	return $result = $query->row();
+} 
+
+
+
+function get_data_orderby($table,$where=array(),$field='',$orderby='',$limit='')
+{
+	$CI = get_instance();
+	if(!empty($where))
+		$CI->db->where($where);
+
+	if(!empty($orderby))
+		$CI->db->order_by($field , $orderby);
+	if(!empty($limit))
+		$CI->db->limit($limit);
+	$query = $CI->db->get($table);
+
+	if ($query->num_rows() > 0)
+	{
+		return $result = $query->row();
+	}
+	else
+	{
+		return FALSE;
+	}
+}
+
+
+
+
+
 
 if ( ! function_exists('base_url'))
 

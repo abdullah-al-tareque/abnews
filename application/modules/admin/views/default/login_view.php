@@ -73,15 +73,7 @@
                   </div>
           </div>
         </div-->
-        <?php if(constant("ENVIRONMENT")=='demo'){?>
-        <div class="form-group">
-          <div class="controls">
-                  <div class="input-group">
-                      Demo Admin : admin password: 12345
-                  </div>
-          </div>
-        </div>
-        <?php }?>
+    
 
         <hr style="margin-bottom:0px;" />
         <div class="form-group">

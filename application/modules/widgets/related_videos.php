@@ -22,7 +22,7 @@ else
 	?>
 	<div class="s-widget">
 	    <!-- Heading -->
-	    <h5><i class="fa fa-building color"></i>&nbsp; <?php echo lang_key('related_videos');?></h5>
+	    <h5><i class="fa fa-building color"></i>&nbsp; রিলেটেড ভিডিও</h5>
 	    <!-- Widgets Content -->
 	    <div class="widget-content hot-properties">
 	        <?php if($v_query->num_rows()<=0){?>

@@ -78,15 +78,10 @@ class Category_core extends CI_Controller {
 		{
 			if($confirmation=='yes')
 			{
-				if(constant("ENVIRONMENT")=='demo')
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				}
-				else
-				{
+				
 					$this->category_model->delete_category_by_id($id);
 					$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-				}
+				
 			}
 			redirect(site_url('admin/category/all'));		
 			
@@ -95,11 +90,7 @@ class Category_core extends CI_Controller {
 
 	public function bulkdeletecategory()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			redirect(site_url('admin/category/all'));
-		}
+		
 
         $ids = (isset($_POST['id']))?$_POST['id']:array();
 
@@ -115,9 +106,7 @@ class Category_core extends CI_Controller {
 	public function addcategory()
 	{	
 		$this->form_validation->set_rules('title', lang_key_admin('title'), 'required');
-		$this->form_validation->set_rules('parent', lang_key_admin('parent'), 'required');
-		if($this->input->post('parent')==0)
-		$this->form_validation->set_rules('fa_icon', lang_key_admin('fa_icon'), 'required');
+
 		
 		if ($this->form_validation->run() == FALSE)
 		{
@@ -137,15 +126,10 @@ class Category_core extends CI_Controller {
 			$data['created_by']		= $this->session->userdata('user_id');
 			$data['status']			= 1;
 
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$this->category_model->insert_category($data);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_inserted').'</div>');				
-			}
+			
 			redirect(site_url('admin/category/newcategory'));		
 		}
 	}
@@ -155,7 +139,7 @@ class Category_core extends CI_Controller {
 	public function updatecategory()
 	{
 		$this->form_validation->set_rules('title', lang_key_admin('title'), 'required');
-		$this->form_validation->set_rules('parent', lang_key_admin('parent'), 'required');
+
 							
 		if ($this->form_validation->run() == FALSE)
 		{
@@ -171,15 +155,10 @@ class Category_core extends CI_Controller {
 			$data['parent'] 		= $this->input->post('parent');	
 			$data['fa_icon'] 		= $this->input->post('fa_icon');		
 			
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$this->category_model->update_category($data,$id);
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('data_updated').'</div>');
-			}
+			
 			redirect(site_url('admin/category/edit/'.$id));		
 		}
 	}

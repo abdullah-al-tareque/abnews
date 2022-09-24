@@ -73,12 +73,28 @@ class Video_model_core extends CI_Model
         return $query;
     }
 
+    public function get_featured_videos_all()
+    {
+        $this->db->order_by('publish_time','desc');
+        $query = $this->db->get_where('videos',array('status'=>1,'featured'=>1));
+        return $query;
+    }
+
+
 
     public function get_popular_videos($limit)
     {
         // $this->db->order_by('publish_time','desc');
         $this->db->order_by('total_view','desc');
         $query = $this->db->get_where('videos',array('status'=>1),$limit,0);
+        return $query;
+    }
+
+	public function get_popular_videos_all()
+    {
+        // $this->db->order_by('publish_time','desc');
+        $this->db->order_by('total_view','desc');
+        $query = $this->db->get_where('videos',array('status'=>1));
         return $query;
     }
 

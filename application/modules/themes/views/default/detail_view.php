@@ -17,15 +17,11 @@ $CI->load->model('admin/content_model');
 $source = $CI->content_model->get_source_data_by_id($main_video['source_id']);
 $main_source_url = source_video_url($main_video['source_id'],$source_name);
 ?>
-<div class="page-heading-two">
-    <div class="container">
-        <h2><?php echo $main_video['title'];?></h2>        
-        <div class="clearfix"></div>
-    </div>
-</div>
+
 
 <div class="container">
-
+        <h2><?php echo $main_video['title'];?></h2>        
+        <div class="clearfix"></div>
     <!-- Actual content -->
     <div class="rs-property">
         <!-- Block heading two -->
@@ -51,7 +47,7 @@ $main_source_url = source_video_url($main_video['source_id'],$source_name);
                     </div>
 
                     <div class="main-news-meta">
-                        <span class="news-by">
+                        <span class="news-by hidden">
                             <span class="news-by-title">
                                 <?php echo lang_key('video_by');?>:
                             </span>
@@ -83,8 +79,6 @@ $main_source_url = source_video_url($main_video['source_id'],$source_name);
                     
                     <div class="excerpt">
                         <p class="detail">
-
-<iframe class="button-api-frame" src="http://com-youtube.stream/audiostreams/zB4I68XVPzQ" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
 
 <!-- Optional script that automatically makes iframe content responsive. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js"></script>
@@ -128,7 +122,7 @@ $main_source_url = source_video_url($main_video['source_id'],$source_name);
                         <span class='st_email_hcount'></span>
                     </div>
 
-                    <?php render_widgets('detail_page');?>
+                    <?php //render_widgets('detail_page');?>
 
                     <?php
 

@@ -79,17 +79,12 @@ class Auth_core extends CI_Controller {
 		}
 		else
 		{
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				$password = $this->input->post('new_password');
 				$this->auth_model->update_password($password);
 				$this->session->set_userdata('recovery',"no");
 				$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('password_change_success').'</div>');
-			}
+			
 			redirect(site_url('admin/auth/changepass'));		
 		}
 	

@@ -2,7 +2,7 @@
 
 body {
     color: #666;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 28px;
     background: #f6f6f6;
     font-family: 'Open Sans', sans-serif;
@@ -28,17 +28,17 @@ h1 {
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 40px
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 18px;
     line-height: 37px
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 33px
 }
 
@@ -2330,9 +2330,9 @@ body.boxed.img-5 {
 
 .top-bar {
     background: #fdfdfd;
-    color: #999;
+    color: #333;
     padding: 6px 0;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 25px;
     border-bottom: 1px solid #f5f5f5
 }
@@ -2349,7 +2349,7 @@ body.boxed.img-5 {
     background: #fff;
     margin-top: 15px;
 }
-.main-block .container{
+.main-block > .container{
     background: #fff;
 }
 .marquee-heading{
@@ -2357,14 +2357,10 @@ body.boxed.img-5 {
     font-weight: bold;
 }
 .top-bar a {
-    color: #999
+    color: #333
 }
 
-@media (max-width: 785px) {
-    .top-bar .tb-contact {
-        display: none
-    }
-}
+
 
 .top-bar .tb-search {
     position: relative;
@@ -2396,14 +2392,8 @@ body.boxed.img-5 {
 }
 
 .top-bar .tb-social i {
-    font-size: 13px;
-    margin: 0;
-}
-
-@media (max-width: 785px) {
-    .top-bar .tb-social {
-        display: none
-    }
+    font-size: 16px;
+    margin: 0px 3px;
 }
 
 .top-bar .tb-shopping-cart {
@@ -4088,7 +4078,7 @@ body.boxed.img-5 {
 .sidebar .s-widget h5 {
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400
 }
 
@@ -4726,11 +4716,11 @@ body.bg-img {
 }
 
 .foot {
-    border-top: 3px solid;
+    border-top: 0px solid;
     margin-top: 30px;
     padding: 15px 0;
-    background: #333;
-    color: #aaa
+    background: #780000;
+    color: #ccc;
 }
 
 .foot .foot-item {
@@ -4746,9 +4736,10 @@ body.bg-img {
 
 .foot .foot-item h5 {
     color: #ccc;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 0;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    font-weight: bold;
 }
 
 .foot .foot-item p {
@@ -4778,7 +4769,8 @@ body.bg-img {
 
 .foot .foot-item ul li {
     border-bottom: 1px solid rgba(255, 255, 255, .05);
-    padding: 5px 0
+    padding: 1px 0;
+    font-size: 16px;
 }
 
 .foot .foot-item ul li:last-child {
@@ -4809,7 +4801,7 @@ body.bg-img {
 
 .foot .foot-item .address h6 {
     color: #ccc;
-    font-size: 13px
+    font-size: 16px;
 }
 
 .foot .foot-item .address h6 i {
@@ -4827,15 +4819,16 @@ body.bg-img {
 }
 
 .foot .foot-item .address p.tel {
-    line-height: 35px
+    line-height: 35px;
+    font-size: 16px;
 }
 
 footer {
     padding: 15px 10px 4px;
     border-top: 1px solid rgba(255, 255, 255, .05);
-    font-size: 12px;
-    background: #333;
-    color: #ccc
+    font-size: 14px;
+    background: #000;
+    color: #ccc;
 }
 
 footer a {
@@ -4951,7 +4944,9 @@ footer a:hover {
 
 /* Sidebar widget */
 .s-widget .hot-properties li{
-    margin-bottom:10px;
+    margin-bottom: 3px;
+    font-size: 15px;
+    color: #333;
 }
 .s-widget .hot-properties li img{
     float:left;

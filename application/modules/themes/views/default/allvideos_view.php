@@ -1,29 +1,14 @@
-<!-- updated on version 1.4 -->
-<div class="page-heading-two">
-    <div class="container">
-        <h2>
+   
+<!-- Container -->
+<div class="container">
+<h2>
         <?php if(isset($icon) && $icon!=''){?>
         <i class="fa <?php echo $icon;?>"></i>&nbsp;
         <?php }?>
         <?php echo (isset($title))?$title:'';?> <span>&nbsp;</span>
-        <?php 
-        $feed_url = '';
-        if(isset($category_id) && $category_id!='')
-            $feed_url = site_url('show/feed/category/'.$category_id);
-        if(isset($source_id) && $source_id!='')
-            $feed_url = site_url('show/feed/source/'.$source_id);
-        if(isset($publish_time) && $publish_time!='')
-            $feed_url = site_url('show/feed/date/'.$publish_time);
-
-        ?>
-        <a href="<?php echo $feed_url;?>"><i class="fa fa-rss"></i></a>
-        </h2>        
-        <div class="clearfix"></div>
-    </div>
-</div>
-<!-- end -->    
-<!-- Container -->
-<div class="container">
+       
+       
+        </h2> 
     <div class="blog-one">
         <div class="row">
 
@@ -61,7 +46,7 @@
                                 <!-- Blog meta -->
                                 <div class="blog-meta">
                                     <!-- Author -->
-                                    <i class="fa fa-chain"></i> &nbsp; <a href="<?php echo source_video_url($videos->source_id,get_source_title_by_id($videos->source_id));?>"><?php echo get_source_title_by_id($videos->source_id); ?></a> &nbsp;
+                                   
                                     <!-- Date -->
                                     <i class="fa fa-calendar"></i> &nbsp; <a href="<?php echo date_video_url($videos->publish_time);?>"><?php echo translateable_date($videos->publish_time); ?></a>
 

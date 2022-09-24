@@ -7,7 +7,7 @@ $video_query = $CI->video_model->get_popular_videos($limit);
 ?>
 <div class="s-widget">
     <!-- Heading -->
-    <h5><i class="fa fa-building color"></i>&nbsp; <?php echo lang_key('popular_videos');?></h5>
+    <h5><i class="fa fa-building color"></i>&nbsp; জনপ্রিয় ভিডিও</h5>
     <!-- Widgets Content -->
     <div class="widget-content hot-properties">
         <?php if($video_query->num_rows()<=0){?>

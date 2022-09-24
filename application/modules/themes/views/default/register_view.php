@@ -1,15 +1,11 @@
-<div class="page-heading-two">
-    <div class="container">
-        <h2><?php echo lang_key('signup');?> <span><?php echo lang_key('signup_title');?></span></h2>        
-        <div class="clearfix"></div>
-    </div>
-</div>
+
 <div class="container">
+
     <div class="row">
-        <div class="col-md-5">
-            <?php render_widget('register_page_description') ?>
+        <div class="col-md-2 hidden">
+            <?php //render_widget('register_page_description') ?>
         </div>
-        <div class="col-md-7">
+        <div class="col-md-12">
             <!-- Login starts -->
             <div class="well login-reg-form" >
                 <!-- Heading -->
@@ -17,7 +13,7 @@
                 <hr />
                 <!-- Form -->
                 <!-- Form Horizontal -->
-                <form style="max-width: 615px" class="form-horizontal"  action="<?php echo site_url('account/register/');?>" method="post">
+                <form style="max-width: 800px" class="form-horizontal"  action="<?php echo site_url('account/register/');?>" method="post">
                 
 
                     <!-- Form Group -->
@@ -140,6 +136,7 @@
             </div>
             <!-- Login ends -->
         </div>
+      
     </div>
 
 </div>

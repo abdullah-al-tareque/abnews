@@ -124,12 +124,7 @@ class Page_core extends CI_Controller {
 			$seo['crawl_after'] 		= $this->input->post('crawl_after');
 			$data['seo_settings']		= json_encode($seo);
 
-			if(constant("ENVIRONMENT")=='demo')
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			}
-			else
-			{
+			
 				if($this->input->post('action_type')=='update')
 				{
 					$id = $this->input->post('id');
@@ -141,7 +136,7 @@ class Page_core extends CI_Controller {
 					$id = $this->page_model->insert_page($data);
 					$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('page_created').'</div>');
 				}				
-			}	
+			
 
 			redirect(site_url('admin/page/manage/'.$id));		
 		}
@@ -160,15 +155,10 @@ class Page_core extends CI_Controller {
 		{
 			if($confirmation=='yes')
 			{
-				if(constant("ENVIRONMENT")=='demo')
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-				}
-				else
-				{
+				
 					$this->page_model->delete_page_by_id($id);
 					$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('page_deleted').'</div>');
-				}
+				
 			}
 			redirect(site_url('admin/page/all/'.$page));		
 			
@@ -194,15 +184,10 @@ class Page_core extends CI_Controller {
 
 	public function update_menu()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			add_option('top_menu',$this->input->post('top_menu'));
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('menu_updated').'</div>');
-		}
+		
 		redirect(site_url('admin/page/menu'));		
 	}
 

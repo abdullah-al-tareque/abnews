@@ -26,12 +26,12 @@ class Post_model_core extends CI_Model
 
 	function get_all_categories()
 	{
-		$this->db->order_by('title','asc');
+		$this->db->order_by('id','asc');
 		$query = $this->db->get_where('categories',array('parent'=>0,'status'=>1));
 		$categories = array();
 		foreach ($query->result() as $row) {
 			array_push($categories,$row);
-			$this->db->order_by('title','asc');
+			$this->db->order_by('id','asc');
 			$child_query = $this->db->get_where('categories',array('parent'=>$row->id,'status'=>1));
 			foreach ($child_query->result() as $child) {
 				array_push($categories,$child);
@@ -43,7 +43,7 @@ class Post_model_core extends CI_Model
 
 	function get_all_parent_categories()
 	{
-		$this->db->order_by('title','asc');
+		$this->db->order_by('id','asc');
 		$this->db->where('parent',0);
 		$this->db->where('status',1);
 		$query = $this->db->get('categories');
@@ -52,7 +52,7 @@ class Post_model_core extends CI_Model
 
 	function get_all_child_categories($id, $limit = 'all')
 	{
-		$this->db->order_by('title','asc');
+		$this->db->order_by('id','asc');
 		$this->db->where('parent',$id);
 		$this->db->where('status',1);
 		if($limit!= 'all')

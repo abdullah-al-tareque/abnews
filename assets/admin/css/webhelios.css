@@ -10,8 +10,8 @@ body {
 	padding-bottom:0;
 	min-height:100%;
 	font-family:'Open Sans';
-	font-size:13px;
-	color:#393939;
+	font-size:16px;
+	color:#333;
 	-webkit-font-smoothing:antialiased
 }
 ::-moz-selection {
@@ -559,7 +559,7 @@ hr.margin-0 {
 }
 #sidebar {
 	width:250px;
-	position:absolute
+	position:absolute;
 }
 #sidebar:before {
 	content:"";
@@ -5440,7 +5440,7 @@ border-radius: 10px;
 	padding:0 5px 0 7px !important;
 	color:#d1d1d1 !important;
 	text-shadow:none !important;
-	font-size:13px;
+	font-size:16px;
 	text-decoration:none;
 	-webkit-transition: background-color 200ms linear;
 	-moz-transition: background-color 200ms linear;

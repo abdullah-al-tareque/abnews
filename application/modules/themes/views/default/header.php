@@ -13,7 +13,7 @@
     <div class="header">
       <div class="container">
         <div class="row main-header">
-          <div class="col-md-2 col-sm-2 logo-panel">
+          <div class="col-md-2 col-sm-2 col-xs-3 logo-panel">
             <?php 
             $logo_type = get_settings('site_settings','logo_type','Image');
             if($logo_type=='Image')
@@ -21,7 +21,7 @@
             ?>
             <h3>
                 <a href="<?php echo site_url();?>">
-                <img src="<?php echo get_site_logo();?>" alt="Logo" style="height:63px">
+                <img src="<?php echo get_site_logo();?>" alt="Logo" style="height:60px;width: 100%;">
                 </a>
             </h3>
             <?php 
@@ -38,11 +38,10 @@
             ?>
           </div>
 
-          <div class="col-md-7 col-sm-7">
+          <div class="col-md-10 col-sm-10 col-xs-9">
 
           <div class="menu">
-          <?php if(get_settings('global_settings','menu_type','Mega Menu')=='Normal'){ //added on version 1.5?>
-          <nav class="navbar">
+            <nav class="navbar">
             <div class="container-fluid">
               <!-- Brand and toggle get grouped for better mobile display -->
               <div class="navbar-header">
@@ -54,125 +53,76 @@
                 </button>                
               </div>
 
-              <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse" id="site-menu">
-                <ul class="nav navbar-nav">
-		                <?php
-                            $CI = get_instance();
-                            $CI->load->model('admin/page_model');
-                            $CI->page_model->init();
-                        ?>
-                        <?php 
-                            $alias = (isset($alias))?$alias:'';
-                            foreach ($CI->page_model->get_menu() as $li) 
-                            {
-                                if($li->parent==0)
-                                $CI->page_model->render_top_menu($li->id,0,$alias);
-                            }
-                        ?>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="site-menu">
+                      <ul class="nav navbar-nav">
+                            
+                                  <?php
+                                  $CI = get_instance();
+                                  $CI->load->model('show/post_model');
+                                  $parent_categories = $CI->post_model->get_all_parent_categories();
+                                  foreach ($parent_categories->result() as $category) {
+                                    $category_url = category_video_url($category->id,$category->title);
 
-                        <?php 
-                        if(get_settings('global_settings','show_cat_menu','Yes')=='Yes')
-                        {
-                        ?>
-                        <li class="has-sub dropdown">
-                            <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">
-                              <?php echo lang_key('categories');?><span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                            <?php
-                            $CI = get_instance();
-                            $CI->load->model('show/post_model');
-                            $parent_categories = $CI->post_model->get_all_parent_categories();
-                            foreach ($parent_categories->result() as $category) {
-                              $category_url = category_video_url($category->id,$category->title);
-                            ?>    
-                              <li class="dropdown-submenu">
-                  	            <?php
-					            $child_categories = $CI->post_model->get_all_child_categories($category->id,5);
-					            $total = $child_categories->num_rows();
-					            ?>
+                                    $child_categories = $CI->post_model->get_all_child_categories($category->id,5);
+                                    $total = $child_categories->num_rows();
 
-                                  <a href="<?php echo $category_url;?>"><?php echo $category->title;?>
-                                  		<?php if($total>0){?>
-                                  		<span class="caret-right"></span>
-                                  		<?php }?>
-                                  </a>
-	                       		<?php if($total>0){?>
-                                  <ul class="dropdown-menu submenu">
-							          <?php foreach ($child_categories->result() as $child) { 
-							          	 $sub_category_url = category_video_url($child->id,$child->title);
-							          ?>
-							          <li><a tabindex="-1" href="<?php echo $sub_category_url;?>"><?php echo $child->title;?></a></li>
-							          <?php }?>
-                            		<?php if($total>=5){?>
-							          <li><a class="see_all_sub_cat_menu" tabindex="-1" href="<?php echo site_url('show/allsubcat/'.$category->id);?>"><?php echo lang_key('view_all');?></a></li>
-							        <?php }?>
-							      </ul>
-							    <?php }?>      
-                              </li>
-                            <?php 
-                            }
-                            ?>
-                            </ul>
-                        </li>
-                        <?php
-                        }
-                        ?>
-                        <?php 
-                        if(get_settings('global_settings','show_source_menu','Yes')=='Yes')
-                        {
-                        ?>
-                        <li class="has-sub dropdown">
-                            <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">
-                              <?php echo lang_key('video_sources');?><span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                            <?php
-                            $CI = get_instance();
-                            $CI->load->model('admin/content_model');
-                            $sources = $CI->content_model->get_all_sources();
-                            foreach ($sources->result() as $source) {
-                              $source_video_url = source_video_url($source->id,$source->source_name);
-                            ?>    
-                              <li class=" -child">
-                                  <a href="<?php echo $source_video_url;?>"><?php echo $source->source_name;?></a>
-                              </li>
-                            <?php 
-                            }
-                            ?>
-                            </ul>
-                        </li>
-                        <?php
-                        }
-                        ?>                       
-                </ul>
-                
-              </div><!-- /.navbar-collapse -->
-            </div><!-- /.container-fluid -->
-          </nav>
-          <?php }else{?>
-          <?php require'mega-menu.php';?>
-          <?php }?>
-          <?php //require'marquee_view.php';?>
+                                    if($category->parent == 0){ ?>
 
-          <div class="header-separator">
-        </div>
-    </div>
+                                     <li>
+                                        <a href="<?php echo $category_url;?>">
+                                          <?php echo $category->title;?>
+                                          
+                                        </a>
+                                    </li>
 
 
-          </div>
+                                   <?php }else{ ?>
 
-          <div class="col-md-3 col-sm-3 panel-right ad-block-top">
-            <?php //render_widget('adsense_header'); ?>
-            <form  action="<?php echo site_url('show/search')?>" method="post">
-            <div class="input-group">
-                <input class="form-control" type="text" placeholder="<?php echo lang_key('type_anything');?>" value="<?php echo (isset($data['plainkey']))?rawurldecode($data['plainkey']):'';?>" name="plainkey">
+                                    <li class="has-sub dropdown">
+                                      <?php
+                                       
+                                        ?>
+                                          <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="<?php echo $category_url;?>">
+                                          <?php echo $category->title;?>
+                                            <?php if($total>0){?>
+                                              <span class="caret"></span>
+                                            <?php }?>
+                                        </a>
+                                      <?php if($total>0){?>
+                                          <ul class="dropdown-menu">
+                                              <?php foreach ($child_categories->result() as $child) { 
+                                                $sub_category_url = category_video_url($child->id,$child->title);
+                                              ?>
+                                              <li><a tabindex="-1" href="<?php echo $sub_category_url;?>"><?php echo $child->title;?></a></li>
+                                              <?php }?>
+                                                      <?php if($total>=5){?>
+                                              <li><a class="see_all_sub_cat_menu" tabindex="-1" href="<?php echo site_url('show/allsubcat/'.$category->id);?>"><?php echo lang_key('view_all');?></a></li>
+                                            <?php }?>
+                                          </ul>
+                                    <?php }?>      
+                                    </li>
 
 
-                <span class="input-group-btn">
-                    <button type="submit" class="btn btn-color"><?php echo lang_key('search');?></button>
-                </span>
-            </div>
-        </form>
+                                  <?php  }
+
+
+                                  ?>    
+
+                                  <?php 
+                                  }
+                                  ?>
+                          
+                        </ul> 
+                    </div><!-- /.navbar-collapse -->
+                  </div><!-- /.container-fluid -->
+                </nav>
+     
+                    <?php //require'marquee_view.php';?>
+
+                     <div class="header-separator">
+               </div>
+              </div>
           </div>
         </div>
       </div>

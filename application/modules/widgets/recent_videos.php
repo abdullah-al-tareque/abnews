@@ -10,7 +10,7 @@ $video_query = $CI->video_model->get_videos_by_source_category_subcategory($sour
 ?>
 <div class="s-widget">
     <!-- Heading -->
-    <h5><i class="fa fa-building color"></i>&nbsp; <?php echo lang_key('latest_videos');?></h5>
+    <h5><i class="fa fa-building color"></i>&nbsp; সর্বশেষ ভিডিও</h5>
     <!-- Widgets Content -->
     <div class="widget-content hot-properties">
         <?php if($video_query->num_rows()<=0){?>

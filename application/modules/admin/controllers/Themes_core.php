@@ -43,15 +43,10 @@ class Themes_core extends CI_Controller {
 
 	public function activate()
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-		}
-		else
-		{
+		
 			$this->themes_model->activate();
 			$this->session->set_flashdata('msg', '<div class="alert alert-success">'.lang_key_admin('theme_activated').'</div>');
-		}
+		
 		redirect(site_url('admin/themes'));
 	}
 	

@@ -278,7 +278,7 @@
 
 
 
-                    <div class="form-group">
+                    <div class="form-group hidden">
 
                         <label class="col-sm-3 col-lg-2 control-label"><?php echo lang_key_admin('about_me'); ?></label>
 

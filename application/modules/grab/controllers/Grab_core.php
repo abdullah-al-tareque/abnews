@@ -28,19 +28,14 @@ class Grab_core extends CI_controller {
 
 	public function init()
 	{
-		if(constant("ENVIRONMENT")=='demo' || if_possible_to_grab())
+		if(if_possible_to_grab())
 		$this->grab_model->init();
-
 	}
 
 
 	public function grabsingle($source_id='',$action='cron')
 	{
-		if(constant("ENVIRONMENT")=='demo')
-		{
-			$this->session->set_flashdata('msg', '<div class="alert alert-success">Data updated.[NOT AVAILABLE ON DEMO]</div>');
-			redirect(site_url('admin/content/allsources'));
-		}
+		
 		$this->grab_model->grabsingle($source_id,$action);
 	}
 
